@@ -1,14 +1,15 @@
-from bs4 import BeautifulSoup
+import csv
 import re
-import requests
 
+sett=set()
+with open('../kdramalist.csv',newline='', encoding='utf-8') as csv_file:
+    csv_reader = csv.reader(csv_file, delimiter=',')
+    for i in csv_reader:
+        part=i[7]
+        sett.add(part)
 
-
-url="https://www.imdb.com/title/tt10919420/plotsummary?ref_=tt_ov_pl"
-link=requests.get(url).content
-soup=BeautifulSoup(link,"html.parser",from_encoding="utf-8")
-u=soup.find('li',class_='ipl-zebra-list__item')
-print(u.get_text().strip())
+    for i in sett:
+        print(i)
 
 
 

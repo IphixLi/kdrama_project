@@ -9,6 +9,8 @@ aired_table=[]
 actors_table=[]
 genres_table=[]
 tags_table=[]
+networks_table=[]
+
 
 with open('kdramalist.csv',newline='', encoding='utf-8') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
@@ -16,9 +18,15 @@ with open('kdramalist.csv',newline='', encoding='utf-8') as csv_file:
 
         #genres
         genres_part=i[1].split(",")
-        genres_part=[re.sub('[^A-Za-z]','',g) for g in genres_part]
+        genres_part=[re.sub('[^A-Za-z ]','',g) for g in genres_part]
         namegen=[[i[0],j] for j in genres_part]
         genres_table+=namegen
+
+        #networks
+        networks_part=i[7].split(",")
+        networks_part=[re.sub('[^A-Za-z ]','',g) for g in networks_part]
+        net=[[i[0],j] for j in networks_part]
+        networks_table+=net
         
         #tags
         tags=i[2].split(",")
@@ -49,16 +57,19 @@ with open('kdramalist.csv',newline='', encoding='utf-8') as csv_file:
         #format start airing date for easy transformation
         start_airing='-'.join(i[5].replace(',',' ').split(' '))
         #removing redudancy attributes country and favorites
-        descr=[i[0],i[3],i[4],i[5],i[7],i[8],i[9],i[10],i[11],i[12],i[13],i[14]]
+        descr=[i[0],i[3],i[4],i[5],i[8],i[9],i[10],i[11],i[12],i[13],i[14]]
         main_descriptors_table.append(descr)
 
         #imdb
-        imdb_part=[i[0],i[17],i[18],i[19]]
+        imdb_rating=re.findall("\d+\.?\d*",i[17])
+        if len(imdb_rating)!=0:
+            imdb_part=[i[0],imdb_rating[0],i[18],i[19]]
+        else:
+            imdb_part=[i[0],i[17],i[18],i[19]]
         imdb_table.append(imdb_part)
         
-
     #defining headers for each table
-    cols_main=['Kdrama_name','Episodes','start airing','end airing', 'Original Network', 'Duration', 'score', 'scored by','Ranked',
+    cols_main=['Kdrama_name','Episodes','start airing','end airing', 'Duration', 'score', 'scored by','Ranked',
          'Popularity', 'Content Rating','Watchers']
     cols_imdb=['kdrama_name','imdb_rating','imdb_users','imdb_description']
     cols_aired=['kdrama_name','day']
@@ -66,6 +77,7 @@ with open('kdramalist.csv',newline='', encoding='utf-8') as csv_file:
     cols_actors=['kdrama_name','actor']
     cols_genre=['kdrama_name','genre']
     cols_tags=['kdrama_name','tags']
+    cols_networks=['kdrama_name','original_networks']
 
     #save to csv files
 
@@ -77,6 +89,9 @@ with open('kdramalist.csv',newline='', encoding='utf-8') as csv_file:
     df_imdb = pd.DataFrame(imdb_table[1:], columns=cols_imdb)
     df_imdb.to_csv("normalized_tables/imdb.csv", encoding='utf-8', index=False)
 
+    #original_networks
+    df_networks = pd.DataFrame(networks_table[1:], columns=cols_networks)
+    df_networks.to_csv("normalized_tables/networks.csv", encoding='utf-8', index=False)
     #aired
     df_aired = pd.DataFrame(aired_table[1:], columns=cols_aired)
     df_aired.to_csv("normalized_tables/aired_on.csv", encoding='utf-8', index=False)

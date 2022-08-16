@@ -31,11 +31,11 @@ Descendants of the Sun, iflix
 Descendants of the Sun, Apple TV
 Descendants of the Sun, Hulu
 Descendants of the Sun, Viki
-What's Wrong with Secretary Kim,Apple TV
+What's Wrong with Secretary Kim,WeTV
+What's Wrong with Secretary Kim, Apple TV
 What's Wrong with Secretary Kim, iflix
 What's Wrong with Secretary Kim, Hulu
 What's Wrong with Secretary Kim, Viki
-What's Wrong with Secretary Kim, WeTV
 The Silent Sea,Netflix
 Snowdrop,Disney Hotstar
 Snowdrop, Disney
@@ -43,10 +43,10 @@ Adamas,Disney
 Adamas, Disney Hotstar
 Hellbound,Netflix
 Tomorrow,Netflix
-Tomorrow,WeTV
-Tomorrow, Netflix
-Tomorrow, KDRAMA
+Tomorrow,KDRAMA
 Tomorrow, Viki
+Tomorrow, WeTV
+Tomorrow, Netflix
 Backstreet Rookie,Viki
 Backstreet Rookie, Netflix
 Mr. Sunshine,Netflix
@@ -62,20 +62,20 @@ Our Beloved Summer,Wavve
 Our Beloved Summer, Netflix
 Stranger,Disney Hotstar
 Stranger, Netflix
-Doom at Your Service,Prime Video
+Doom at Your Service,TVING
+Doom at Your Service, Prime Video
 Doom at Your Service, Viki
-Doom at Your Service, TVING
 Hotel Del Luna,WeTV
 Hotel Del Luna, Netflix
 Hotel Del Luna, KDRAMA
 Hotel Del Luna, Apple TV
 Hotel Del Luna, Viki
 Strong Girl Bong-soon,Disney Hotstar
+Strong Girl Bong-soon, WeTV
 Strong Girl Bong-soon, Apple TV
 Strong Girl Bong-soon, iflix
 Strong Girl Bong-soon, Prime Video
 Strong Girl Bong-soon, Viki
-Strong Girl Bong-soon, WeTV
 Happiness,WeTV
 Happiness, Netflix
 Happiness, TVING
@@ -108,14 +108,14 @@ Reply 1988, Netflix
 Reply 1988, Apple TV
 Reply 1988, Viki
 Hospital Playlist,Netflix
-Boys Over Flowers,WeTV
-Boys Over Flowers, Netflix
-Boys Over Flowers, Apple TV
+Boys Over Flowers,Apple TV
 Boys Over Flowers, Tubi
 Boys Over Flowers, AsianCrush
 Boys Over Flowers, iflix
 Boys Over Flowers, Hulu
 Boys Over Flowers, Viki
+Boys Over Flowers, WeTV
+Boys Over Flowers, Netflix
 My Mister,WeTV
 My Mister, Netflix
 My Mister, KDRAMA
@@ -145,19 +145,19 @@ My Liberation Diary,TVING
 My Liberation Diary, Netflix
 The Sound of Magic,Netflix
 Something in the Rain,Netflix
-My Roommate Is a Gumiho,Viki
-My Roommate Is a Gumiho, Netflix
-My Roommate Is a Gumiho, Apple TV
+My Roommate Is a Gumiho,Apple TV
 My Roommate Is a Gumiho, TVING
+My Roommate Is a Gumiho, Viki
+My Roommate Is a Gumiho, Netflix
 My Love from Another Star,Viki
 My Love from Another Star, Apple TV
 Star's Lover,Viki
 Star's Lover, Apple TV
-Healer,Apple TV
+Healer,Viki
+Healer, Apple TV
 Healer, Prime Video
-Healer, Viki
-Shooting Stars,TVING
-Shooting Stars, Viki
+Shooting Stars,Viki
+Shooting Stars, TVING
 Juvenile Justice,Netflix
 Extracurricular,Netflix
 D.P.,Netflix
@@ -178,25 +178,25 @@ The Tale of Nokdu, Apple TV
 The Tale of Nokdu, iflix
 The Tale of Nokdu, Viki
 Romance Is a Bonus Book,Netflix
-Signal,Viki
-Signal, WeTV
+Signal,WeTV
 Signal, Netflix
+Signal, Viki
 Prison Playbook,Disney Hotstar
-Prison Playbook, KDRAMA
 Prison Playbook, Netflix
+Prison Playbook, KDRAMA
 Yumi's Cells,TVING
 Yumi's Cells, Viki
-Ghost Doctor,Viki
+Ghost Doctor,TVING
+Ghost Doctor, Viki
 Ghost Doctor, Netflix
-Ghost Doctor, TVING
 Doctor Lawyer,Disney Hotstar
 Good Doctor,Viki
 Beauty Inside,Disney Hotstar
-Beauty Inside, Apple TV
 Beauty Inside, iflix
 Beauty Inside, Viki
 Beauty Inside, WeTV
 Beauty Inside, Netflix
+Beauty Inside, Apple TV
 Oh My Venus,WeTV
 Oh My Venus, Apple TV
 Oh My Venus, iflix
@@ -216,33 +216,33 @@ Her Private Life, Apple TV
 Her Private Life, Prime Video
 Her Private Life, Viki
 SKY Castle,Disney Hotstar
+SKY Castle, Viki
 SKY Castle, WeTV
 SKY Castle, Netflix
-SKY Castle, Viki
-Do You Like Brahms?,Viki
+Do You Like Brahms?,SBS World
+Do You Like Brahms?, Viki
 Do You Like Brahms?, Netflix
-Do You Like Brahms?, SBS World
-Suspicious Partner,Apple TV
+Suspicious Partner,WeTV
+Suspicious Partner, Apple TV
 Suspicious Partner, Viki
-Suspicious Partner, WeTV
 The World of the Married,Disney Hotstar
 The World of the Married, iflix
-Pinocchio,WeTV
-Pinocchio, Apple TV
+Pinocchio,Apple TV
 Pinocchio, Viki
+Pinocchio, WeTV
 The Devil Judge,WeTV
 The Devil Judge, Netflix
 The Devil Judge, TVING
 The Devil Judge, Viki
-A Korean Odyssey,Apple TV
-A Korean Odyssey, Viki
+A Korean Odyssey,Viki
 A Korean Odyssey, Netflix
+A Korean Odyssey, Apple TV
 Bulgasal,TVING
 Bulgasal, Netflix
 Record of Youth,Netflix
-The Iron Empress,Prime Video
-The Iron Empress, Hulu
+The Iron Empress,Hulu
 The Iron Empress, Viki
+The Iron Empress, Prime Video
 Black,KDRAMA
 Black, Netflix
 Love Alarm,Netflix
@@ -260,18 +260,18 @@ One Ordinary Day,
 Bad and Crazy,TVING
 The Good Detective,Disney Hotstar
 The Good Detective, Netflix
-The Fiery Priest,Viki
-The Fiery Priest, Apple TV
+The Fiery Priest,Apple TV
+The Fiery Priest, Viki
 Clean with Passion for Now,WeTV
 Clean with Passion for Now, Netflix
 Clean with Passion for Now, Apple TV
 Clean with Passion for Now, iflix
 Clean with Passion for Now, Viki
 Dr. Brain,Apple TV
-Voice,KDRAMA
-Voice, Prime Video
-Voice, Viki
+Voice,Viki
 Voice, Netflix
+Voice, KDRAMA
+Voice, Prime Video
 Alhambeura Goongjeonui Chooeok,Netflix
 "Poong, the Joseon Psychiatrist",Viki
 Stove League,Viki
@@ -301,34 +301,34 @@ Melting Me Softly,KDRAMA
 Melting Me Softly, Apple TV
 Melting Me Softly, Viki
 Love All Play,Disney Hotstar
-Uncontrollably Fond,Hulu
-Uncontrollably Fond, Viki
-Uncontrollably Fond, WeTV
+Uncontrollably Fond,WeTV
 Uncontrollably Fond, Netflix
+Uncontrollably Fond, Hulu
+Uncontrollably Fond, Viki
 One Spring Night,Netflix
-100 Days My Prince,KDRAMA
+100 Days My Prince,WeTV
+100 Days My Prince, Netflix
+100 Days My Prince, KDRAMA
 100 Days My Prince, Apple TV
 100 Days My Prince, Viki
-100 Days My Prince, WeTV
-100 Days My Prince, Netflix
 Kiss Sixth Sense,Disney Hotstar
 Again My Life,Viki
 Dream High,Viki
 Dream High, Netflix
-The Bride of Habaek,KDRAMA
+The Bride of Habaek,WeTV
+The Bride of Habaek, Netflix
+The Bride of Habaek, KDRAMA
 The Bride of Habaek, Apple TV
 The Bride of Habaek, Viki
-The Bride of Habaek, WeTV
-The Bride of Habaek, Netflix
 Jingkeuseuui Yeonin,Viki
 She Was Pretty,WeTV
 She Was Pretty, Apple TV
 She Was Pretty, Viki
 Law School,Netflix
-"Kill Me, Heal Me",Apple TV
+"Kill Me, Heal Me",WeTV
+"Kill Me, Heal Me", Apple TV
 "Kill Me, Heal Me", China Huace TV
 "Kill Me, Heal Me", Viki
-"Kill Me, Heal Me", WeTV
 Aelliseu,Viki
 Aelliseu, SBS World
 When the Weather is Fine,Disney Hotstar
@@ -337,52 +337,52 @@ When the Weather is Fine, WeTV
 When the Weather is Fine, iflix
 When the Weather is Fine, Hulu
 City Hunter,Apple TV
-Haereul poomeun dal,Apple TV
+Haereul poomeun dal,WeTV
+Haereul poomeun dal, Apple TV
 Haereul poomeun dal, iflix
 Haereul poomeun dal, Viki
-Haereul poomeun dal, WeTV
-The Crowned Clown,KDRAMA
-The Crowned Clown, Viki
-The Crowned Clown, WeTV
+The Crowned Clown,WeTV
 The Crowned Clown, Netflix
+The Crowned Clown, KDRAMA
+The Crowned Clown, Viki
 Military Prosecutor Do Bae Man,Netflix
 Military Prosecutor Do Bae Man, Viki
-Oh My Ghost,WeTV
+Oh My Ghost,Prime Video
+Oh My Ghost, Viki
+Oh My Ghost, WeTV
 Oh My Ghost, Netflix
 Oh My Ghost, KDRAMA
 Oh My Ghost, AsianCrush
-Oh My Ghost, Prime Video
-Oh My Ghost, Viki
 Save Me,KDRAMA
 Live Up to Your Name,KDRAMA
 Live Up to Your Name, Netflix
-My Unfamiliar Family,Apple TV
-My Unfamiliar Family, Viki
+My Unfamiliar Family,Viki
 My Unfamiliar Family, Netflix
+My Unfamiliar Family, Apple TV
 Keuleiji Leobeu,Disney Hotstar
 Keuleiji Leobeu, Disney
-The Innocent Man,Viki
-The Innocent Man, WeTV
+The Innocent Man,WeTV
 The Innocent Man, Netflix
-Encounter,Hulu
-Encounter, Apple TV
-Encounter, Viki
+The Innocent Man, Viki
+Encounter,Viki
 Encounter, Netflix
+Encounter, Hulu
+Encounter, Apple TV
 Kairos,Apple TV
 Kairos, Viki
 "Bring It On, Ghost",WeTV
 "Bring It On, Ghost", Viki
 "Bring It On, Ghost", KDRAMA
-Tunnel,KDRAMA
+Tunnel,WeTV
+Tunnel, KDRAMA
 Tunnel, Viki
-Tunnel, WeTV
 The Veil,Prime Video
 The Veil, Viki
 Private Lives,Netflix
 My Golden Life,Viki
 My Golden Life, Apple TV
-The 1st Shop of Coffee Prince,Apple TV
-The 1st Shop of Coffee Prince, Viki
+The 1st Shop of Coffee Prince,Viki
+The 1st Shop of Coffee Prince, Apple TV
 Bridal Mask,Viki
 "Father, I'll Take Care of You",
 A Love So Beautiful,Kakao TV
@@ -397,47 +397,47 @@ School 2017, Apple TV
 Doctor John,Apple TV
 Doctor John, Viki
 More Than Friends,Disney Hotstar
-More Than Friends, WeTV
-More Than Friends, Netflix
 More Than Friends, Hulu
 More Than Friends, Viki
+More Than Friends, WeTV
+More Than Friends, Netflix
 Designated Survivor: 60 Days,Netflix
 Bad Guys,
-Yeopgijeogin Geunyeo,SBS World
-Yeopgijeogin Geunyeo, Viki
+Yeopgijeogin Geunyeo,Viki
 Yeopgijeogin Geunyeo, Netflix
+Yeopgijeogin Geunyeo, SBS World
 When the Camellia Blooms,Netflix
-My Strange Hero,Viki
-My Strange Hero, Apple TV
+My Strange Hero,Apple TV
+My Strange Hero, Viki
 Misty,Disney Hotstar
 Misty, Viki
 Misty, Netflix
 Mom,Netflix
-Naesungjukin Boseu,WeTV
+Naesungjukin Boseu,KDRAMA
+Naesungjukin Boseu, WeTV
 Naesungjukin Boseu, Netflix
-Naesungjukin Boseu, KDRAMA
-Find Me in Your Memory,Viki
+Find Me in Your Memory,Apple TV
+Find Me in Your Memory, Viki
 Find Me in Your Memory, Netflix
-Find Me in Your Memory, Apple TV
 Adult Trainee,TVING
 Bloody Heart,Disney Hotstar
 Bloody Heart, Disney
-Cheese in the Trap,KDRAMA
+Cheese in the Trap,WeTV
+Cheese in the Trap, KDRAMA
 Cheese in the Trap, Apple TV
 Cheese in the Trap, Viki
-Cheese in the Trap, WeTV
 Familiar Wife,KDRAMA
 Familiar Wife, Viki
 Familiar Wife, WeTV
 Familiar Wife, Netflix
-High Society,SBS World
+High Society,SBS VOD
+High Society, SBS World
 High Society, Viki
-High Society, SBS VOD
 Shine or Go Crazy,Viki
 Racket Boys,Netflix
 "Now, We Are Breaking Up",Viki
-Investigation Partners,Viki
-Investigation Partners, Apple TV
+Investigation Partners,Apple TV
+Investigation Partners, Viki
 A Wonderful Sight,Netflix
 Nothing to Lose,Viki
 Nothing to Lose, Netflix
@@ -485,25 +485,25 @@ Chocolate,Netflix
 The School Nurse Files,Netflix
 Memorist,Viki
 Memorist, WeTV
-Misaeng,Viki
-Misaeng, WeTV
+Misaeng,WeTV
 Misaeng, Netflix
+Misaeng, Viki
 Love with Flaws,Apple TV
 Love with Flaws, Viki
 You Are My Spring,TVING
 You Are My Spring, Netflix
-Doctor Stranger,WeTV
+Doctor Stranger,SBS World
+Doctor Stranger, Viki
+Doctor Stranger, WeTV
 Doctor Stranger, Netflix
 Doctor Stranger, Apple TV
-Doctor Stranger, SBS World
-Doctor Stranger, Viki
 He is Psychometric,Viki
 He is Psychometric, WeTV
 He is Psychometric, KDRAMA
 He is Psychometric, Apple TV
 "From Now On, Showtime!",Viki
-Father Is Strange,Viki
-Father Is Strange, Apple TV
+Father Is Strange,Apple TV
+Father Is Strange, Viki
 Train,Viki
 The Cursed,WeTV
 The Cursed, Netflix
@@ -513,12 +513,12 @@ To the Beautiful You,Viki
 Nobody Knows,Viki
 Heartless City,Viki
 Undercover,
-Peurodyusa,WeTV
-Peurodyusa, Viki
+Peurodyusa,Viki
+Peurodyusa, WeTV
 Kill It,Viki
 Kill It, WeTV
-Mad Dog,Apple TV
-Mad Dog, Viki
+Mad Dog,Viki
+Mad Dog, Apple TV
 Man to Man,Netflix
 High Kick!,
 Color Rush,Apple TV
@@ -526,8 +526,8 @@ Color Rush, Viki
 VIP,Viki
 VIP, Netflix
 VIP, SBS World
-Seven Day Queen,Apple TV
-Seven Day Queen, Viki
+Seven Day Queen,Viki
+Seven Day Queen, Apple TV
 Birth of a Beauty,Viki
 Birth of a Beauty, Netflix
 Birth of a Beauty, SBS World
@@ -535,24 +535,24 @@ Imitation,Viki
 Imitation, Netflix
 Welcome to Wedding Hell,Netflix
 School 2021,Viki
-Once Again,Apple TV
-Once Again, Viki
+Once Again,Viki
+Once Again, Apple TV
 Dear X Who Doesn't Love Me,Viki
 The Light in Your Eyes,Disney Hotstar
-The Light in Your Eyes, Viki
 The Light in Your Eyes, Hulu
+The Light in Your Eyes, Viki
 Watcher,Disney Hotstar
 Watcher, Viki
 Live,KDRAMA
 Live, Netflix
-The King 2 Hearts,Viki
-The King 2 Hearts, Prime Video
+The King 2 Hearts,Prime Video
+The King 2 Hearts, Viki
 Life on Mars,KDRAMA
 Lost,
 "Hello, Me!",Netflix
-My Absolute Boyfriend,Viki
-My Absolute Boyfriend, Apple TV
+My Absolute Boyfriend,Apple TV
 My Absolute Boyfriend, Hulu
+My Absolute Boyfriend, Viki
 Oh My Baby,WeTV
 Oh My Baby, Netflix
 Oh My Baby, KDRAMA
@@ -588,9 +588,9 @@ Rooftop Prince, SBS World
 Rooftop Prince, Viki
 Top Management,
 The Scholar Who Walks the Night,Viki
-A Piece of Your Mind,Viki
+A Piece of Your Mind,Apple TV
+A Piece of Your Mind, Viki
 A Piece of Your Mind, WeTV
-A Piece of Your Mind, Apple TV
 Chimera,TVING
 Chimera, Viki
 Hometown,WeTV
@@ -605,9 +605,9 @@ Blood, Netflix
 Blood, KBS World
 Modooui Geojitmal,Netflix
 Criminal Minds,
-Only One Person,TVING
-Only One Person, Viki
+Only One Person,Viki
 Only One Person, Netflix
+Only One Person, TVING
 Black Knight,Netflix
 Black Knight,Viki
 Black Knight, Netflix
@@ -627,12 +627,12 @@ Emergency Couple,Apple TV
 Emergency Couple, Viki
 Emergency Couple, KDRAMA
 Hyena,
-Don't Dare to Dream,Viki
+Don't Dare to Dream,SBS VOD
+Don't Dare to Dream, Viki
 Don't Dare to Dream, Netflix
-Don't Dare to Dream, SBS VOD
-Reunited Worlds,Viki
+Reunited Worlds,SBS World
+Reunited Worlds, Viki
 Reunited Worlds, Netflix
-Reunited Worlds, SBS World
 Something About 1%,Viki
 Something About 1%,Viki
 Hotel King,
@@ -642,10 +642,10 @@ Shopping King Louie,Viki
 "I'm Sorry, I Love You", Viki
 Angel Eyes,SBS World
 Angel Eyes, Viki
-Chicago Typewriter,KDRAMA
-Chicago Typewriter, Apple TV
-Chicago Typewriter, Viki
+Chicago Typewriter,Viki
 Chicago Typewriter, WeTV
+Chicago Typewriter, KDRAMA
+Chicago Typewriter, Apple TV
 Psychopath Diary,Viki
 Money Flower,Viki
 The Girl Who Sees Smells,Viki
@@ -692,21 +692,21 @@ The Chaser,Viki
 Dark Hole,Viki
 Dark Hole, WeTV
 EXO Next Door,LINE TV
-You're All Surrounded,Apple TV
+You're All Surrounded,Viki
+You're All Surrounded, Apple TV
 You're All Surrounded, SBS World
-You're All Surrounded, Viki
 Return,Netflix
 The King Loves,Apple TV
 The King Loves, Viki
 The Killer's Shopping List,TVING
 The Killer's Shopping List, Viki
 The Princess' Man,Viki
-Ms. Hammurabi,Viki
-Ms. Hammurabi, WeTV
-Temperature of Love,Viki
-Temperature of Love, Netflix
-Temperature of Love, Apple TV
+Ms. Hammurabi,WeTV
+Ms. Hammurabi, Viki
+Temperature of Love,Apple TV
 Temperature of Love, SBS World
+Temperature of Love, Viki
+Temperature of Love, Netflix
 High School King of Savvy,Apple TV
 High School King of Savvy, Viki
 Touch,Viki
@@ -718,9 +718,9 @@ Never twice,Viki
 When I Was the Most Beautiful,Viki
 When the Devil Calls Your Name,KDRAMA
 When the Devil Calls Your Name, Viki
-"Marriage, Not Dating",KDRAMA
-"Marriage, Not Dating", Viki
+"Marriage, Not Dating",Viki
 "Marriage, Not Dating", WeTV
+"Marriage, Not Dating", KDRAMA
 Miss Korea,Viki
 Radio Romance,Viki
 The Package,Disney Hotstar
@@ -735,13 +735,13 @@ High Class,TVING
 High Class, WeTV
 Two Cops,Viki
 Two Cops, Apple TV
-Wok of Love,Viki
-Wok of Love, Apple TV
+Wok of Love,Apple TV
+Wok of Love, Viki
 Warm and Cozy,Viki
 Warm and Cozy, Netflix
-My Only One,KBS World
-My Only One, Viki
+My Only One,Viki
 My Only One, Netflix
+My Only One, KBS World
 The Man Living in Our House,Viki
 The Man Living in Our House,Viki
 L.U.C.A.: The Beginning,Viki
@@ -753,8 +753,8 @@ One the Woman,Prime Video
 One the Woman, Viki
 Tomorrow's Cantabile,
 Soul Mechanic,Viki
-Protect the Boss,Apple TV
-Protect the Boss, Viki
+Protect the Boss,Viki
+Protect the Boss, Apple TV
 Let Me Be Your Knight,Viki
 Excellent Shaman Ga Doo Shim,Kakao TV
 Excellent Shaman Ga Doo Shim, Viki
@@ -782,13 +782,13 @@ My Fellow Citizens, Netflix
 My Fellow Citizens, Apple TV
 The Good Wife,
 Let's Eat,Netflix
-Rich Man,Hulu
+Rich Man,Apple TV
+Rich Man, Hulu
 Rich Man, Viki
-Rich Man, Apple TV
 The Greatest Love,Viki
-Sabotage City,Viki
+Sabotage City,TVING
+Sabotage City, Viki
 Sabotage City, Netflix
-Sabotage City, TVING
 The King's Face,Viki
 Lie to Me,Viki
 Lie to Me, Netflix
@@ -808,9 +808,9 @@ Room No. 9,KDRAMA
 The Greatest Divorce,Viki
 The Suspicious Housekeeper,SBS World
 The Suspicious Housekeeper, Viki
-Please Don't Date Him,Apple TV
-Please Don't Date Him, Viki
+Please Don't Date Him,Viki
 Please Don't Date Him, WeTV
+Please Don't Date Him, Apple TV
 My Daughter Seo Young,KBS World
 My Daughter Seo Young, Viki
 My Fair Lady,
@@ -857,9 +857,9 @@ Sketch,Apple TV
 Sketch, Viki
 "The King of Tears, Lee Bang-won",Prime Video
 "The King of Tears, Lee Bang-won", Viki
-Five Children,KBS World
-Five Children, Prime Video
+Five Children,Prime Video
 Five Children, Viki
+Five Children, KBS World
 Temptation of Wife,
 Geunyeoneun Geojitmaleul Neomoo Saranghae,KDRAMA
 Geunyeoneun Geojitmaleul Neomoo Saranghae, Viki
@@ -869,14 +869,14 @@ Padam Padam,Viki
 The Emperor: Owner of the Mask,
 Lucky Romance,Viki
 Lucky Romance, Apple TV
-You Are My Destiny,Viki
-You Are My Destiny, Apple TV
+You Are My Destiny,Apple TV
+You Are My Destiny, Viki
 Entertainer,SBS World
 Entertainer, Viki
 Choco Bank,Viki
-The Third Charm,iflix
-The Third Charm, WeTV
+The Third Charm,WeTV
 The Third Charm, Netflix
+The Third Charm, iflix
 Lookout,Viki
 Lookout, Netflix
 Fates and Furies,Viki
@@ -909,9 +909,9 @@ Second 20s,Netflix
 My Secret Hotel,Viki
 Whisper,Viki
 Goodbye to Goodbye,Viki
-Discovery of Love,KBS Drama Classic
+Discovery of Love,Viki
+Discovery of Love, KBS Drama Classic
 Discovery of Love, KBS World
-Discovery of Love, Viki
 May Queen,Viki
 Your Honor,SBS World
 Your Honor, Viki
@@ -955,9 +955,9 @@ Fashion King,SBS World
 Fashion King, Viki
 The Wind Blows,Viki
 The Wind Blows, Netflix
-My Lovely Girl,SBS World
+My Lovely Girl,Apple TV
+My Lovely Girl, SBS World
 My Lovely Girl, Viki
-My Lovely Girl, Apple TV
 Lovely Horribly,Viki
 Immortal Yi Soon-shin,
 The King and I,
@@ -1012,8 +1012,8 @@ Hur Jun,
 Punch,SBS World
 Punch, Viki
 Standby,
-Mom,Viki
-Mom, KBS World
+Mom,KBS World
+Mom, Viki
 Jeong Do-jeon,
 Chakhanmanyeojeon,Viki
 Babel,Viki
@@ -1044,9 +1044,9 @@ Happy Together,
 Endless Love,Viki
 Splendid Politics,Viki
 Ms. Perfect,Viki
-Risky Romance,Prime Video
+Risky Romance,AsianCrush
+Risky Romance, Prime Video
 Risky Romance, Viki
-Risky Romance, AsianCrush
 Secrets and Lies,
 Hundred Year Inheritance,Viki
 Bravo My Life,KBS World
@@ -1062,9 +1062,9 @@ The Blade and Petal,
 Not Yet Thirty,Kakao TV
 Not Yet Thirty, Viki
 Monstar,KDRAMA
-Let Me Introduce Her,SBS World
+Let Me Introduce Her,Apple TV
+Let Me Introduce Her, SBS World
 Let Me Introduce Her, Viki
-Let Me Introduce Her, Apple TV
 My Little Baby,Prime Video
 My Little Baby, Netflix
 Hide and Seek,Apple TV

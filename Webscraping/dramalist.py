@@ -53,10 +53,16 @@ def get_dramalist(dramalist):
                                 descr[temp[0]]=temp[1].strip()
                             elif temp[0].strip()=='Country' and temp[1].strip()!='South Korea':
                                 continue
-                            elif temp[0].strip() in ['Episodes','Original Network','Content Rating','Watchers','actors']:
+                            elif temp[0].strip() in ['Episodes','Content Rating','Watchers','actors']:
                                 descr[temp[0]]=temp[1].strip()
                             elif temp[0].strip()=='Also Known As':
                                 other_names[movie]=[i.strip().lower() for i in temp[1].split(", ")]
+                            elif temp[0].strip()=='Original Network':
+                                names=i.findAll('a')
+                                networks=[]
+                                for j in names:
+                                    networks.append(j.get_text().strip())
+                                descr[temp[0]]=networks
                             elif temp[0].strip()=='Aired':
                                 split=temp[1].split(" -")
                                 if len(split)==2:
@@ -113,10 +119,8 @@ def get_dramalist(dramalist):
 
 if __name__=="__main__":
     
-    test=['The Greatest Marriage',"It's Okay to Not Be Okay"]
+    test=['Live On','The Greatest Marriage',"It's Okay to Not Be Okay"]
     a=get_dramalist(test)[0].items()
-    for i in a:
-        print(i)
 
 
 
