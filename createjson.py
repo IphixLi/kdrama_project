@@ -1,22 +1,23 @@
 import csv
 import re
 import json
-import pprint
+
 
 data={}
 with open('data/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     next(csv_reader)
+    j=1
     for i in csv_reader:
             values={}
-
+            values['drama_name']=i[17]
             #genres
-            genres_part=i[1].split(",")
+            genres_part=i[0].split(",")
             genres_part=[re.sub('[^A-Za-z ]','',g) for g in genres_part]
             values['genre']=genres_part
 
             #tags
-            tags=i[2].split(",")
+            tags=i[1].split(",")
             tags=[re.sub('[^A-Za-z ]','',t) for t in tags]
             values['tags']=tags
 
@@ -49,7 +50,6 @@ with open('data/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
             values['popularity']=i[12]
             values['content_rating']=i[13]
             values['watchers']=i[14]
-
             #actors
             actors=i[15].split(",")
             actors=[re.sub('[^A-Za-z ]','',a) for a in actors]
@@ -60,10 +60,11 @@ with open('data/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
             platforms=[re.sub('[^A-Za-z ]','',a) for a in platforms]
             values['platforms']=platforms
 
-            values['imdb_rating']=i[17]
-            values['imdb_users']=i[18]
-            values['imdb_description']=i[19]
-            data[i[0]]=values
+            values['imdb_rating']=i[18]
+            values['imdb_users']=i[19]
+            values['imdb_description']=i[20]
+            data[str(j)]=values
+            j+=1
     print(len(data))
     csv_file.close() 
 jsonfile = open("data/jsonfile.json", "w")
