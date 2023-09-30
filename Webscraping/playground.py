@@ -1,23 +1,13 @@
 import csv
 import re
+import pandas as pd
 
-sett=set()
-with open('../kdramalist.csv',newline='', encoding='utf-8') as csv_file:
+dramalist=set()
+with open('./kdramalist.csv',newline='', encoding='utf-8') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     for i in csv_reader:
-        part=i[7]
-        sett.add(part)
-
-    for i in sett:
-        print(i)
-
-
-
-
-
-
-
-
+        if 
+        dramalist.append(i)
 
 
 

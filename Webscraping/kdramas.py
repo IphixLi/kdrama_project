@@ -26,5 +26,5 @@ def get_wikilinks():
 if __name__=="__main__":
     a=get_wikilinks()
     for i in a.items():
-        print(i)
+        print(i[0])
 

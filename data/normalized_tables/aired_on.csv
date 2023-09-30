@@ -1,0 +1,3222 @@
+kdrama_name,day
+"['historical', 'comedy', 'romance', 'drama']",tuesday
+"['historical', 'comedy', 'romance', 'drama']", monday
+"['comedy', 'romance', 'life']",wednesday
+"['comedy', 'romance', 'life']", thursday
+"['food', 'romance', 'drama']",saturday
+"['food', 'romance', 'drama']", sunday
+"['romance', 'life', 'drama', 'fantasy']",monday
+"['romance', 'life', 'drama', 'fantasy']", tuesday
+"['romance', 'youth']",NA
+"['thriller', 'mystery', 'drama', 'fantasy']",monday
+"['thriller', 'mystery', 'drama', 'fantasy']", tuesday
+"['food', 'romance', 'drama', 'family']",saturday
+"['food', 'romance', 'drama', 'family']", sunday
+"['military', 'historical', 'life', 'drama', 'political']",saturday
+"['military', 'historical', 'life', 'drama', 'political']", sunday
+"['action', 'comedy', 'romance', 'crime']",wednesday
+"['action', 'comedy', 'romance', 'crime']", thursday
+"['mystery', 'psychological', 'romance', 'medical']",monday
+"['mystery', 'psychological', 'romance', 'medical']", tuesday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['comedy', 'romance', 'family', 'melodrama']",monday
+"['comedy', 'romance', 'family', 'melodrama']", tuesday
+"['comedy', 'romance', 'family', 'melodrama']", wednesday
+"['comedy', 'romance', 'family', 'melodrama']", thursday
+"['comedy', 'romance', 'family', 'melodrama']", friday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['mystery', 'romance', 'supernatural']",wednesday
+"['mystery', 'romance', 'supernatural']", thursday
+"['comedy', 'romance', 'fantasy', 'supernatural']",NA
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['romance', 'drama', 'family']",saturday
+"['romance', 'drama', 'family']", sunday
+"['horror', 'comedy', 'romance', 'fantasy']",saturday
+"['horror', 'comedy', 'romance', 'fantasy']", sunday
+"['romance', 'drama', 'family']",saturday
+"['romance', 'drama', 'family']", sunday
+"['comedy', 'romance', 'life', 'youth']",monday
+"['comedy', 'romance', 'life', 'youth']", thursday
+"['comedy', 'romance', 'life', 'youth']", saturday
+"['thriller', 'mystery', 'crime', 'drama']",friday
+"['business', 'law', 'drama']",wednesday
+"['business', 'law', 'drama']", thursday
+"['romance', 'life', 'drama', 'melodrama']",monday
+"['romance', 'life', 'drama', 'melodrama']", tuesday
+"['business', 'romance', 'drama', 'melodrama']",monday
+"['business', 'romance', 'drama', 'melodrama']", tuesday
+"['business', 'romance', 'drama', 'melodrama']", wednesday
+"['business', 'romance', 'drama', 'melodrama']", thursday
+"['business', 'romance', 'drama', 'melodrama']", friday
+"['romance', 'life', 'family', 'melodrama']",saturday
+"['romance', 'life', 'drama', 'medical']",monday
+"['romance', 'life', 'drama', 'medical']", tuesday
+"['psychological', 'romance', 'youth', 'drama']",tuesday
+"['psychological', 'romance', 'youth', 'drama']", wednesday
+"['thriller', 'mystery', 'psychological', 'drama']",sunday
+"['romance', 'drama', 'family']",monday
+"['romance', 'drama', 'family']", tuesday
+"['romance', 'drama', 'family']", wednesday
+"['romance', 'drama', 'family']", thursday
+"['romance', 'drama', 'family']", friday
+"['romance', 'melodrama']",monday
+"['romance', 'melodrama']", tuesday
+"['romance', 'drama', 'family']",saturday
+"['romance', 'drama', 'family']", sunday
+"['thriller', 'mystery', 'romance', 'fantasy']",friday
+"['business', 'comedy', 'romance']",monday
+"['business', 'comedy', 'romance']", tuesday
+"['comedy', 'romance', 'life', 'youth']",wednesday
+"['comedy', 'romance', 'life', 'youth']", sunday
+"['comedy', 'romance', 'youth', 'drama']",thursday
+"['comedy', 'romance', 'youth', 'drama']", sunday
+"['music', 'romance', 'fantasy', 'melodrama']",monday
+"['music', 'romance', 'fantasy', 'melodrama']", tuesday
+"['mystery', 'comedy', 'romance', 'fantasy']",monday
+"['mystery', 'comedy', 'romance', 'fantasy']", tuesday
+"['business', 'comedy', 'romance', 'drama']",monday
+"['business', 'comedy', 'romance', 'drama']", tuesday
+"['thriller', 'mystery', 'drama']",wednesday
+"['thriller', 'mystery', 'drama']", thursday
+"['comedy', 'romance', 'youth']",friday
+['romance'],monday
+['romance'], friday
+"['action', 'thriller', 'mystery', 'supernatural']",NA
+"['mystery', 'law', 'drama', 'fantasy']",friday
+"['mystery', 'law', 'drama', 'fantasy']", saturday
+"['military', 'historical', 'drama', 'political']",saturday
+"['military', 'historical', 'drama', 'political']", sunday
+"['business', 'life', 'drama']",saturday
+"['business', 'life', 'drama']", sunday
+"['action', 'romance', 'drama']",saturday
+"['action', 'romance', 'drama']", sunday
+"['action', 'historical', 'romance', 'fantasy']",saturday
+"['action', 'historical', 'romance', 'fantasy']", sunday
+"['mystery', 'sci-fi', 'fantasy', 'melodrama']",friday
+"['mystery', 'sci-fi', 'fantasy', 'melodrama']", saturday
+"['comedy', 'romance', 'political']",wednesday
+"['comedy', 'romance', 'political']", thursday
+"['romance', 'drama', 'family', 'melodrama']",saturday
+"['romance', 'drama', 'family', 'melodrama']", sunday
+"['comedy', 'romance', 'political']",wednesday
+"['comedy', 'romance', 'political']", thursday
+"['romance', 'crime', 'drama', 'melodrama']",wednesday
+"['romance', 'crime', 'drama', 'melodrama']", thursday
+['romance'],monday
+['romance'], tuesday
+"['action', 'thriller', 'horror', 'sci-fi']",friday
+"['romance', 'youth']",friday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['adventure', 'life', 'fantasy', 'melodrama']",tuesday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama']", wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama']", friday
+"['comedy', 'romance', 'youth', 'melodrama']",sunday
+"['historical', 'mystery']",thursday
+"['romance', 'medical', 'melodrama']",saturday
+"['romance', 'medical', 'melodrama']", sunday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama']", wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama']", friday
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['comedy', 'drama', 'melodrama']",wednesday
+"['comedy', 'drama', 'melodrama']", thursday
+"['thriller', 'drama']",friday
+"['comedy', 'romance', 'melodrama', 'supernatural']",monday
+"['comedy', 'romance', 'melodrama', 'supernatural']", tuesday
+"['comedy', 'romance', 'life', 'drama']",thursday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama']", wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama']", friday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['historical', 'comedy', 'romance', 'supernatural']",wednesday
+"['historical', 'comedy', 'romance', 'supernatural']", thursday
+"['comedy', 'romance', 'sci-fi', 'fantasy']",monday
+"['comedy', 'romance', 'sci-fi', 'fantasy']", tuesday
+"['mystery', 'drama', 'political']",monday
+"['mystery', 'drama', 'political']", tuesday
+"['historical', 'romance', 'fantasy', 'political']",saturday
+"['historical', 'romance', 'fantasy', 'political']", sunday
+"['thriller', 'mystery', 'psychological', 'drama']",wednesday
+"['thriller', 'mystery', 'psychological', 'drama']", thursday
+"['comedy', 'romance', 'sci-fi']",NA
+"['action', 'romance', 'drama', 'sports']",wednesday
+"['action', 'romance', 'drama', 'sports']", thursday
+"['law', 'drama', 'political']",wednesday
+"['law', 'drama', 'political']", thursday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['romance', 'life', 'youth']",monday
+"['romance', 'life', 'youth']", tuesday
+"['drama', 'melodrama']",wednesday
+"['drama', 'melodrama']", thursday
+"['comedy', 'life', 'drama']",wednesday
+"['comedy', 'life', 'drama']", thursday
+"['thriller', 'mystery', 'crime', 'fantasy']",monday
+"['thriller', 'mystery', 'crime', 'fantasy']", tuesday
+"['mystery', 'business', 'law', 'romance']",saturday
+"['mystery', 'business', 'law', 'romance']", sunday
+"['business', 'comedy', 'romance']",monday
+"['business', 'comedy', 'romance']", tuesday
+"['thriller', 'mystery', 'drama']",monday
+"['thriller', 'mystery', 'drama']", tuesday
+"['comedy', 'romance', 'drama', 'melodrama']",wednesday
+"['comedy', 'romance', 'drama', 'melodrama']", thursday
+"['action', 'business', 'comedy', 'romance']",friday
+"['action', 'business', 'comedy', 'romance']", saturday
+"['action', 'thriller', 'mystery', 'comedy']",friday
+"['action', 'thriller', 'mystery', 'comedy']", saturday
+"['action', 'mystery', 'crime', 'political']",saturday
+"['action', 'mystery', 'crime', 'political']", sunday
+"['action', 'thriller', 'psychological', 'crime']",saturday
+"['action', 'mystery', 'crime', 'political']",saturday
+"['action', 'mystery', 'crime', 'political']", sunday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['adventure', 'romance', 'drama', 'sports']",monday
+"['adventure', 'romance', 'drama', 'sports']", tuesday
+"['action', 'mystery', 'comedy', 'law']",wednesday
+"['action', 'mystery', 'comedy', 'law']", thursday
+"['thriller', 'comedy', 'law', 'romance']",saturday
+"['thriller', 'comedy', 'law', 'romance']", sunday
+['drama'],monday
+['drama'], tuesday
+['drama'], wednesday
+['drama'], thursday
+['drama'], friday
+"['historical', 'romance']",monday
+"['historical', 'romance']", tuesday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama']",NA
+"['historical', 'romance', 'drama', 'sports']",monday
+"['historical', 'romance', 'drama', 'sports']", tuesday
+"['thriller', 'mystery', 'drama']",wednesday
+"['thriller', 'mystery', 'drama']", thursday
+"['comedy', 'romance', 'life', 'melodrama']",friday
+"['comedy', 'romance', 'life', 'melodrama']", saturday
+"['comedy', 'romance', 'drama', 'family']",monday
+"['comedy', 'romance', 'drama', 'family']", tuesday
+"['comedy', 'romance', 'drama', 'family']", wednesday
+"['comedy', 'romance', 'drama', 'family']", thursday
+"['comedy', 'romance', 'drama', 'family']", friday
+"['comedy', 'romance', 'drama']",NA
+"['comedy', 'romance', 'drama', 'family']",monday
+"['comedy', 'romance', 'drama', 'family']", tuesday
+"['comedy', 'romance', 'drama', 'family']", wednesday
+"['comedy', 'romance', 'drama', 'family']", thursday
+"['comedy', 'romance', 'drama', 'family']", friday
+"['business', 'comedy', 'romance', 'drama']",friday
+"['business', 'comedy', 'romance', 'drama']", saturday
+"['romance', 'life', 'drama']",saturday
+"['romance', 'life', 'drama']", sunday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama']", wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama']", friday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['thriller', 'mystery', 'life', 'melodrama']",friday
+"['thriller', 'mystery', 'life', 'melodrama']", saturday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['mystery', 'comedy']",saturday
+"['comedy', 'romance', 'life']",monday
+"['comedy', 'romance', 'life']", tuesday
+"['business', 'drama', 'medical', 'political']",saturday
+"['business', 'drama', 'medical', 'political']", sunday
+"['mystery', 'comedy', 'romance', 'supernatural']",saturday
+"['mystery', 'comedy', 'romance', 'supernatural']", sunday
+"['comedy', 'romance', 'drama', 'family']",wednesday
+"['comedy', 'romance', 'drama', 'family']", thursday
+"['food', 'business', 'comedy', 'romance']",wednesday
+"['food', 'business', 'comedy', 'romance']", thursday
+"['thriller', 'mystery', 'psychological', 'drama']",friday
+"['thriller', 'mystery', 'psychological', 'drama']", saturday
+"['thriller', 'romance', 'crime', 'drama']",monday
+"['thriller', 'romance', 'crime', 'drama']", tuesday
+"['comedy', 'romance', 'youth', 'fantasy']",monday
+"['comedy', 'romance', 'youth', 'fantasy']", tuesday
+"['action', 'crime', 'drama']",wednesday
+"['thriller', 'mystery', 'romance', 'drama']",wednesday
+"['thriller', 'mystery', 'romance', 'drama']", thursday
+"['thriller', 'business', 'drama', 'melodrama']",monday
+"['thriller', 'business', 'drama', 'melodrama']", tuesday
+"['thriller', 'mystery', 'law', 'drama']",friday
+"['thriller', 'mystery', 'law', 'drama']", saturday
+"['thriller', 'mystery', 'law', 'drama']",friday
+"['thriller', 'mystery', 'law', 'drama']", saturday
+"['comedy', 'romance']",monday
+"['comedy', 'romance']", tuesday
+"['romance', 'sports']",monday
+"['romance', 'sports']", tuesday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['comedy', 'life', 'drama', 'melodrama']",monday
+"['comedy', 'life', 'drama', 'melodrama']", tuesday
+"['romance', 'youth', 'fantasy']",friday
+"['comedy', 'romance', 'drama']",NA
+"['thriller', 'mystery', 'supernatural']",saturday
+"['thriller', 'mystery', 'supernatural']", sunday
+"['comedy', 'life', 'drama']",monday
+"['comedy', 'life', 'drama']", tuesday
+"['action', 'adventure', 'drama', 'sci-fi']",friday
+"['romance', 'drama', 'fantasy', 'melodrama']",wednesday
+"['romance', 'drama', 'fantasy', 'melodrama']", thursday
+"['comedy', 'romance', 'drama', 'supernatural']",wednesday
+"['comedy', 'romance', 'drama', 'supernatural']", thursday
+"['comedy', 'romance', 'melodrama']",monday
+"['comedy', 'romance', 'melodrama']", tuesday
+"['comedy', 'romance', 'melodrama']", wednesday
+"['comedy', 'romance', 'melodrama']", thursday
+"['comedy', 'romance', 'melodrama']", friday
+"['thriller', 'mystery', 'drama']",friday
+"['thriller', 'mystery', 'drama']", saturday
+"['action', 'romance', 'medical', 'supernatural']",monday
+"['action', 'romance', 'medical', 'supernatural']", tuesday
+"['historical', 'romance', 'drama', 'political']",saturday
+"['historical', 'romance', 'drama', 'political']", sunday
+"['action', 'thriller', 'crime', 'drama']",friday
+"['historical', 'drama', 'political']",monday
+"['historical', 'drama', 'political']", tuesday
+"['military', 'romance', 'drama']",NA
+"['romance', 'drama', 'family']",saturday
+"['romance', 'drama', 'family']", sunday
+"['law', 'romance', 'drama', 'melodrama']",saturday
+"['law', 'romance', 'drama', 'melodrama']", sunday
+"['thriller', 'romance', 'drama', 'fantasy']",friday
+"['thriller', 'romance', 'drama', 'fantasy']", saturday
+"['action', 'romance']",saturday
+"['action', 'romance']", sunday
+"['comedy', 'romance', 'life', 'melodrama']",wednesday
+"['comedy', 'romance', 'life', 'melodrama']", thursday
+"['mystery', 'romance', 'fantasy', 'melodrama']",monday
+"['mystery', 'romance', 'fantasy', 'melodrama']", tuesday
+"['historical', 'romance', 'life', 'drama']",saturday
+"['historical', 'romance', 'life', 'drama']", sunday
+"['comedy', 'romance', 'youth', 'drama']",monday
+"['comedy', 'romance', 'youth', 'drama']", tuesday
+"['romance', 'drama', 'medical']",monday
+"['romance', 'drama', 'medical']", tuesday
+"['mystery', 'comedy']",monday
+"['mystery', 'comedy']", tuesday
+"['drama', 'family']",saturday
+"['drama', 'family']",saturday
+"['comedy', 'romance', 'melodrama']",saturday
+"['comedy', 'romance', 'melodrama']", sunday
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['action', 'historical', 'romance', 'political']",wednesday
+"['action', 'historical', 'romance', 'political']", thursday
+"['mystery', 'comedy', 'romance', 'supernatural']",friday
+"['mystery', 'comedy', 'romance', 'supernatural']", saturday
+"['romance', 'drama', 'family']",monday
+"['romance', 'drama', 'family']", tuesday
+"['romance', 'drama', 'family']", wednesday
+"['romance', 'drama', 'family']", thursday
+"['romance', 'drama', 'family']", friday
+"['comedy', 'romance', 'family', 'melodrama']",monday
+"['comedy', 'romance', 'family', 'melodrama']", tuesday
+"['comedy', 'romance', 'family', 'melodrama']", wednesday
+"['comedy', 'romance', 'family', 'melodrama']", thursday
+"['comedy', 'romance', 'family', 'melodrama']", friday
+"['comedy', 'romance', 'family', 'melodrama']",monday
+"['comedy', 'romance', 'family', 'melodrama']", tuesday
+"['comedy', 'romance', 'family', 'melodrama']", wednesday
+"['comedy', 'romance', 'family', 'melodrama']", thursday
+"['comedy', 'romance', 'family', 'melodrama']", friday
+"['horror', 'comedy', 'romance', 'supernatural']",monday
+"['horror', 'comedy', 'romance', 'supernatural']", tuesday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['business', 'romance', 'drama', 'melodrama']",monday
+"['business', 'romance', 'drama', 'melodrama']", tuesday
+"['business', 'romance', 'drama', 'melodrama']", wednesday
+"['business', 'romance', 'drama', 'melodrama']", thursday
+"['business', 'romance', 'drama', 'melodrama']", friday
+"['thriller', 'mystery', 'drama', 'fantasy']",saturday
+"['thriller', 'mystery', 'drama', 'fantasy']", sunday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['music', 'drama']",thursday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'family']",monday
+"['romance', 'drama', 'family']", tuesday
+"['romance', 'life', 'drama']",monday
+"['romance', 'life', 'drama']", tuesday
+"['comedy', 'law', 'romance', 'life']",wednesday
+"['comedy', 'law', 'romance', 'life']", thursday
+"['romance', 'drama', 'family']",monday
+"['romance', 'drama', 'family']", tuesday
+"['romance', 'drama', 'family']", wednesday
+"['romance', 'drama', 'family']", thursday
+"['romance', 'drama', 'family']", friday
+"['historical', 'comedy', 'romance', 'drama']",wednesday
+"['historical', 'comedy', 'romance', 'drama']", thursday
+"['thriller', 'mystery', 'comedy', 'romance']",monday
+"['thriller', 'mystery', 'comedy', 'romance']", tuesday
+"['thriller', 'mystery', 'drama']",friday
+"['thriller', 'mystery', 'comedy', 'romance']",wednesday
+"['thriller', 'mystery', 'comedy', 'romance']", thursday
+"['mystery', 'comedy', 'romance', 'youth']",monday
+"['mystery', 'comedy', 'romance', 'youth']", tuesday
+"['mystery', 'comedy', 'romance', 'youth']",monday
+"['mystery', 'comedy', 'romance', 'youth']", tuesday
+['drama'],monday
+['drama'], tuesday
+['drama'], wednesday
+['drama'], thursday
+['drama'], friday
+"['psychological', 'romance', 'life', 'drama']",monday
+"['psychological', 'romance', 'life', 'drama']", tuesday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['mystery', 'romance', 'drama', 'melodrama']",monday
+"['mystery', 'romance', 'drama', 'melodrama']", tuesday
+"['mystery', 'romance', 'drama', 'melodrama']", wednesday
+"['mystery', 'romance', 'drama', 'melodrama']", thursday
+"['mystery', 'romance', 'drama', 'melodrama']", friday
+"['mystery', 'drama', 'supernatural']",sunday
+"['comedy', 'romance', 'supernatural', 'political']",friday
+"['comedy', 'romance', 'supernatural', 'political']", saturday
+"['thriller', 'mystery', 'comedy', 'fantasy']",NA
+"['law', 'drama', 'political']",friday
+"['law', 'drama', 'political']", saturday
+"['thriller', 'mystery', 'supernatural']",saturday
+"['thriller', 'mystery', 'supernatural']", sunday
+"['thriller', 'mystery', 'psychological', 'drama']",wednesday
+"['thriller', 'mystery', 'psychological', 'drama']", thursday
+"['comedy', 'romance', 'life']",monday
+"['comedy', 'romance', 'life']", tuesday
+"['thriller', 'mystery']",saturday
+"['thriller', 'mystery']", sunday
+"['thriller', 'mystery', 'comedy', 'melodrama']",wednesday
+"['thriller', 'mystery', 'comedy', 'melodrama']", thursday
+"['business', 'comedy', 'romance', 'drama']",monday
+"['business', 'comedy', 'romance', 'drama']", tuesday
+"['business', 'comedy', 'romance', 'drama']", wednesday
+"['business', 'comedy', 'romance', 'drama']", thursday
+"['business', 'comedy', 'romance', 'drama']", friday
+"['romance', 'life', 'medical', 'melodrama']",friday
+"['romance', 'life', 'medical', 'melodrama']", saturday
+"['romance', 'melodrama']",monday
+"['romance', 'melodrama']", tuesday
+"['romance', 'melodrama']", wednesday
+"['romance', 'melodrama']", thursday
+"['romance', 'melodrama']", friday
+"['romance', 'family', 'melodrama']",monday
+"['romance', 'family', 'melodrama']", tuesday
+"['romance', 'family', 'melodrama']", wednesday
+"['romance', 'family', 'melodrama']", thursday
+"['romance', 'family', 'melodrama']", friday
+"['comedy', 'romance', 'drama']",friday
+"['comedy', 'romance', 'drama']", saturday
+"['comedy', 'romance', 'drama']",friday
+"['comedy', 'romance', 'drama']", saturday
+"['thriller', 'mystery', 'sci-fi']",monday
+"['thriller', 'mystery', 'sci-fi']", tuesday
+"['romance', 'life', 'youth', 'drama']",tuesday
+"['romance', 'life', 'youth', 'drama']", friday
+"['action', 'thriller', 'crime']",wednesday
+"['action', 'thriller', 'crime']", thursday
+"['mystery', 'law', 'drama', 'melodrama']",friday
+"['mystery', 'law', 'drama', 'melodrama']", saturday
+"['thriller', 'mystery', 'law', 'youth']",wednesday
+"['thriller', 'mystery', 'law', 'youth']", thursday
+"['business', 'comedy', 'romance', 'drama']",monday
+"['business', 'comedy', 'romance', 'drama']", tuesday
+"['comedy', 'crime', 'drama']",saturday
+"['comedy', 'crime', 'drama']", sunday
+"['comedy', 'romance', 'fantasy']",NA
+"['food', 'comedy', 'romance', 'drama']",monday
+"['food', 'comedy', 'romance', 'drama']", tuesday
+"['comedy', 'romance', 'fantasy']",saturday
+"['comedy', 'romance', 'fantasy']", sunday
+"['mystery', 'romance', 'drama', 'supernatural']",wednesday
+"['mystery', 'romance', 'drama', 'supernatural']", thursday
+"['thriller', 'horror', 'supernatural']",friday
+"['thriller', 'mystery', 'romance', 'melodrama']",wednesday
+"['thriller', 'mystery', 'romance', 'melodrama']", thursday
+"['comedy', 'romance', 'drama', 'supernatural']",wednesday
+"['comedy', 'romance', 'drama', 'supernatural']", thursday
+"['thriller', 'mystery', 'law', 'drama']",saturday
+"['thriller', 'mystery', 'law', 'drama']", sunday
+"['mystery', 'youth']",saturday
+"['historical', 'drama']",monday
+"['historical', 'drama']", tuesday
+"['food', 'comedy', 'romance']",monday
+"['food', 'comedy', 'romance']", tuesday
+"['comedy', 'romance']",saturday
+"['comedy', 'romance']", sunday
+"['thriller', 'mystery', 'comedy', 'romance']",saturday
+"['thriller', 'mystery', 'comedy', 'romance']", sunday
+"['military', 'comedy', 'romance', 'political']",sunday
+"['military', 'comedy', 'romance', 'political']", saturday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['drama', 'medical']",wednesday
+"['drama', 'medical']", thursday
+"['action', 'mystery', 'drama']",wednesday
+"['action', 'mystery', 'drama']", thursday
+"['thriller', 'mystery', 'medical']",monday
+"['thriller', 'mystery', 'medical']", tuesday
+"['historical', 'romance', 'melodrama', 'political']",NA
+"['business', 'comedy', 'romance']",wednesday
+"['business', 'comedy', 'romance']", thursday
+"['romance', 'life', 'drama', 'family']",monday
+"['romance', 'life', 'drama', 'family']", tuesday
+"['romance', 'drama', 'medical']",friday
+"['romance', 'drama', 'medical']", saturday
+"['action', 'military', 'drama']",friday
+"['food', 'comedy', 'romance', 'supernatural']",thursday
+"['historical', 'war']",saturday
+"['historical', 'war']", sunday
+"['historical', 'drama']",monday
+"['drama', 'medical']",NA
+"['business', 'comedy', 'romance', 'drama']",wednesday
+"['business', 'comedy', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'drama']",wednesday
+"['comedy', 'romance', 'drama']", thursday
+"['historical', 'mystery', 'romance', 'martial arts']",monday
+"['historical', 'mystery', 'romance', 'martial arts']", tuesday
+"['business', 'romance', 'drama', 'melodrama']",monday
+"['business', 'romance', 'drama', 'melodrama']", tuesday
+"['business', 'romance', 'drama', 'melodrama']", wednesday
+"['business', 'romance', 'drama', 'melodrama']", thursday
+"['business', 'romance', 'drama', 'melodrama']", friday
+['romance'],saturday
+['romance'], sunday
+"['action', 'thriller', 'horror', 'sci-fi']",friday
+"['action', 'thriller', 'horror', 'sci-fi']", saturday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['life', 'drama', 'melodrama']",friday
+"['life', 'drama', 'melodrama']", saturday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['life', 'drama', 'melodrama']",friday
+"['life', 'drama', 'melodrama']", saturday
+"['romance', 'drama']",thursday
+"['romance', 'drama']",thursday
+"['historical', 'mystery', 'political']",wednesday
+"['historical', 'mystery', 'political']", thursday
+['romance'],saturday
+['romance'], sunday
+"['mystery', 'comedy', 'law', 'melodrama']",friday
+"['mystery', 'comedy', 'law', 'melodrama']", saturday
+"['food', 'comedy', 'romance']",wednesday
+"['food', 'comedy', 'romance']", thursday
+"['comedy', 'crime', 'drama']",monday
+"['comedy', 'crime', 'drama']", tuesday
+"['action', 'comedy', 'martial arts', 'sci-fi']",friday
+"['mystery', 'comedy', 'romance', 'supernatural']",wednesday
+"['mystery', 'comedy', 'romance', 'supernatural']", thursday
+"['action', 'comedy', 'romance', 'melodrama']",wednesday
+"['action', 'comedy', 'romance', 'melodrama']", thursday
+"['thriller', 'mystery', 'drama', 'political']",monday
+"['thriller', 'mystery', 'drama', 'political']", tuesday
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['action', 'thriller', 'mystery', 'drama']",saturday
+"['action', 'thriller', 'mystery', 'drama']", sunday
+"['comedy', 'romance', 'drama']",wednesday
+"['comedy', 'romance', 'drama']", thursday
+"['action', 'historical', 'romance', 'supernatural']",monday
+"['action', 'historical', 'romance', 'supernatural']", tuesday
+"['mystery', 'law', 'life', 'drama']",monday
+"['mystery', 'law', 'life', 'drama']", tuesday
+"['romance', 'life', 'drama']",wednesday
+"['romance', 'life', 'drama']", thursday
+"['action', 'historical', 'romance', 'medical']",saturday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['thriller', 'mystery', 'law']",monday
+"['thriller', 'mystery', 'law']", tuesday
+"['music', 'comedy', 'romance', 'life']",NA
+"['law', 'drama']",saturday
+"['law', 'drama']", sunday
+"['comedy', 'law', 'romance']",saturday
+"['comedy', 'law', 'romance']", sunday
+"['music', 'comedy', 'romance', 'melodrama']",wednesday
+"['music', 'comedy', 'romance', 'melodrama']", thursday
+"['music', 'romance', 'drama', 'melodrama']",monday
+"['music', 'romance', 'drama', 'melodrama']", tuesday
+"['thriller', 'mystery', 'drama', 'medical']",wednesday
+"['thriller', 'mystery', 'drama', 'medical']", thursday
+"['mystery', 'romance', 'life', 'medical']",friday
+"['mystery', 'romance', 'life', 'medical']", saturday
+"['mystery', 'romance', 'life', 'medical']",friday
+"['mystery', 'romance', 'life', 'medical']", saturday
+"['thriller', 'law', 'drama', 'medical']",friday
+"['thriller', 'law', 'drama', 'medical']", saturday
+"['thriller', 'law', 'crime', 'medical']",wednesday
+"['thriller', 'law', 'crime', 'medical']", thursday
+"['comedy', 'romance', 'drama', 'medical']",NA
+"['thriller', 'romance', 'drama', 'medical']",monday
+"['thriller', 'romance', 'drama', 'medical']", tuesday
+"['action', 'crime', 'youth']",friday
+"['romance', 'family']",monday
+"['romance', 'family']", tuesday
+"['romance', 'family']", wednesday
+"['romance', 'family']", thursday
+"['romance', 'family']", friday
+"['comedy', 'romance']",wednesday
+"['comedy', 'romance']", thursday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama']", wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama']", friday
+"['thriller', 'romance', 'drama', 'melodrama']",monday
+"['thriller', 'romance', 'drama', 'melodrama']", tuesday
+"['comedy', 'romance', 'drama', 'fantasy']",monday
+"['comedy', 'romance', 'drama', 'fantasy']", tuesday
+"['comedy', 'romance', 'youth', 'drama']",NA
+['drama'],monday
+['drama'], tuesday
+['drama'], wednesday
+['drama'], thursday
+['drama'], friday
+['drama'], saturday
+['youth'],NA
+"['action', 'drama']",NA
+['drama'],wednesday
+['drama'], thursday
+"['romance', 'drama', 'family', 'melodrama']",saturday
+"['romance', 'drama', 'family', 'melodrama']", sunday
+"['romance', 'sports', 'melodrama']",monday
+"['romance', 'sports', 'melodrama']", tuesday
+"['music', 'comedy', 'romance', 'youth']",monday
+"['music', 'comedy', 'romance', 'youth']", tuesday
+"['music', 'comedy', 'romance', 'youth']",monday
+"['music', 'comedy', 'romance', 'youth']", tuesday
+"['historical', 'drama']",saturday
+"['historical', 'drama']", sunday
+"['food', 'comedy', 'romance']",monday
+"['food', 'comedy', 'romance']", tuesday
+"['thriller', 'mystery', 'sci-fi', 'medical']",friday
+"['mystery', 'psychological', 'drama', 'medical']",sunday
+['romance'],monday
+['romance'], tuesday
+['romance'], wednesday
+['romance'], sunday
+"['historical', 'romance', 'medical', 'fantasy']",saturday
+"['historical', 'romance', 'medical', 'fantasy']", sunday
+"['action', 'thriller', 'romance', 'medical']",wednesday
+"['action', 'thriller', 'romance', 'medical']", thursday
+"['comedy', 'medical']",friday
+"['comedy', 'medical']", saturday
+"['romance', 'drama', 'medical']",monday
+"['romance', 'drama', 'medical']", tuesday
+"['thriller', 'mystery', 'sci-fi']",saturday
+"['thriller', 'mystery', 'sci-fi']", sunday
+"['comedy', 'drama', 'family', 'melodrama']",saturday
+"['comedy', 'drama', 'family', 'melodrama']", sunday
+"['action', 'thriller', 'drama', 'sci-fi']",friday
+"['food', 'comedy', 'romance', 'melodrama']",friday
+"['food', 'comedy', 'romance', 'melodrama']", saturday
+"['historical', 'mystery', 'drama']",saturday
+"['historical', 'mystery', 'drama']", sunday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['comedy', 'romance', 'drama', 'medical']",friday
+"['comedy', 'romance', 'drama', 'medical']", saturday
+"['action', 'historical', 'drama', 'war']",wednesday
+"['action', 'historical', 'drama', 'war']", thursday
+"['business', 'drama']",monday
+"['business', 'drama']", tuesday
+"['historical', 'romance', 'melodrama', 'political']",monday
+"['historical', 'romance', 'melodrama', 'political']", tuesday
+"['historical', 'romance', 'melodrama', 'political']",monday
+"['historical', 'romance', 'melodrama', 'political']", tuesday
+"['historical', 'drama']",wednesday
+"['historical', 'drama']", thursday
+"['romance', 'family', 'melodrama']",monday
+"['romance', 'family', 'melodrama']", tuesday
+"['romance', 'family', 'melodrama']", wednesday
+"['romance', 'family', 'melodrama']", thursday
+"['romance', 'family', 'melodrama']", friday
+['drama'],friday
+"['action', 'romance', 'drama', 'melodrama']",saturday
+"['action', 'romance', 'drama', 'melodrama']", sunday
+"['action', 'romance', 'drama', 'melodrama']",saturday
+"['action', 'romance', 'drama', 'melodrama']", sunday
+"['romance', 'melodrama']",wednesday
+"['romance', 'melodrama']", thursday
+"['romance', 'melodrama']",monday
+"['romance', 'melodrama']", tuesday
+"['romance', 'family', 'melodrama']",monday
+"['romance', 'family', 'melodrama']", tuesday
+"['romance', 'family', 'melodrama']", wednesday
+"['romance', 'family', 'melodrama']", thursday
+"['romance', 'family', 'melodrama']", friday
+"['music', 'business', 'comedy', 'drama']",wednesday
+"['music', 'business', 'comedy', 'drama']", thursday
+"['business', 'comedy', 'drama']",friday
+"['business', 'comedy', 'drama']", saturday
+"['action', 'tokusatsu', 'sci-fi', 'fantasy']",friday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['comedy', 'romance', 'fantasy']",monday
+"['comedy', 'romance', 'fantasy']", tuesday
+['drama'],monday
+['drama'], tuesday
+['drama'], wednesday
+['drama'], thursday
+['drama'], friday
+"['music', 'comedy', 'romance']",tuesday
+"['music', 'comedy', 'romance']", thursday
+"['psychological', 'crime', 'youth', 'drama']",wednesday
+"['law', 'romance', 'life', 'drama']",wednesday
+"['law', 'romance', 'life', 'drama']", thursday
+"['comedy', 'romance', 'youth', 'fantasy']",wednesday
+"['comedy', 'romance', 'youth', 'fantasy']", thursday
+"['comedy', 'romance', 'drama']",friday
+"['comedy', 'romance', 'drama']", saturday
+"['action', 'historical', 'romance', 'drama']",wednesday
+"['action', 'historical', 'romance', 'drama']", thursday
+"['historical', 'romance', 'medical', 'supernatural']",monday
+"['historical', 'romance', 'medical', 'supernatural']", tuesday
+"['comedy', 'romance', 'drama']",NA
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['drama', 'family']",monday
+"['drama', 'family']", tuesday
+"['drama', 'family']", wednesday
+"['drama', 'family']", thursday
+"['drama', 'family']", friday
+"['drama', 'family', 'melodrama']",monday
+"['drama', 'family', 'melodrama']", tuesday
+"['drama', 'family', 'melodrama']", wednesday
+"['drama', 'family', 'melodrama']", thursday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['action', 'thriller', 'comedy', 'drama']",monday
+"['action', 'thriller', 'comedy', 'drama']", tuesday
+"['comedy', 'romance']",friday
+"['comedy', 'romance']", saturday
+"['comedy', 'romance', 'drama', 'medical']",friday
+"['comedy', 'romance', 'drama', 'medical']", saturday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['drama', 'family']",monday
+"['drama', 'family']", tuesday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['business', 'comedy', 'romance', 'sports']",monday
+"['business', 'comedy', 'romance', 'sports']", tuesday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+['romance'],monday
+['romance'], tuesday
+"['comedy', 'romance', 'fantasy']",thursday
+"['historical', 'romance', 'drama']",NA
+"['romance', 'family']",saturday
+"['romance', 'family']", sunday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['music', 'romance', 'melodrama']",saturday
+"['music', 'romance', 'melodrama']", sunday
+['drama'],monday
+['drama'], tuesday
+"['music', 'romance', 'youth']",monday
+"['music', 'romance', 'youth']", tuesday
+"['historical', 'comedy', 'romance', 'drama']",monday
+"['historical', 'comedy', 'romance', 'drama']", tuesday
+"['mystery', 'comedy']",friday
+"['thriller', 'romance', 'crime', 'melodrama']",wednesday
+"['thriller', 'romance', 'crime', 'melodrama']", thursday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+['melodrama'],monday
+['melodrama'], tuesday
+['melodrama'], wednesday
+['melodrama'], thursday
+['melodrama'], friday
+"['historical', 'mystery', 'comedy', 'drama']",NA
+"['historical', 'law', 'drama', 'melodrama']",saturday
+"['historical', 'law', 'drama', 'melodrama']", sunday
+"['life', 'drama']",NA
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['business', 'psychological', 'romance', 'medical']",wednesday
+"['business', 'psychological', 'romance', 'medical']", thursday
+"['comedy', 'romance', 'life', 'drama']",thursday
+"['comedy', 'romance', 'life', 'drama']", friday
+['historical'],NA
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['action', 'historical']",saturday
+"['action', 'historical']", sunday
+"['comedy', 'romance']",wednesday
+"['comedy', 'romance']", thursday
+"['mystery', 'comedy', 'romance', 'fantasy']",saturday
+"['mystery', 'comedy', 'romance', 'fantasy']", sunday
+"['comedy', 'romance', 'drama', 'martial arts']",monday
+"['comedy', 'romance', 'drama', 'martial arts']", tuesday
+"['comedy', 'romance', 'drama', 'martial arts']", wednesday
+"['comedy', 'romance', 'drama', 'martial arts']", thursday
+"['comedy', 'romance', 'drama', 'martial arts']",monday
+"['comedy', 'romance', 'drama', 'martial arts']", tuesday
+"['comedy', 'romance', 'drama', 'martial arts']", wednesday
+"['comedy', 'romance', 'drama', 'martial arts']", thursday
+"['psychological', 'romance', 'youth', 'drama']",friday
+"['psychological', 'romance', 'youth', 'drama']", saturday
+"['business', 'comedy', 'romance', 'melodrama']",monday
+"['business', 'comedy', 'romance', 'melodrama']", tuesday
+"['business', 'comedy', 'romance', 'melodrama']", wednesday
+"['business', 'comedy', 'romance', 'melodrama']", thursday
+"['business', 'comedy', 'romance', 'melodrama']", friday
+"['thriller', 'mystery', 'drama']",friday
+"['thriller', 'mystery', 'drama']", saturday
+"['business', 'comedy', 'romance', 'life']",friday
+"['business', 'comedy', 'romance', 'life']", saturday
+"['mystery', 'drama']",saturday
+"['mystery', 'drama']", sunday
+"['life', 'youth']",sunday
+"['comedy', 'medical', 'fantasy', 'supernatural']",monday
+"['comedy', 'medical', 'fantasy', 'supernatural']", tuesday
+"['mystery', 'romance', 'youth', 'drama']",monday
+"['mystery', 'romance', 'youth', 'drama']", tuesday
+"['romance', 'drama', 'melodrama', 'political']",monday
+"['romance', 'drama', 'melodrama', 'political']", tuesday
+"['romance', 'drama']",saturday
+"['romance', 'drama']", sunday
+"['psychological', 'drama', 'melodrama']",monday
+"['psychological', 'drama', 'melodrama']", tuesday
+"['psychological', 'drama', 'melodrama']", wednesday
+"['psychological', 'drama', 'melodrama']", thursday
+"['romance', 'melodrama']",saturday
+"['romance', 'melodrama']", sunday
+"['thriller', 'mystery', 'comedy', 'sci-fi']",friday
+"['thriller', 'drama', 'melodrama']",friday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['comedy', 'romance', 'life', 'fantasy']",friday
+"['comedy', 'romance', 'life', 'fantasy']", saturday
+"['military', 'adventure', 'historical', 'drama']",saturday
+"['military', 'adventure', 'historical', 'drama']", sunday
+"['historical', 'romance', 'drama']",monday
+"['historical', 'romance', 'drama']", tuesday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['thriller', 'mystery', 'drama', 'supernatural']",monday
+"['thriller', 'mystery', 'drama', 'supernatural']", tuesday
+"['business', 'comedy', 'romance', 'drama']",saturday
+"['business', 'comedy', 'romance', 'drama']", sunday
+"['drama', 'melodrama']",monday
+"['drama', 'melodrama']", tuesday
+"['drama', 'melodrama']", wednesday
+"['drama', 'melodrama']", thursday
+"['drama', 'melodrama']", friday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['thriller', 'romance', 'drama', 'melodrama']",wednesday
+"['thriller', 'romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['food', 'romance', 'drama', 'melodrama']",monday
+"['food', 'romance', 'drama', 'melodrama']", tuesday
+"['food', 'romance', 'drama', 'melodrama']", wednesday
+"['food', 'romance', 'drama', 'melodrama']", thursday
+"['food', 'romance', 'drama', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['comedy', 'romance', 'medical']",monday
+"['comedy', 'romance', 'medical']", tuesday
+"['action', 'mystery', 'comedy', 'crime']",monday
+"['action', 'mystery', 'comedy', 'crime']", tuesday
+"['romance', 'life', 'drama', 'medical']",monday
+"['romance', 'life', 'drama', 'medical']", tuesday
+"['mystery', 'comedy', 'romance', 'fantasy']",wednesday
+"['mystery', 'comedy', 'romance', 'fantasy']", thursday
+"['romance', 'family']",saturday
+"['romance', 'family']", sunday
+"['business', 'comedy', 'crime', 'drama']",wednesday
+"['business', 'comedy', 'crime', 'drama']", thursday
+"['comedy', 'romance']",monday
+"['comedy', 'romance']", tuesday
+"['thriller', 'psychological', 'drama', 'sci-fi']",NA
+"['thriller', 'business', 'romance', 'drama']",wednesday
+"['thriller', 'business', 'romance', 'drama']", thursday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['romance', 'life']",wednesday
+"['romance', 'life']", thursday
+"['romance', 'life', 'drama', 'melodrama']",saturday
+"['thriller', 'mystery', 'drama', 'melodrama']",wednesday
+"['thriller', 'mystery', 'drama', 'melodrama']", thursday
+"['mystery', 'life', 'drama']",friday
+"['mystery', 'life', 'drama']", saturday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['historical', 'romance', 'drama', 'political']",saturday
+"['historical', 'romance', 'drama', 'political']", sunday
+"['mystery', 'drama']",wednesday
+"['mystery', 'drama']", thursday
+"['thriller', 'mystery']",friday
+"['action', 'thriller', 'mystery', 'sci-fi']",wednesday
+"['action', 'historical', 'romance', 'fantasy']",monday
+"['action', 'historical', 'romance', 'fantasy']", tuesday
+"['comedy', 'romance', 'life', 'drama']",wednesday
+"['comedy', 'romance', 'life', 'drama']", thursday
+"['comedy', 'romance', 'fantasy', 'melodrama']",friday
+"['comedy', 'romance', 'fantasy', 'melodrama']", saturday
+"['action', 'historical', 'romance', 'melodrama']",wednesday
+"['action', 'historical', 'romance', 'melodrama']", thursday
+"['historical', 'political']",saturday
+"['historical', 'political']", sunday
+"['historical', 'romance', 'drama']",monday
+"['historical', 'romance', 'drama']", tuesday
+"['action', 'thriller', 'historical', 'sci-fi']",NA
+"['action', 'adventure', 'historical', 'political']",monday
+"['action', 'adventure', 'historical', 'political']", tuesday
+"['business', 'comedy', 'romance', 'drama']",saturday
+"['business', 'comedy', 'romance', 'drama']", sunday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama']", wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama']", friday
+"['romance', 'drama']", saturday
+"['drama', 'family']",monday
+"['drama', 'family']", tuesday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['romance', 'melodrama']",monday
+"['romance', 'melodrama']", tuesday
+"['romance', 'melodrama']", wednesday
+"['romance', 'melodrama']", thursday
+"['romance', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['thriller', 'mystery', 'romance', 'supernatural']",monday
+"['thriller', 'mystery', 'romance', 'supernatural']", tuesday
+"['action', 'thriller', 'mystery', 'romance']",monday
+"['action', 'thriller', 'mystery', 'romance']", tuesday
+"['comedy', 'romance', 'melodrama']",monday
+"['comedy', 'romance', 'melodrama']", tuesday
+"['action', 'life', 'drama', 'medical']",wednesday
+"['action', 'life', 'drama', 'medical']", thursday
+"['psychological', 'comedy', 'romance']",friday
+"['psychological', 'comedy', 'romance']", saturday
+"['comedy', 'romance', 'fantasy']",monday
+"['comedy', 'romance', 'fantasy']", tuesday
+"['action', 'thriller', 'romance', 'crime']",monday
+"['action', 'thriller', 'romance', 'crime']", tuesday
+"['horror', 'comedy', 'romance', 'supernatural']",friday
+"['music', 'romance', 'youth', 'drama']",wednesday
+"['music', 'romance', 'youth', 'drama']", thursday
+"['thriller', 'horror', 'psychological', 'drama']",saturday
+"['thriller', 'horror', 'psychological', 'drama']", sunday
+"['mystery', 'horror', 'drama', 'supernatural']",friday
+"['comedy', 'supernatural', 'sitcom']",monday
+"['thriller', 'mystery', 'psychological', 'drama']",monday
+"['thriller', 'mystery', 'psychological', 'drama']", tuesday
+"['comedy', 'romance', 'life', 'fantasy']",wednesday
+"['comedy', 'romance', 'life', 'fantasy']", thursday
+"['mystery', 'comedy', 'romance', 'life']",friday
+"['mystery', 'comedy', 'romance', 'life']", saturday
+"['business', 'comedy', 'romance', 'drama']",wednesday
+"['business', 'comedy', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'drama', 'family']",monday
+"['comedy', 'romance', 'drama', 'family']", tuesday
+"['comedy', 'romance', 'drama', 'family']", wednesday
+"['comedy', 'romance', 'drama', 'family']", thursday
+"['comedy', 'romance', 'drama', 'family']", friday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['action', 'fantasy', 'supernatural']",sunday
+"['drama', 'family', 'melodrama', 'supernatural']",saturday
+"['drama', 'family', 'melodrama', 'supernatural']", sunday
+"['romance', 'youth', 'fantasy']",friday
+"['mystery', 'drama']",monday
+"['mystery', 'drama']", tuesday
+"['romance', 'drama', 'melodrama']",saturday
+"['thriller', 'mystery', 'drama']",monday
+"['thriller', 'mystery', 'drama']", tuesday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['comedy', 'romance', 'drama', 'sitcom']",monday
+"['comedy', 'romance', 'drama', 'sitcom']", tuesday
+"['comedy', 'romance', 'drama', 'sitcom']", wednesday
+"['comedy', 'romance', 'drama', 'sitcom']", thursday
+"['comedy', 'romance', 'drama', 'sitcom']", friday
+"['comedy', 'romance', 'drama', 'sitcom']",monday
+"['comedy', 'romance', 'drama', 'sitcom']", tuesday
+"['comedy', 'romance', 'drama', 'sitcom']", wednesday
+"['comedy', 'romance', 'drama', 'sitcom']", thursday
+"['comedy', 'romance', 'drama', 'sitcom']", friday
+"['comedy', 'romance', 'drama', 'sitcom']",monday
+"['comedy', 'romance', 'drama', 'sitcom']", tuesday
+"['comedy', 'romance', 'drama', 'sitcom']", wednesday
+"['comedy', 'romance', 'drama', 'sitcom']", thursday
+"['comedy', 'romance', 'drama', 'sitcom']", friday
+"['comedy', 'romance', 'sports']",monday
+"['comedy', 'romance', 'sports']", tuesday
+"['business', 'comedy', 'romance', 'melodrama']",monday
+"['business', 'comedy', 'romance', 'melodrama']", tuesday
+"['mystery', 'comedy', 'melodrama', 'political']",monday
+"['mystery', 'comedy', 'melodrama', 'political']", tuesday
+"['comedy', 'romance', 'life', 'drama']",friday
+"['comedy', 'romance', 'life', 'drama']", saturday
+"['comedy', 'romance', 'youth', 'melodrama']",monday
+"['comedy', 'romance', 'youth', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']",wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['thriller', 'historical', 'mystery', 'horror']",wednesday
+"['thriller', 'historical', 'mystery', 'horror']", thursday
+"['comedy', 'romance', 'life', 'drama']",saturday
+"['comedy', 'romance', 'life', 'drama']", sunday
+"['action', 'historical', 'romance', 'drama']",wednesday
+"['action', 'historical', 'romance', 'drama']", thursday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['romance', 'life', 'drama', 'medical']",thursday
+"['romance', 'drama', 'medical']",wednesday
+"['romance', 'drama', 'medical']", thursday
+"['drama', 'sports', 'melodrama']",friday
+"['drama', 'sports', 'melodrama']", saturday
+"['horror', 'comedy', 'romance', 'fantasy']",saturday
+"['horror', 'comedy', 'romance', 'fantasy']", sunday
+"['business', 'romance', 'drama', 'melodrama']",saturday
+"['business', 'romance', 'drama', 'melodrama']", sunday
+"['business', 'romance', 'drama']",wednesday
+"['business', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['food', 'romance', 'drama', 'fantasy']",saturday
+"['romance', 'drama', 'family', 'melodrama']",wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['comedy', 'romance', 'drama']",tuesday
+"['comedy', 'romance', 'drama']", saturday
+"['mystery', 'comedy', 'romance', 'drama']",monday
+"['mystery', 'comedy', 'romance', 'drama']", tuesday
+"['mystery', 'comedy', 'romance']",wednesday
+"['mystery', 'comedy', 'romance']", thursday
+['drama'],sunday
+"['historical', 'medical']",monday
+"['historical', 'medical']", tuesday
+"['historical', 'drama', 'medical']",monday
+"['historical', 'drama', 'medical']", tuesday
+"['historical', 'drama', 'medical']", wednesday
+"['historical', 'drama', 'medical']", thursday
+"['historical', 'drama', 'medical']", friday
+"['mystery', 'business', 'comedy', 'life']",friday
+"['mystery', 'business', 'comedy', 'life']", saturday
+['historical'],wednesday
+['historical'], thursday
+"['action', 'historical', 'comedy', 'romance']",monday
+"['action', 'historical', 'comedy', 'romance']", tuesday
+"['psychological', 'comedy', 'romance', 'drama']",wednesday
+"['psychological', 'comedy', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'mature']",wednesday
+"['comedy', 'romance', 'mature']", thursday
+"['comedy', 'romance', 'youth', 'sci-fi']",monday
+"['comedy', 'romance', 'youth', 'sci-fi']", tuesday
+"['comedy', 'romance', 'youth', 'sci-fi']", wednesday
+"['comedy', 'romance', 'youth', 'sci-fi']", thursday
+"['comedy', 'romance', 'youth', 'sci-fi']", friday
+"['comedy', 'romance', 'youth', 'sci-fi']", saturday
+"['mystery', 'law', 'romance', 'supernatural']",wednesday
+"['mystery', 'law', 'romance', 'supernatural']", thursday
+"['comedy', 'romance']",wednesday
+"['comedy', 'romance']", thursday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['comedy', 'romance', 'fantasy', 'supernatural']",monday
+"['comedy', 'romance', 'fantasy', 'supernatural']", tuesday
+"['comedy', 'romance']",monday
+"['comedy', 'romance']", tuesday
+"['comedy', 'romance']",wednesday
+"['comedy', 'romance']", thursday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['food', 'comedy', 'romance', 'melodrama']",monday
+"['food', 'comedy', 'romance', 'melodrama']", tuesday
+"['food', 'comedy', 'romance', 'melodrama']", wednesday
+"['food', 'comedy', 'romance', 'melodrama']", thursday
+"['comedy', 'romance']",thursday
+"['comedy', 'romance']", friday
+"['music', 'mystery', 'comedy', 'romance']",monday
+"['music', 'mystery', 'comedy', 'romance']", tuesday
+"['mystery', 'romance', 'drama']",saturday
+"['mystery', 'romance', 'drama']", sunday
+"['comedy', 'romance', 'drama', 'sci-fi']",wednesday
+"['comedy', 'romance', 'drama', 'sci-fi']", thursday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'youth', 'drama']",wednesday
+"['romance', 'youth', 'drama']", friday
+"['music', 'comedy', 'life', 'youth']",NA
+"['music', 'youth', 'drama']",monday
+"['music', 'youth', 'drama']", tuesday
+['drama'],monday
+['drama'], tuesday
+"['romance', 'life', 'drama', 'medical']",wednesday
+"['romance', 'life', 'drama', 'medical']", thursday
+"['historical', 'drama']",monday
+"['historical', 'drama']", tuesday
+"['life', 'supernatural']",tuesday
+"['music', 'comedy', 'romance', 'drama']",friday
+"['action', 'military', 'historical', 'drama']",saturday
+"['action', 'military', 'historical', 'drama']", sunday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['business', 'romance', 'drama']",saturday
+"['business', 'romance', 'drama']", sunday
+"['thriller', 'mystery', 'law', 'drama']",monday
+"['thriller', 'mystery', 'law', 'drama']", tuesday
+"['action', 'thriller', 'law']",wednesday
+"['action', 'thriller', 'law']", thursday
+"['action', 'thriller', 'mystery', 'comedy']",saturday
+"['action', 'thriller', 'mystery', 'comedy']", sunday
+"['action', 'historical', 'romance', 'drama']",wednesday
+"['action', 'historical', 'romance', 'drama']", thursday
+"['historical', 'drama']",saturday
+"['historical', 'drama']", sunday
+"['historical', 'drama', 'political']",friday
+"['historical', 'drama', 'political']", saturday
+"['business', 'comedy', 'romance', 'drama']",monday
+"['business', 'comedy', 'romance', 'drama']", tuesday
+"['romance', 'youth']",thursday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['action', 'romance', 'drama']",wednesday
+"['action', 'romance', 'drama']", thursday
+"['action', 'romance', 'drama']",wednesday
+"['action', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'youth']",NA
+"['action', 'thriller', 'horror', 'fantasy']",friday
+"['business', 'romance', 'life', 'drama']",friday
+"['business', 'romance', 'life', 'drama']", saturday
+"['action', 'thriller', 'mystery', 'supernatural']",monday
+"['action', 'thriller', 'mystery', 'supernatural']", tuesday
+['romance'],saturday
+['romance'], sunday
+"['psychological', 'comedy', 'romance', 'drama']",saturday
+"['psychological', 'comedy', 'romance', 'drama']", sunday
+"['psychological', 'comedy', 'romance', 'drama']",wednesday
+"['psychological', 'comedy', 'romance', 'drama']", thursday
+"['psychological', 'comedy', 'romance', 'drama']",wednesday
+"['psychological', 'comedy', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'life', 'drama']",NA
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['historical', 'romance', 'drama']",monday
+"['historical', 'romance', 'drama']", tuesday
+"['historical', 'drama']",saturday
+"['historical', 'drama']", sunday
+"['action', 'adventure', 'historical', 'comedy', 'romance', 'martial arts', 'supernatural']",wednesday
+"['action', 'adventure', 'historical', 'comedy', 'romance', 'martial arts', 'supernatural']", thursday
+"['action', 'thriller', 'historical', 'political']",saturday
+"['action', 'thriller', 'historical', 'political']", sunday
+"['comedy', 'romance', 'life']",saturday
+"['comedy', 'romance', 'life']", sunday
+"['mystery', 'romance', 'fantasy', 'melodrama']",wednesday
+"['mystery', 'romance', 'fantasy', 'melodrama']", thursday
+"['thriller', 'mystery', 'drama', 'fantasy']",saturday
+"['thriller', 'mystery', 'drama', 'fantasy']", sunday
+"['comedy', 'romance']",monday
+"['comedy', 'romance']", tuesday
+"['comedy', 'romance']", wednesday
+"['comedy', 'romance']", thursday
+"['comedy', 'romance']", friday
+"['action', 'historical', 'drama', 'fantasy']",monday
+"['action', 'historical', 'drama', 'fantasy']", tuesday
+"['historical', 'law', 'romance', 'drama']",friday
+"['historical', 'law', 'romance', 'drama']", saturday
+"['historical', 'romance', 'fantasy']",saturday
+"['historical', 'romance', 'fantasy']", sunday
+"['action', 'historical', 'drama', 'fantasy']",monday
+"['action', 'historical', 'drama', 'fantasy']", tuesday
+"['music', 'comedy', 'life']",monday
+"['music', 'comedy', 'life']", tuesday
+"['music', 'comedy', 'life']", wednesday
+"['music', 'comedy', 'life']", thursday
+"['music', 'comedy', 'life']", friday
+"['thriller', 'mystery', 'psychological', 'drama']",monday
+"['thriller', 'mystery', 'psychological', 'drama']", tuesday
+"['comedy', 'law', 'romance', 'drama']",wednesday
+"['comedy', 'law', 'romance', 'drama']", thursday
+"['business', 'comedy', 'romance', 'drama']",monday
+"['business', 'comedy', 'romance', 'drama']", tuesday
+"['comedy', 'sitcom']",monday
+"['comedy', 'sitcom']", tuesday
+"['comedy', 'sitcom']", wednesday
+"['comedy', 'sitcom']", thursday
+"['comedy', 'sitcom']", friday
+"['youth', 'drama']",NA
+"['mystery', 'life', 'youth', 'drama']",thursday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['romance', 'life', 'drama', 'sports']",monday
+"['romance', 'life', 'drama', 'sports']", tuesday
+"['thriller', 'mystery', 'law', 'drama']",wednesday
+"['thriller', 'mystery', 'law', 'drama']", thursday
+"['law', 'drama']",friday
+"['action', 'thriller', 'drama', 'sci-fi']",monday
+"['action', 'thriller', 'drama', 'sci-fi']", tuesday
+['drama'],NA
+"['comedy', 'romance', 'fantasy']",monday
+"['comedy', 'romance', 'fantasy']", wednesday
+"['comedy', 'romance', 'fantasy']", friday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['thriller', 'mystery', 'comedy', 'romance']",wednesday
+"['thriller', 'mystery', 'comedy', 'romance']", thursday
+"['life', 'drama']",wednesday
+"['life', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']", saturday
+"['drama', 'family', 'melodrama']",monday
+"['drama', 'family', 'melodrama']", tuesday
+"['drama', 'family', 'melodrama']", wednesday
+"['drama', 'family', 'melodrama']", thursday
+"['drama', 'family', 'melodrama']", friday
+"['drama', 'family', 'melodrama']",monday
+"['drama', 'family', 'melodrama']", tuesday
+"['drama', 'family', 'melodrama']", wednesday
+"['drama', 'family', 'melodrama']", thursday
+"['drama', 'family', 'melodrama']", friday
+"['historical', 'drama']",monday
+"['historical', 'drama']", tuesday
+"['historical', 'drama']", wednesday
+"['historical', 'drama']", thursday
+"['historical', 'drama']", friday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['historical', 'romance', 'drama', 'family']",monday
+"['historical', 'romance', 'drama', 'family']", tuesday
+"['historical', 'romance', 'drama', 'family']", wednesday
+"['historical', 'romance', 'drama', 'family']", thursday
+"['historical', 'romance', 'drama', 'family']", friday
+"['historical', 'romance', 'drama', 'family', 'melodrama']",monday
+"['historical', 'romance', 'drama', 'family', 'melodrama']", tuesday
+"['historical', 'romance', 'drama', 'family', 'melodrama']", wednesday
+"['historical', 'romance', 'drama', 'family', 'melodrama']", thursday
+"['historical', 'romance', 'drama', 'family', 'melodrama']", friday
+"['drama', 'melodrama']",monday
+"['romance', 'melodrama']",monday
+"['romance', 'melodrama']", tuesday
+"['romance', 'melodrama']", wednesday
+"['romance', 'melodrama']", thursday
+"['romance', 'melodrama']", friday
+"['romance', 'life', 'drama', 'melodrama']",monday
+"['romance', 'life', 'drama', 'melodrama']", tuesday
+"['romance', 'life', 'drama', 'melodrama']", wednesday
+"['romance', 'life', 'drama', 'melodrama']", thursday
+"['romance', 'life', 'drama', 'melodrama']", friday
+"['romance', 'medical']",monday
+"['romance', 'medical']", tuesday
+"['romance', 'medical']", wednesday
+"['romance', 'medical']", thursday
+"['romance', 'medical']", friday
+"['romance', 'family']",monday
+"['romance', 'family']", tuesday
+"['romance', 'family']", wednesday
+"['romance', 'family']", thursday
+"['romance', 'family']", friday
+['drama'],monday
+['drama'], tuesday
+['drama'], wednesday
+['drama'], thursday
+['drama'], friday
+['drama'], saturday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['historical', 'romance', 'drama', 'family', 'melodrama']",monday
+"['historical', 'romance', 'drama', 'family', 'melodrama']", tuesday
+"['historical', 'romance', 'drama', 'family', 'melodrama']", wednesday
+"['historical', 'romance', 'drama', 'family', 'melodrama']", thursday
+"['historical', 'romance', 'drama', 'family', 'melodrama']", friday
+"['thriller', 'drama']",wednesday
+"['thriller', 'drama']", thursday
+"['action', 'thriller', 'mystery', 'drama']",saturday
+"['action', 'thriller', 'mystery', 'drama']", sunday
+"['psychological', 'comedy', 'romance', 'drama']",wednesday
+"['psychological', 'comedy', 'romance', 'drama']", thursday
+"['drama', 'fantasy']",friday
+"['mystery', 'comedy', 'sci-fi']",tuesday
+"['mystery', 'comedy', 'sci-fi']", thursday
+"['mystery', 'comedy', 'drama', 'sitcom']",monday
+"['mystery', 'comedy', 'drama', 'sitcom']", tuesday
+"['mystery', 'comedy', 'drama', 'sitcom']", wednesday
+"['mystery', 'comedy', 'drama', 'sitcom']", thursday
+"['mystery', 'comedy', 'drama', 'sitcom']", friday
+"['mystery', 'comedy', 'drama', 'sitcom']",monday
+"['mystery', 'comedy', 'drama', 'sitcom']", tuesday
+"['mystery', 'comedy', 'drama', 'sitcom']", wednesday
+"['mystery', 'comedy', 'drama', 'sitcom']", thursday
+"['mystery', 'comedy', 'drama', 'sitcom']", friday
+"['food', 'mystery', 'romance', 'family']",wednesday
+"['food', 'mystery', 'romance', 'family']", thursday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['comedy', 'romance']",saturday
+"['comedy', 'romance']", sunday
+"['thriller', 'historical', 'horror', 'political']",friday
+"['historical', 'romance', 'drama', 'supernatural']",saturday
+"['historical', 'romance', 'drama', 'supernatural']", sunday
+"['comedy', 'romance', 'fantasy', 'supernatural']",wednesday
+"['business', 'comedy', 'life', 'drama']",wednesday
+"['business', 'comedy', 'life', 'drama']", thursday
+"['comedy', 'romance', 'medical', 'fantasy']",friday
+"['comedy', 'romance', 'medical', 'fantasy']", saturday
+"['action', 'military', 'romance', 'political']",monday
+"['action', 'military', 'romance', 'political']", tuesday
+"['action', 'thriller', 'mystery', 'sci-fi']",monday
+"['action', 'thriller', 'mystery', 'sci-fi']", tuesday
+"['comedy', 'romance', 'family', 'melodrama']",monday
+"['comedy', 'romance', 'family', 'melodrama']", tuesday
+"['comedy', 'romance', 'family', 'melodrama']", wednesday
+"['comedy', 'romance', 'family', 'melodrama']", thursday
+"['comedy', 'romance', 'family', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['action', 'thriller', 'crime']",friday
+"['action', 'thriller', 'crime']", saturday
+"['food', 'life', 'drama']",saturday
+"['mystery', 'law', 'crime', 'drama']",wednesday
+"['mystery', 'law', 'crime', 'drama']", thursday
+"['action', 'thriller', 'law', 'romance']",saturday
+"['action', 'thriller', 'law', 'romance']", sunday
+"['thriller', 'law', 'romance']",monday
+"['thriller', 'law', 'romance']", tuesday
+"['mystery', 'business', 'romance', 'melodrama']",monday
+"['mystery', 'business', 'romance', 'melodrama']", tuesday
+"['mystery', 'business', 'romance', 'melodrama']", wednesday
+"['mystery', 'business', 'romance', 'melodrama']", thursday
+"['mystery', 'business', 'romance', 'melodrama']", friday
+"['mystery', 'business', 'romance', 'melodrama']",monday
+"['mystery', 'business', 'romance', 'melodrama']", tuesday
+"['mystery', 'business', 'romance', 'melodrama']", wednesday
+"['mystery', 'business', 'romance', 'melodrama']", thursday
+"['mystery', 'business', 'romance', 'melodrama']", friday
+"['mystery', 'comedy', 'law', 'drama']",friday
+"['mystery', 'comedy', 'law', 'drama']", saturday
+"['historical', 'comedy', 'romance']",monday
+"['historical', 'comedy', 'romance']", tuesday
+"['thriller', 'mystery', 'psychological', 'drama']",monday
+"['thriller', 'mystery', 'psychological', 'drama']", tuesday
+"['music', 'comedy', 'romance', 'drama']",sunday
+"['mystery', 'psychological', 'romance', 'melodrama']",saturday
+"['food', 'comedy', 'romance', 'drama']",monday
+"['food', 'comedy', 'romance', 'drama']", tuesday
+"['food', 'comedy', 'romance', 'drama']",monday
+"['food', 'comedy', 'romance', 'drama']", tuesday
+"['food', 'comedy', 'romance', 'life']",monday
+"['food', 'comedy', 'romance', 'life']", tuesday
+"['business', 'comedy', 'romance']",wednesday
+"['business', 'comedy', 'romance']", thursday
+"['action', 'mystery', 'comedy', 'crime']",sunday
+"['thriller', 'mystery', 'psychological', 'drama']",monday
+"['thriller', 'mystery', 'psychological', 'drama']", tuesday
+"['thriller', 'romance', 'melodrama']",friday
+"['thriller', 'romance', 'melodrama']", saturday
+"['comedy', 'romance']",monday
+"['comedy', 'romance']", tuesday
+"['thriller', 'mystery', 'psychological', 'drama']",monday
+"['thriller', 'mystery', 'psychological', 'drama']", tuesday
+"['thriller', 'psychological', 'drama', 'medical']",monday
+"['thriller', 'psychological', 'drama', 'medical']", tuesday
+"['business', 'romance', 'drama']",monday
+"['business', 'romance', 'drama']", tuesday
+"['action', 'mystery', 'psychological', 'comedy']",saturday
+"['action', 'mystery', 'psychological', 'comedy']", sunday
+"['military', 'comedy', 'romance', 'political']",monday
+"['military', 'comedy', 'romance', 'political']", tuesday
+"['romance', 'youth', 'drama']",tuesday
+"['romance', 'youth', 'drama']", thursday
+"['romance', 'family']",monday
+"['romance', 'family']", tuesday
+"['romance', 'family']", wednesday
+"['romance', 'family']", thursday
+"['romance', 'family']", friday
+"['mystery', 'romance', 'drama', 'fantasy']",monday
+"['mystery', 'romance', 'drama', 'fantasy']", tuesday
+"['comedy', 'romance', 'life', 'drama']",friday
+"['comedy', 'romance', 'life', 'drama']", saturday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['romance', 'drama', 'family']",saturday
+"['romance', 'drama', 'family']", sunday
+"['romance', 'life', 'drama']",saturday
+"['romance', 'life', 'drama']", sunday
+"['comedy', 'romance', 'youth', 'drama']",tuesday
+"['historical', 'romance', 'medical', 'fantasy']",saturday
+"['historical', 'romance', 'medical', 'fantasy']", sunday
+"['romance', 'family', 'melodrama']",saturday
+"['romance', 'family', 'melodrama']", sunday
+"['comedy', 'romance', 'drama']",wednesday
+"['comedy', 'romance', 'drama']", thursday
+"['comedy', 'sitcom']",monday
+"['comedy', 'sitcom']", tuesday
+"['comedy', 'sitcom']", wednesday
+"['comedy', 'sitcom']", thursday
+"['comedy', 'sitcom']", friday
+"['action', 'thriller', 'romance', 'drama']",wednesday
+"['action', 'thriller', 'romance', 'drama']", thursday
+"['action', 'thriller', 'mystery', 'comedy']",saturday
+"['action', 'thriller', 'mystery', 'comedy']", sunday
+"['action', 'thriller', 'mystery', 'drama']",wednesday
+"['action', 'thriller', 'mystery', 'drama']", thursday
+"['mystery', 'drama']",monday
+"['mystery', 'drama']", tuesday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['life', 'drama', 'melodrama']",saturday
+"['life', 'drama', 'melodrama']", sunday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['mystery', 'romance', 'drama']",saturday
+"['mystery', 'romance', 'drama']", sunday
+"['romance', 'life', 'drama', 'family', 'melodrama']",wednesday
+"['romance', 'life', 'drama', 'family', 'melodrama']", thursday
+"['comedy', 'romance', 'youth', 'drama']",thursday
+"['business', 'comedy', 'romance', 'melodrama']",wednesday
+"['business', 'comedy', 'romance', 'melodrama']", thursday
+"['romance', 'drama', 'sports', 'melodrama']",wednesday
+"['romance', 'drama', 'sports', 'melodrama']", thursday
+"['drama', 'melodrama']",monday
+"['drama', 'melodrama']", tuesday
+"['drama', 'melodrama']", wednesday
+"['drama', 'melodrama']", thursday
+"['drama', 'melodrama']", friday
+"['drama', 'melodrama']", saturday
+"['comedy', 'romance']",monday
+"['comedy', 'romance']", tuesday
+"['comedy', 'romance']", wednesday
+"['comedy', 'romance']", thursday
+"['comedy', 'romance']", friday
+"['music', 'comedy', 'romance', 'supernatural']",monday
+"['music', 'comedy', 'romance', 'supernatural']", wednesday
+"['music', 'comedy', 'romance', 'supernatural']", friday
+['drama'],monday
+['drama'], tuesday
+"['business', 'comedy', 'romance']",wednesday
+"['business', 'comedy', 'romance']", thursday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama', 'melodrama']",saturday
+"['historical', 'comedy', 'romance', 'drama']",monday
+"['historical', 'comedy', 'romance', 'drama']", tuesday
+"['comedy', 'romance']",wednesday
+"['comedy', 'romance']", thursday
+['romance'],monday
+['romance'], tuesday
+['romance'], wednesday
+['romance'], thursday
+['romance'], friday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['romance', 'life', 'youth', 'drama']",thursday
+"['romance', 'life', 'youth', 'drama']", saturday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['comedy', 'romance', 'youth', 'drama']",thursday
+"['comedy', 'romance', 'youth', 'drama']", sunday
+"['romance', 'life', 'drama']",NA
+"['comedy', 'law', 'romance']",friday
+"['business', 'romance', 'family', 'melodrama']",monday
+"['business', 'romance', 'family', 'melodrama']", tuesday
+"['business', 'romance', 'family', 'melodrama']", wednesday
+"['business', 'romance', 'family', 'melodrama']", thursday
+"['business', 'romance', 'family', 'melodrama']", friday
+"['family', 'melodrama']",monday
+"['family', 'melodrama']", tuesday
+"['family', 'melodrama']", wednesday
+"['family', 'melodrama']", thursday
+"['family', 'melodrama']", friday
+"['comedy', 'romance', 'life', 'drama']",wednesday
+"['comedy', 'romance', 'life', 'drama']", thursday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['horror', 'comedy', 'romance', 'supernatural']",monday
+"['horror', 'comedy', 'romance', 'supernatural']", tuesday
+"['drama', 'family']",monday
+"['drama', 'family']", tuesday
+"['comedy', 'romance', 'melodrama']",monday
+"['comedy', 'romance', 'melodrama']", tuesday
+"['comedy', 'romance', 'melodrama']", wednesday
+"['comedy', 'romance', 'melodrama']", thursday
+"['comedy', 'romance', 'melodrama']", friday
+['romance'],saturday
+['romance'], sunday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['comedy', 'romance']",monday
+"['comedy', 'romance']", tuesday
+"['music', 'comedy', 'romance']",monday
+"['music', 'comedy', 'romance']", tuesday
+"['historical', 'romance', 'drama', 'fantasy']",monday
+"['historical', 'romance', 'drama', 'fantasy']", tuesday
+"['romance', 'life', 'youth', 'drama']",tuesday
+"['romance', 'life', 'youth', 'drama']", friday
+"['comedy', 'romance', 'drama', 'fantasy']",saturday
+"['comedy', 'romance', 'drama', 'fantasy']", sunday
+"['comedy', 'romance', 'drama', 'political']",wednesday
+"['comedy', 'romance', 'drama', 'political']", thursday
+"['business', 'comedy', 'romance', 'drama']",wednesday
+"['business', 'comedy', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'youth']",thursday
+['family'],monday
+['family'], tuesday
+['family'], wednesday
+['family'], thursday
+['family'], friday
+"['action', 'thriller', 'mystery']",wednesday
+"['action', 'thriller', 'mystery']", thursday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['comedy', 'romance', 'drama']", wednesday
+"['psychological', 'comedy', 'romance']",friday
+"['psychological', 'comedy', 'romance']", saturday
+['romance'],NA
+"['comedy', 'youth', 'fantasy']",monday
+"['comedy', 'youth', 'fantasy']", tuesday
+"['comedy', 'youth', 'fantasy']", wednesday
+"['comedy', 'youth', 'fantasy']", thursday
+"['comedy', 'youth', 'fantasy']", friday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['romance', 'family']",monday
+"['romance', 'family']", tuesday
+"['romance', 'family']", wednesday
+"['romance', 'family']", thursday
+"['romance', 'family']", friday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['business', 'romance', 'drama', 'family']",monday
+"['business', 'romance', 'drama', 'family']", tuesday
+"['business', 'romance', 'drama', 'family']", wednesday
+"['business', 'romance', 'drama', 'family']", thursday
+"['business', 'romance', 'drama', 'family']", friday
+"['food', 'romance', 'drama', 'family']",saturday
+"['food', 'romance', 'drama', 'family']", sunday
+"['action', 'thriller', 'comedy', 'romance']",friday
+"['action', 'thriller', 'comedy', 'romance']", saturday
+"['comedy', 'drama', 'family']",wednesday
+"['comedy', 'drama', 'family']", thursday
+"['thriller', 'comedy', 'romance', 'fantasy']",wednesday
+"['thriller', 'comedy', 'romance', 'fantasy']", thursday
+"['comedy', 'romance']",wednesday
+"['comedy', 'romance']", thursday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['comedy', 'romance', 'drama']",friday
+"['comedy', 'romance', 'drama']", saturday
+"['comedy', 'romance', 'supernatural']",monday
+"['comedy', 'romance', 'supernatural']", tuesday
+"['romance', 'medical', 'melodrama']",saturday
+"['romance', 'medical', 'melodrama']", sunday
+"['comedy', 'romance']",wednesday
+"['comedy', 'romance']", thursday
+"['romance', 'drama']",saturday
+"['romance', 'drama']", sunday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['romance', 'supernatural']",monday
+"['romance', 'supernatural']", tuesday
+"['romance', 'supernatural']", wednesday
+"['romance', 'supernatural']", thursday
+"['romance', 'supernatural']", friday
+"['thriller', 'mystery', 'comedy', 'drama']",friday
+"['horror', 'comedy', 'romance', 'supernatural']",wednesday
+"['horror', 'comedy', 'romance', 'supernatural']", thursday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['mystery', 'romance', 'drama', 'supernatural']",wednesday
+"['mystery', 'romance', 'drama', 'supernatural']", thursday
+"['mystery', 'law', 'drama']",wednesday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['psychological', 'comedy', 'romance', 'drama']",wednesday
+"['psychological', 'comedy', 'romance', 'drama']", thursday
+"['drama', 'medical']",wednesday
+"['drama', 'medical']", thursday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['music', 'romance', 'drama', 'family']",monday
+"['music', 'romance', 'drama', 'family']", tuesday
+"['music', 'romance', 'drama', 'family']", wednesday
+"['music', 'romance', 'drama', 'family']", thursday
+"['music', 'romance', 'drama', 'family']", friday
+"['mystery', 'psychological', 'romance', 'supernatural']",monday
+"['mystery', 'psychological', 'romance', 'supernatural']", tuesday
+"['mystery', 'comedy', 'romance', 'sci-fi']",saturday
+"['mystery', 'comedy', 'romance', 'sci-fi']", sunday
+"['action', 'thriller', 'romance', 'sci-fi']",saturday
+"['action', 'thriller', 'romance', 'sci-fi']", sunday
+"['comedy', 'romance', 'drama', 'political']",wednesday
+"['comedy', 'romance', 'drama', 'political']", thursday
+"['action', 'thriller', 'mystery', 'supernatural']",wednesday
+"['action', 'thriller', 'mystery', 'supernatural']", thursday
+"['law', 'romance', 'life', 'drama']",friday
+"['law', 'romance', 'life', 'drama']", saturday
+"['comedy', 'romance', 'drama', 'fantasy']",monday
+"['comedy', 'romance', 'drama', 'fantasy']", tuesday
+"['comedy', 'drama', 'sports']",monday
+"['comedy', 'drama', 'sports']", tuesday
+"['comedy', 'romance']",wednesday
+"['comedy', 'romance']", thursday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['action', 'military', 'mystery', 'law']",monday
+"['action', 'military', 'mystery', 'law']", tuesday
+"['mystery', 'romance', 'supernatural']",friday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['thriller', 'mystery', 'drama']",saturday
+"['thriller', 'mystery', 'drama']", sunday
+"['mystery', 'drama', 'fantasy', 'supernatural']",wednesday
+"['mystery', 'drama', 'fantasy', 'supernatural']", thursday
+"['business', 'life', 'drama']",friday
+"['business', 'life', 'drama']", saturday
+['drama'],monday
+['drama'], tuesday
+['drama'], wednesday
+['drama'], thursday
+['drama'], friday
+"['comedy', 'romance', 'life', 'drama']",wednesday
+"['comedy', 'romance', 'life', 'drama']", thursday
+"['business', 'comedy', 'life', 'drama']",wednesday
+"['business', 'comedy', 'life', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama']", wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama']", friday
+"['thriller', 'romance', 'drama', 'melodrama']",monday
+"['thriller', 'romance', 'drama', 'melodrama']", tuesday
+"['thriller', 'romance', 'drama', 'melodrama']", wednesday
+"['thriller', 'romance', 'drama', 'melodrama']", thursday
+"['thriller', 'romance', 'drama', 'melodrama']", friday
+"['food', 'comedy', 'romance', 'drama']",saturday
+"['food', 'comedy', 'romance', 'drama']", sunday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['adventure', 'mystery', 'comedy', 'drama']",wednesday
+"['adventure', 'mystery', 'comedy', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['thriller', 'mystery', 'supernatural']",saturday
+"['thriller', 'mystery', 'supernatural']", sunday
+"['thriller', 'mystery', 'romance', 'drama']",saturday
+"['thriller', 'mystery', 'romance', 'drama']", sunday
+"['thriller', 'mystery', 'romance', 'melodrama']",friday
+"['thriller', 'mystery', 'romance', 'melodrama']", saturday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['romance', 'drama', 'family']",monday
+"['romance', 'drama', 'family']", tuesday
+"['romance', 'drama', 'family']", wednesday
+"['romance', 'drama', 'family']", thursday
+"['romance', 'drama', 'family']", friday
+"['romance', 'drama']",saturday
+"['romance', 'drama']", sunday
+"['business', 'law', 'romance', 'melodrama']",saturday
+"['thriller', 'mystery', 'psychological']",NA
+"['action', 'thriller', 'mystery', 'crime']",friday
+"['music', 'romance', 'youth']",friday
+"['business', 'romance', 'crime', 'melodrama']",monday
+"['business', 'romance', 'crime', 'melodrama']", tuesday
+"['thriller', 'mystery', 'horror', 'supernatural']",friday
+"['business', 'comedy', 'romance', 'drama']",wednesday
+"['business', 'comedy', 'romance', 'drama']", thursday
+"['historical', 'romance', 'supernatural', 'political']",wednesday
+"['historical', 'romance', 'supernatural', 'political']", thursday
+"['historical', 'romance', 'fantasy', 'melodrama']",monday
+"['historical', 'romance', 'fantasy', 'melodrama']", tuesday
+"['action', 'historical', 'comedy', 'romance']",monday
+"['action', 'historical', 'comedy', 'romance']", tuesday
+"['action', 'romance', 'drama', 'supernatural']",monday
+"['action', 'romance', 'drama', 'supernatural']", tuesday
+"['historical', 'romance', 'drama']",friday
+"['historical', 'romance', 'drama']", saturday
+"['comedy', 'romance', 'life', 'drama']",friday
+"['comedy', 'romance', 'life', 'drama']", saturday
+"['thriller', 'mystery', 'psychological', 'melodrama']",wednesday
+"['thriller', 'mystery', 'psychological', 'melodrama']", thursday
+"['business', 'romance', 'life', 'melodrama']",saturday
+"['business', 'romance', 'life', 'melodrama']", sunday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['thriller', 'mystery', 'psychological', 'sci-fi']",wednesday
+"['thriller', 'mystery', 'psychological', 'sci-fi']", thursday
+"['life', 'drama']",friday
+"['action', 'thriller', 'mystery', 'supernatural']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['comedy', 'romance']",wednesday
+"['comedy', 'romance']", thursday
+"['historical', 'comedy', 'romance', 'fantasy']",saturday
+"['historical', 'comedy', 'romance', 'fantasy']", sunday
+"['military', 'historical', 'romance', 'melodrama']",saturday
+"['military', 'historical', 'romance', 'melodrama']", sunday
+"['action', 'mystery']",monday
+"['action', 'mystery']", tuesday
+"['romance', 'fantasy', 'melodrama']",saturday
+"['romance', 'fantasy', 'melodrama']", sunday
+"['law', 'romance', 'life', 'drama']",monday
+"['law', 'romance', 'life', 'drama']", tuesday
+"['mystery', 'comedy']",monday
+"['mystery', 'comedy']", tuesday
+"['thriller', 'mystery', 'drama']",saturday
+"['mystery', 'comedy']",monday
+"['mystery', 'comedy']", tuesday
+"['thriller', 'mystery', 'comedy', 'supernatural']",NA
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['action', 'mystery', 'romance', 'crime']",saturday
+"['action', 'mystery', 'romance', 'crime']", sunday
+"['romance', 'life', 'drama', 'family', 'melodrama']",saturday
+"['romance', 'life', 'drama', 'family', 'melodrama']", sunday
+['romance'],friday
+"['mystery', 'romance', 'drama', 'sci-fi']",monday
+"['mystery', 'romance', 'drama', 'sci-fi']", tuesday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['action', 'historical', 'romance', 'drama']",friday
+"['action', 'historical', 'romance', 'drama']", saturday
+"['thriller', 'psychological', 'drama']",monday
+"['thriller', 'psychological', 'drama']", tuesday
+"['romance', 'family']",monday
+"['romance', 'family']", tuesday
+"['romance', 'family']", wednesday
+"['romance', 'family']", thursday
+"['romance', 'family']", friday
+"['romance', 'drama', 'family']",saturday
+"['romance', 'drama', 'family']", sunday
+"['mystery', 'comedy', 'romance', 'drama']",monday
+"['mystery', 'comedy', 'romance', 'drama']", tuesday
+"['mystery', 'comedy', 'romance', 'drama']", wednesday
+"['mystery', 'comedy', 'romance', 'drama']", thursday
+"['mystery', 'comedy', 'romance', 'drama']", friday
+"['historical', 'romance', 'drama', 'melodrama']",friday
+"['historical', 'romance', 'drama', 'melodrama']", saturday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['comedy', 'romance', 'crime', 'political']",monday
+"['comedy', 'romance', 'crime', 'political']", tuesday
+"['comedy', 'romance', 'life', 'youth']",NA
+"['comedy', 'romance', 'life', 'youth']",NA
+"['comedy', 'romance', 'life']",friday
+"['comedy', 'romance', 'life']", monday
+"['comedy', 'romance', 'life']", wednesday
+"['business', 'comedy', 'romance', 'drama']",saturday
+"['business', 'comedy', 'romance', 'drama']", sunday
+"['romance', 'life', 'drama']",sunday
+"['romance', 'drama', 'family', 'melodrama']",saturday
+"['romance', 'drama', 'family', 'melodrama']", sunday
+"['romance', 'drama', 'sci-fi', 'melodrama']",friday
+"['business', 'comedy', 'life', 'drama']",friday
+"['business', 'comedy', 'life', 'drama']", saturday
+"['comedy', 'romance', 'life', 'drama']",saturday
+"['comedy', 'romance', 'life', 'drama']", sunday
+"['romance', 'life', 'drama', 'melodrama']",monday
+"['romance', 'life', 'drama', 'melodrama']", tuesday
+"['drama', 'family']",saturday
+"['drama', 'family']", sunday
+"['mystery', 'comedy', 'law']",monday
+"['mystery', 'comedy', 'law']", tuesday
+"['mystery', 'comedy', 'law', 'drama']",monday
+"['mystery', 'comedy', 'law', 'drama']", tuesday
+"['romance', 'life', 'drama', 'melodrama']",saturday
+"['romance', 'life', 'drama', 'melodrama']", sunday
+"['comedy', 'romance', 'family']",saturday
+['family'],monday
+['family'], tuesday
+['family'], wednesday
+['family'], thursday
+['family'], friday
+"['comedy', 'romance', 'drama', 'supernatural']",wednesday
+"['comedy', 'romance', 'drama', 'supernatural']", thursday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+['romance'],friday
+"['music', 'romance', 'drama']",wednesday
+"['music', 'romance', 'drama']", thursday
+"['mystery', 'comedy', 'romance', 'supernatural']",monday
+"['mystery', 'comedy', 'romance', 'supernatural']", tuesday
+['drama'],monday
+['drama'], tuesday
+['drama'], wednesday
+['drama'], thursday
+['drama'], friday
+"['romance', 'drama', 'family']",saturday
+"['romance', 'drama', 'family']", sunday
+"['psychological', 'life', 'drama']",wednesday
+"['psychological', 'life', 'drama']", thursday
+"['comedy', 'drama', 'melodrama']",monday
+"['comedy', 'drama', 'melodrama']", wednesday
+"['comedy', 'drama', 'melodrama']", thursday
+"['comedy', 'drama', 'melodrama']", friday
+"['comedy', 'drama', 'melodrama']", tuesday
+"['action', 'thriller', 'mystery', 'crime']",friday
+"['historical', 'comedy', 'romance', 'drama']",NA
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+"['mystery', 'romance', 'drama', 'sci-fi']",monday
+"['mystery', 'romance', 'drama', 'sci-fi']", tuesday
+"['comedy', 'romance', 'drama', 'supernatural']",wednesday
+"['comedy', 'romance', 'drama', 'supernatural']", thursday
+"['comedy', 'romance', 'fantasy']",wednesday
+"['comedy', 'romance', 'fantasy']", thursday
+"['romance', 'melodrama']",wednesday
+"['romance', 'melodrama']", thursday
+"['comedy', 'romance', 'drama', 'supernatural']",NA
+"['historical', 'comedy', 'romance']",monday
+"['historical', 'comedy', 'romance']", tuesday
+"['mystery', 'comedy', 'romance', 'drama']",monday
+"['mystery', 'comedy', 'romance', 'drama']", tuesday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['action', 'mystery', 'comedy', 'romance']",wednesday
+"['action', 'mystery', 'comedy', 'romance']", thursday
+"['romance', 'melodrama']",wednesday
+"['romance', 'melodrama']", thursday
+"['mystery', 'comedy', 'romance', 'youth']",monday
+"['mystery', 'comedy', 'romance', 'youth']", tuesday
+"['comedy', 'romance', 'family']",saturday
+"['comedy', 'romance', 'family']", sunday
+"['life', 'drama']",monday
+"['life', 'drama']", tuesday
+"['romance', 'drama']",friday
+"['romance', 'drama']", saturday
+"['mystery', 'melodrama']",monday
+"['mystery', 'melodrama']", tuesday
+"['mystery', 'melodrama']", wednesday
+"['mystery', 'melodrama']", thursday
+"['mystery', 'melodrama']", friday
+"['mystery', 'comedy', 'drama', 'fantasy']",wednesday
+"['mystery', 'comedy', 'drama', 'fantasy']", thursday
+"['music', 'comedy', 'romance', 'youth']",monday
+"['music', 'comedy', 'romance', 'youth']", tuesday
+"['action', 'thriller', 'mystery', 'drama']",wednesday
+"['action', 'thriller', 'mystery', 'drama']", thursday
+"['action', 'thriller', 'crime']",friday
+"['life', 'drama']",monday
+"['life', 'drama']", tuesday
+"['comedy', 'romance', 'drama', 'family']",saturday
+"['romance', 'life', 'youth', 'drama']",saturday
+"['romance', 'medical']",wednesday
+"['romance', 'medical']", thursday
+"['historical', 'drama']",tuesday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['business', 'drama', 'political']",monday
+"['business', 'drama', 'political']", tuesday
+"['mystery', 'romance', 'supernatural']",monday
+"['mystery', 'romance', 'supernatural']", tuesday
+"['romance', 'drama', 'family']",monday
+"['romance', 'drama', 'family']", tuesday
+"['romance', 'drama', 'family']", wednesday
+"['romance', 'drama', 'family']", thursday
+"['romance', 'drama', 'family']", friday
+"['comedy', 'romance', 'drama', 'melodrama']",NA
+"['comedy', 'romance', 'life', 'drama']",saturday
+"['comedy', 'romance']",monday
+"['comedy', 'romance']", tuesday
+"['comedy', 'romance']", wednesday
+"['comedy', 'romance']", thursday
+"['comedy', 'romance']", sunday
+"['thriller', 'mystery', 'drama', 'melodrama']",monday
+"['thriller', 'mystery', 'drama', 'melodrama']", tuesday
+"['historical', 'romance', 'war', 'political']",friday
+"['historical', 'romance', 'war', 'political']", saturday
+"['comedy', 'romance', 'drama', 'sitcom']",monday
+"['comedy', 'romance', 'drama', 'sitcom']", tuesday
+"['comedy', 'romance', 'drama', 'sitcom']", wednesday
+"['comedy', 'romance', 'drama', 'sitcom']", thursday
+"['comedy', 'romance', 'drama', 'sitcom']", friday
+"['mystery', 'comedy', 'romance', 'drama']",monday
+"['mystery', 'comedy', 'romance', 'drama']", tuesday
+"['romance', 'drama', 'melodrama']",friday
+"['romance', 'drama', 'melodrama']", saturday
+"['action', 'thriller', 'mystery', 'drama']",friday
+"['action', 'thriller', 'mystery', 'drama']", saturday
+"['historical', 'romance', 'youth', 'drama']",monday
+"['historical', 'romance', 'youth', 'drama']", tuesday
+"['comedy', 'romance', 'sci-fi']",NA
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['comedy', 'romance', 'drama', 'medical']",wednesday
+"['comedy', 'romance', 'drama', 'medical']", thursday
+"['thriller', 'comedy', 'romance', 'supernatural']",friday
+"['thriller', 'comedy', 'romance', 'supernatural']", saturday
+"['comedy', 'romance', 'fantasy', 'melodrama']",wednesday
+"['comedy', 'romance', 'fantasy', 'melodrama']", thursday
+"['comedy', 'law', 'romance', 'life']",monday
+"['comedy', 'law', 'romance', 'life']", tuesday
+"['comedy', 'romance', 'fantasy', 'melodrama']",wednesday
+"['comedy', 'romance', 'fantasy', 'melodrama']", thursday
+"['thriller', 'romance', 'drama', 'fantasy']",friday
+"['thriller', 'romance', 'drama', 'fantasy']", saturday
+"['comedy', 'romance', 'drama', 'supernatural']",monday
+"['comedy', 'romance', 'drama', 'supernatural']", tuesday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['comedy', 'life', 'drama']",wednesday
+"['comedy', 'life', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'supernatural']",thursday
+"['comedy', 'romance', 'life']",monday
+"['comedy', 'romance', 'life']", tuesday
+"['comedy', 'romance', 'life']", wednesday
+"['comedy', 'law', 'drama']",friday
+"['comedy', 'law', 'drama']", saturday
+['drama'],saturday
+['drama'], sunday
+"['comedy', 'romance', 'youth', 'drama']",wednesday
+"['comedy', 'romance', 'youth', 'drama']", thursday
+"['music', 'romance', 'youth', 'drama']",wednesday
+"['thriller', 'mystery', 'law', 'crime']",saturday
+"['thriller', 'mystery', 'law', 'crime']", sunday
+"['romance', 'life', 'drama', 'melodrama']",thursday
+"['romance', 'life', 'drama', 'melodrama']", wednesday
+"['romance', 'drama']",NA
+"['mystery', 'comedy', 'romance', 'drama']",friday
+"['mystery', 'comedy', 'romance', 'drama']", saturday
+"['life', 'drama', 'family', 'melodrama']",monday
+"['life', 'drama', 'family', 'melodrama']", tuesday
+"['business', 'romance', 'drama', 'melodrama']",monday
+"['business', 'romance', 'drama', 'melodrama']", tuesday
+"['business', 'romance', 'drama', 'melodrama']", wednesday
+"['business', 'romance', 'drama', 'melodrama']", thursday
+"['business', 'romance', 'drama', 'melodrama']", friday
+"['romance', 'family']",monday
+"['romance', 'family']", tuesday
+"['romance', 'family']", wednesday
+"['romance', 'family']", thursday
+"['romance', 'family']", friday
+['life'],NA
+"['romance', 'drama', 'sports', 'fantasy']",wednesday
+"['romance', 'drama', 'sports', 'fantasy']", thursday
+"['historical', 'romance', 'drama', 'supernatural']",friday
+"['romance', 'life', 'youth', 'drama']",monday
+"['romance', 'life', 'youth', 'drama']", tuesday
+"['historical', 'mystery', 'romance', 'drama']",monday
+"['historical', 'mystery', 'romance', 'drama']", tuesday
+"['romance', 'life', 'drama', 'melodrama']",saturday
+"['romance', 'life', 'drama', 'melodrama']", sunday
+"['business', 'romance']",thursday
+"['comedy', 'romance', 'family']",saturday
+"['comedy', 'romance', 'family']", sunday
+"['music', 'romance', 'youth']",wednesday
+"['music', 'romance', 'youth']", thursday
+"['historical', 'romance', 'drama', 'melodrama']",friday
+"['romance', 'life', 'melodrama', 'supernatural']",monday
+"['romance', 'life', 'melodrama', 'supernatural']", tuesday
+"['thriller', 'mystery', 'romance', 'drama']",monday
+"['thriller', 'mystery', 'romance', 'drama']", tuesday
+"['action', 'thriller', 'drama', 'melodrama']",saturday
+"['action', 'thriller', 'drama', 'melodrama']", sunday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['thriller', 'mystery', 'law', 'medical']",monday
+"['thriller', 'mystery', 'law', 'medical']", tuesday
+"['business', 'romance', 'family', 'melodrama']",saturday
+"['business', 'romance', 'family', 'melodrama']", sunday
+"['thriller', 'mystery', 'business', 'drama']",friday
+"['thriller', 'mystery', 'business', 'drama']", saturday
+"['business', 'comedy', 'drama']",friday
+"['comedy', 'romance', 'melodrama', 'supernatural']",monday
+"['comedy', 'romance', 'melodrama', 'supernatural']", tuesday
+"['thriller', 'romance', 'drama']",NA
+"['comedy', 'romance', 'life', 'youth']",NA
+"['action', 'youth', 'fantasy']",wednesday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['business', 'romance', 'drama', 'melodrama']",monday
+"['business', 'romance', 'drama', 'melodrama']", tuesday
+"['business', 'romance', 'drama', 'melodrama']", wednesday
+"['business', 'romance', 'drama', 'melodrama']", thursday
+"['business', 'romance', 'drama', 'melodrama']", friday
+"['romance', 'melodrama']",wednesday
+"['romance', 'melodrama']", thursday
+"['action', 'thriller', 'mystery', 'drama']",monday
+"['action', 'thriller', 'mystery', 'drama']", tuesday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['thriller', 'mystery', 'comedy', 'romance']",wednesday
+"['thriller', 'mystery', 'comedy', 'romance']", thursday
+"['action', 'thriller', 'mystery', 'comedy']",saturday
+"['action', 'thriller', 'mystery', 'comedy']", sunday
+"['comedy', 'romance', 'supernatural']",wednesday
+"['comedy', 'romance', 'supernatural']", thursday
+"['comedy', 'romance', 'drama', 'sci-fi']",tuesday
+['romance'],friday
+['romance'], saturday
+"['mystery', 'comedy', 'romance', 'drama']",monday
+"['mystery', 'comedy', 'romance', 'drama']", tuesday
+"['historical', 'mystery', 'romance', 'medical']",wednesday
+"['historical', 'mystery', 'romance', 'medical']", thursday
+"['action', 'military', 'mystery', 'romance']",monday
+"['action', 'military', 'mystery', 'romance']", tuesday
+"['mystery', 'horror', 'romance', 'supernatural']",wednesday
+"['mystery', 'horror', 'romance', 'supernatural']", thursday
+"['comedy', 'romance', 'fantasy', 'sitcom']",monday
+"['comedy', 'romance', 'fantasy', 'sitcom']", tuesday
+"['comedy', 'romance', 'fantasy', 'sitcom']", wednesday
+"['comedy', 'romance', 'fantasy', 'sitcom']", thursday
+"['business', 'romance', 'family']",saturday
+"['business', 'romance', 'family']", sunday
+"['romance', 'drama']",saturday
+"['romance', 'drama']", sunday
+"['mystery', 'law', 'romance']",monday
+"['mystery', 'law', 'romance']", tuesday
+"['thriller', 'horror', 'romance', 'drama']",saturday
+"['thriller', 'horror', 'romance', 'drama']", sunday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['comedy', 'romance', 'drama']",NA
+"['comedy', 'romance', 'drama', 'family']",monday
+"['comedy', 'romance', 'drama', 'family']", tuesday
+"['comedy', 'romance', 'drama', 'family']", wednesday
+"['comedy', 'romance', 'drama', 'family']", thursday
+"['comedy', 'romance', 'drama', 'family']", friday
+"['comedy', 'romance', 'drama']",NA
+"['action', 'historical', 'romance', 'political']",wednesday
+"['action', 'historical', 'romance', 'political']", thursday
+"['comedy', 'crime', 'life', 'drama']",wednesday
+"['comedy', 'crime', 'life', 'drama']", thursday
+"['thriller', 'mystery', 'romance', 'crime']",wednesday
+"['thriller', 'mystery', 'romance', 'crime']", thursday
+"['comedy', 'romance', 'drama']",friday
+"['comedy', 'romance', 'drama']", saturday
+"['business', 'comedy', 'romance', 'melodrama']",wednesday
+"['business', 'comedy', 'romance', 'melodrama']", thursday
+"['thriller', 'mystery', 'comedy', 'crime']",wednesday
+"['thriller', 'mystery', 'comedy', 'crime']", thursday
+"['thriller', 'drama', 'political']",monday
+"['thriller', 'drama', 'political']", tuesday
+"['romance', 'youth', 'drama', 'sports']",monday
+"['romance', 'youth', 'drama', 'sports']", tuesday
+"['comedy', 'drama', 'family', 'melodrama']",monday
+"['comedy', 'drama', 'family', 'melodrama']", tuesday
+"['comedy', 'drama', 'family', 'melodrama']", wednesday
+"['comedy', 'drama', 'family', 'melodrama']", thursday
+"['comedy', 'drama', 'family', 'melodrama']", friday
+"['drama', 'melodrama']",monday
+"['drama', 'melodrama']", tuesday
+"['drama', 'melodrama']", wednesday
+"['drama', 'melodrama']", thursday
+"['drama', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",NA
+"['historical', 'comedy', 'romance', 'fantasy']",wednesday
+"['historical', 'comedy', 'romance', 'fantasy']", thursday
+"['historical', 'romance', 'melodrama', 'political']",wednesday
+"['historical', 'romance', 'melodrama', 'political']", thursday
+"['action', 'mystery', 'comedy', 'drama']",wednesday
+"['action', 'mystery', 'comedy', 'drama']", thursday
+"['action', 'mystery', 'comedy', 'drama']",wednesday
+"['action', 'mystery', 'comedy', 'drama']", thursday
+"['action', 'mystery', 'comedy', 'drama']",wednesday
+"['action', 'mystery', 'comedy', 'drama']", thursday
+"['action', 'mystery', 'comedy', 'drama']",wednesday
+"['action', 'mystery', 'comedy', 'drama']", thursday
+"['thriller', 'mystery', 'drama', 'melodrama']",monday
+"['thriller', 'mystery', 'drama', 'melodrama']", tuesday
+['drama'],wednesday
+['drama'], thursday
+"['historical', 'romance', 'fantasy', 'political']",saturday
+"['historical', 'romance', 'fantasy', 'political']", sunday
+"['business', 'drama', 'political']",friday
+"['mystery', 'drama', 'medical']",friday
+"['comedy', 'life', 'drama', 'sports']",monday
+"['comedy', 'life', 'drama', 'sports']", tuesday
+"['business', 'comedy', 'romance', 'drama']",wednesday
+"['business', 'comedy', 'romance', 'drama']", thursday
+"['business', 'comedy', 'romance']",monday
+"['business', 'comedy', 'romance']", tuesday
+"['psychological', 'romance', 'melodrama']",monday
+"['psychological', 'romance', 'melodrama']", tuesday
+"['business', 'drama', 'fantasy', 'political']",friday
+"['business', 'drama', 'fantasy', 'political']", saturday
+"['business', 'drama', 'fantasy', 'political']", sunday
+"['romance', 'life', 'youth', 'drama']",monday
+"['romance', 'life', 'youth', 'drama']", tuesday
+"['comedy', 'life', 'drama']",saturday
+"['comedy', 'life', 'drama']", sunday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['thriller', 'mystery', 'drama', 'melodrama']",wednesday
+"['thriller', 'mystery', 'drama', 'melodrama']", thursday
+"['mystery', 'drama', 'melodrama']",friday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['mystery', 'horror', 'romance', 'supernatural']",friday
+"['music', 'romance', 'youth', 'drama']",tuesday
+"['music', 'romance', 'youth', 'drama']", friday
+"['comedy', 'romance', 'life', 'youth']",friday
+"['comedy', 'romance', 'life', 'youth']", saturday
+"['comedy', 'romance', 'drama', 'sports']",friday
+"['comedy', 'romance', 'drama', 'sports']", saturday
+"['comedy', 'romance', 'life']",tuesday
+"['mystery', 'drama']",sunday
+"['thriller', 'romance', 'drama']",wednesday
+"['thriller', 'romance', 'drama']", thursday
+"['thriller', 'mystery', 'law']",wednesday
+"['thriller', 'mystery', 'law']", thursday
+"['romance', 'drama', 'melodrama', 'supernatural']",wednesday
+"['romance', 'drama', 'melodrama', 'supernatural']", thursday
+"['thriller', 'mystery', 'horror', 'supernatural']",friday
+"['thriller', 'mystery', 'horror', 'supernatural']", saturday
+"['action', 'thriller', 'mystery', 'drama']",wednesday
+"['romance', 'life', 'youth']",thursday
+"['business', 'comedy', 'romance', 'drama']",saturday
+"['business', 'comedy', 'romance', 'drama']", sunday
+"['thriller', 'comedy', 'romance', 'drama']",saturday
+"['thriller', 'comedy', 'romance', 'drama']", sunday
+"['business', 'comedy', 'romance', 'melodrama']",wednesday
+"['business', 'comedy', 'romance', 'melodrama']", thursday
+"['romance', 'life', 'drama', 'family']",monday
+"['romance', 'life', 'drama', 'family']", tuesday
+"['comedy', 'romance', 'medical']",monday
+"['comedy', 'romance', 'medical']", tuesday
+"['action', 'historical', 'romance', 'political']",monday
+"['action', 'historical', 'romance', 'political']", tuesday
+"['romance', 'crime', 'drama', 'melodrama']",wednesday
+"['romance', 'crime', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['business', 'comedy', 'romance', 'melodrama']",saturday
+"['business', 'comedy', 'romance', 'melodrama']", sunday
+"['comedy', 'romance', 'drama', 'family']",wednesday
+"['comedy', 'romance', 'drama', 'family']", thursday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['historical', 'comedy', 'romance', 'fantasy']",wednesday
+"['historical', 'comedy', 'romance', 'fantasy']", thursday
+"['historical', 'comedy', 'romance', 'drama']",wednesday
+"['historical', 'comedy', 'romance', 'drama']", thursday
+"['romance', 'life', 'youth', 'drama']",wednesday
+"['mystery', 'drama', 'fantasy']",saturday
+"['mystery', 'drama', 'fantasy']", sunday
+"['thriller', 'mystery']",friday
+"['romance', 'family']",saturday
+"['romance', 'family']", sunday
+"['historical', 'mystery', 'comedy', 'romance']",monday
+"['historical', 'mystery', 'comedy', 'romance']", tuesday
+"['historical', 'romance', 'drama']",wednesday
+"['historical', 'romance', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['action', 'thriller', 'crime', 'sci-fi']",saturday
+"['action', 'thriller', 'crime', 'sci-fi']", sunday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['comedy', 'youth', 'drama', 'political']",NA
+"['romance', 'life', 'drama', 'sports']",wednesday
+"['romance', 'life', 'drama', 'sports']", thursday
+"['food', 'romance']",monday
+"['food', 'romance']", tuesday
+"['food', 'romance']", wednesday
+"['food', 'romance']", thursday
+"['food', 'romance']", friday
+"['thriller', 'historical', 'drama']",monday
+"['thriller', 'historical', 'drama']", tuesday
+"['romance', 'life', 'drama', 'melodrama']",wednesday
+"['historical', 'mystery', 'romance', 'melodrama']",wednesday
+"['historical', 'mystery', 'romance', 'melodrama']", thursday
+"['comedy', 'drama', 'sitcom']",friday
+['romance'],NA
+"['action', 'romance', 'drama', 'political']",monday
+"['action', 'romance', 'drama', 'political']", tuesday
+"['action', 'romance', 'drama', 'political']", wednesday
+"['action', 'romance', 'drama', 'political']", thursday
+"['action', 'romance', 'drama', 'political']", friday
+"['food', 'comedy', 'romance', 'drama']",monday
+"['food', 'comedy', 'romance', 'drama']", tuesday
+"['historical', 'comedy', 'romance']",monday
+"['historical', 'comedy', 'romance']", tuesday
+"['action', 'thriller', 'mystery', 'drama']",saturday
+"['action', 'thriller', 'mystery', 'drama']", sunday
+"['thriller', 'mystery', 'psychological']",wednesday
+"['thriller', 'mystery', 'psychological']", thursday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['romance', 'drama']",saturday
+"['romance', 'drama']", sunday
+"['romance', 'drama']",sunday
+"['comedy', 'romance', 'life', 'melodrama']",saturday
+"['comedy', 'romance', 'life', 'melodrama']", sunday
+"['mystery', 'youth', 'drama']",monday
+"['mystery', 'youth', 'drama']", tuesday
+"['mystery', 'comedy', 'romance', 'youth']",monday
+"['mystery', 'comedy', 'romance', 'youth']", tuesday
+"['romance', 'youth', 'drama', 'melodrama']",wednesday
+"['romance', 'youth', 'drama', 'melodrama']", thursday
+"['mystery', 'romance', 'youth', 'drama']",monday
+"['mystery', 'romance', 'youth', 'drama']", tuesday
+"['mystery', 'life', 'youth', 'drama']",tuesday
+"['mystery', 'life', 'youth', 'drama']", wednesday
+"['military', 'thriller', 'mystery', 'horror']",saturday
+"['military', 'thriller', 'mystery', 'horror']", sunday
+"['business', 'comedy', 'romance', 'drama']",wednesday
+"['business', 'comedy', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'life', 'drama']",friday
+"['comedy', 'romance', 'life', 'drama']", saturday
+"['romance', 'life', 'drama']",saturday
+"['romance', 'life', 'drama']", sunday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['music', 'romance', 'drama', 'melodrama']",monday
+"['music', 'romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama', 'political']",wednesday
+"['romance', 'drama', 'melodrama', 'political']", thursday
+"['historical', 'mystery', 'drama', 'political']",monday
+"['historical', 'mystery', 'drama', 'political']", tuesday
+"['historical', 'romance', 'medical', 'fantasy']",friday
+"['historical', 'romance', 'medical', 'fantasy']", saturday
+"['romance', 'drama', 'fantasy', 'melodrama']",friday
+"['thriller', 'mystery', 'psychological', 'drama']",saturday
+['historical'],NA
+"['historical', 'mystery', 'comedy', 'romance']",monday
+"['historical', 'mystery', 'comedy', 'romance']", tuesday
+"['business', 'romance', 'melodrama']",monday
+"['business', 'romance', 'melodrama']", tuesday
+"['business', 'romance', 'melodrama']", wednesday
+"['business', 'romance', 'melodrama']", thursday
+"['business', 'romance', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['comedy', 'romance', 'drama', 'fantasy']",saturday
+"['comedy', 'romance', 'drama', 'fantasy']", sunday
+"['thriller', 'mystery', 'comedy', 'fantasy']",wednesday
+"['thriller', 'mystery', 'comedy', 'fantasy']", thursday
+"['comedy', 'romance', 'life', 'youth']",wednesday
+"['comedy', 'romance', 'life', 'youth']", thursday
+"['historical', 'drama']",saturday
+"['historical', 'drama']", sunday
+"['comedy', 'romance', 'drama', 'melodrama']",saturday
+"['comedy', 'romance', 'drama', 'melodrama']", sunday
+"['comedy', 'romance', 'life', 'youth']",sunday
+"['mystery', 'psychological', 'crime', 'drama']",wednesday
+"['mystery', 'psychological', 'crime', 'drama']", thursday
+"['comedy', 'romance', 'drama']",wednesday
+"['comedy', 'romance', 'drama']", thursday
+"['business', 'comedy', 'romance', 'drama']",monday
+"['business', 'comedy', 'romance', 'drama']", tuesday
+"['historical', 'romance', 'supernatural', 'political']",monday
+"['historical', 'romance', 'supernatural', 'political']", tuesday
+"['romance', 'family']",monday
+"['romance', 'family']", tuesday
+"['romance', 'family']", wednesday
+"['romance', 'family']", thursday
+"['romance', 'family']", friday
+"['comedy', 'romance', 'drama']",friday
+"['comedy', 'romance', 'drama']", saturday
+"['comedy', 'romance', 'life', 'drama']",wednesday
+"['comedy', 'romance', 'life', 'drama']", thursday
+"['comedy', 'romance', 'life', 'sports']",monday
+"['comedy', 'romance', 'life', 'sports']", tuesday
+"['comedy', 'romance', 'life', 'melodrama']",monday
+"['comedy', 'romance', 'life', 'melodrama']", tuesday
+"['thriller', 'mystery', 'romance', 'drama']",monday
+"['thriller', 'mystery', 'romance', 'drama']", tuesday
+"['thriller', 'mystery', 'sci-fi']",friday
+"['thriller', 'mystery', 'sci-fi']", saturday
+"['thriller', 'mystery', 'sci-fi']",friday
+"['thriller', 'mystery', 'sci-fi']", saturday
+"['historical', 'drama', 'political']",saturday
+"['historical', 'drama', 'political']", sunday
+"['romance', 'family', 'melodrama']",monday
+"['romance', 'family', 'melodrama']", tuesday
+['romance'],monday
+['romance'], tuesday
+['romance'], wednesday
+['romance'], thursday
+['romance'], friday
+['romance'], saturday
+"['action', 'thriller', 'mystery', 'sci-fi']",wednesday
+"['action', 'thriller', 'mystery', 'sci-fi']", thursday
+"['action', 'historical', 'drama', 'political']",monday
+"['action', 'historical', 'drama', 'political']", tuesday
+"['action', 'thriller', 'mystery', 'supernatural']",friday
+"['action', 'thriller', 'mystery', 'supernatural']", saturday
+"['mystery', 'psychological', 'drama']",friday
+"['mystery', 'psychological', 'drama']", saturday
+"['romance', 'drama', 'sports', 'melodrama']",wednesday
+"['romance', 'drama', 'sports', 'melodrama']", thursday
+['romance'],saturday
+['romance'], sunday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama', 'melodrama', 'political']",saturday
+"['romance', 'drama', 'melodrama', 'political']", sunday
+"['music', 'comedy', 'romance']",friday
+"['music', 'comedy', 'romance']", saturday
+"['comedy', 'romance', 'youth', 'sitcom']",friday
+"['law', 'youth', 'drama']",friday
+"['law', 'youth', 'drama']", saturday
+"['thriller', 'mystery', 'psychological', 'mature']",friday
+"['romance', 'life', 'youth']",NA
+"['comedy', 'romance', 'drama']",wednesday
+"['comedy', 'romance', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",NA
+"['romance', 'life', 'drama', 'melodrama']",friday
+"['romance', 'life', 'drama', 'melodrama']", saturday
+"['action', 'thriller', 'historical', 'drama']",NA
+"['life', 'drama']",saturday
+"['life', 'drama']", sunday
+"['comedy', 'romance', 'drama', 'medical']",wednesday
+"['comedy', 'romance', 'drama', 'medical']", thursday
+"['comedy', 'romance', 'drama', 'medical']",wednesday
+"['comedy', 'romance', 'drama', 'medical']", thursday
+"['music', 'romance']",NA
+"['action', 'mystery', 'psychological']",friday
+"['action', 'business', 'comedy', 'drama']",monday
+"['action', 'business', 'comedy', 'drama']", tuesday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['historical', 'drama', 'political']",monday
+"['historical', 'drama', 'political']", tuesday
+"['thriller', 'romance', 'drama']",wednesday
+"['thriller', 'romance', 'drama']", thursday
+"['mystery', 'business', 'law', 'political']",wednesday
+"['mystery', 'business', 'law', 'political']", thursday
+"['romance', 'drama']",saturday
+"['romance', 'drama']", sunday
+"['business', 'comedy', 'drama', 'fantasy']",thursday
+"['business', 'comedy', 'drama', 'fantasy']", wednesday
+"['thriller', 'romance', 'crime', 'political']",friday
+"['action', 'comedy', 'romance', 'crime']",monday
+"['action', 'comedy', 'romance', 'crime']", tuesday
+"['mystery', 'comedy', 'crime', 'drama']",friday
+"['mystery', 'comedy', 'crime', 'drama']", saturday
+"['action', 'thriller', 'mystery', 'drama']",friday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['business', 'comedy', 'sitcom']",monday
+"['business', 'comedy', 'sitcom']", tuesday
+"['business', 'comedy', 'sitcom']", wednesday
+"['business', 'comedy', 'sitcom']", thursday
+"['business', 'comedy', 'sitcom']", friday
+"['romance', 'drama', 'family']",monday
+"['romance', 'drama', 'family']", tuesday
+"['thriller', 'mystery', 'romance', 'drama']",thursday
+"['thriller', 'mystery', 'romance', 'drama']", wednesday
+"['youth', 'drama']",friday
+"['music', 'romance']",friday
+"['comedy', 'romance', 'drama', 'supernatural']",wednesday
+"['comedy', 'romance', 'drama', 'supernatural']", thursday
+"['comedy', 'romance', 'crime', 'drama']",monday
+"['comedy', 'romance', 'crime', 'drama']", tuesday
+"['action', 'adventure', 'mystery', 'comedy']",wednesday
+"['action', 'adventure', 'mystery', 'comedy']", thursday
+"['music', 'mystery', 'comedy', 'romance']",monday
+"['music', 'mystery', 'comedy', 'romance']", tuesday
+['romance'],NA
+"['thriller', 'mystery', 'law', 'drama']",saturday
+"['thriller', 'mystery', 'law', 'drama']", sunday
+"['law', 'romance', 'drama']",wednesday
+"['law', 'romance', 'drama']", thursday
+"['action', 'comedy', 'romance', 'supernatural']",friday
+"['action', 'comedy', 'romance', 'supernatural']", saturday
+"['action', 'comedy', 'romance', 'supernatural']",NA
+"['business', 'comedy', 'romance', 'life']",friday
+"['business', 'comedy', 'romance', 'life']", saturday
+"['business', 'comedy', 'romance', 'life']",friday
+"['business', 'comedy', 'romance', 'life']", saturday
+"['comedy', 'romance', 'drama', 'family']",saturday
+"['comedy', 'romance', 'drama', 'family']", sunday
+"['action', 'business', 'law', 'drama']",wednesday
+"['action', 'business', 'law', 'drama']", thursday
+"['romance', 'life', 'drama', 'melodrama']",monday
+"['romance', 'youth']",NA
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama']", wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama']", friday
+"['comedy', 'romance', 'drama', 'medical']",friday
+"['comedy', 'romance', 'drama', 'medical']", saturday
+"['action', 'comedy', 'crime', 'drama']",wednesday
+"['action', 'comedy', 'crime', 'drama']", thursday
+"['romance', 'drama', 'medical', 'melodrama']",wednesday
+"['romance', 'drama', 'medical', 'melodrama']", thursday
+"['thriller', 'comedy', 'law', 'romance']",wednesday
+"['thriller', 'comedy', 'law', 'romance']", thursday
+"['comedy', 'romance', 'drama', 'supernatural']",friday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['comedy', 'romance']",sunday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['action', 'horror', 'drama', 'sci-fi']",friday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['food', 'comedy', 'romance', 'life']",monday
+"['food', 'comedy', 'romance', 'life']", tuesday
+"['comedy', 'romance', 'youth', 'fantasy']",friday
+"['thriller', 'mystery', 'romance', 'supernatural']",monday
+"['thriller', 'mystery', 'romance', 'supernatural']", tuesday
+"['action', 'comedy', 'romance']",monday
+"['action', 'comedy', 'romance']", tuesday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['action', 'comedy', 'romance', 'drama']",wednesday
+"['action', 'comedy', 'romance', 'drama']", thursday
+"['thriller', 'mystery', 'comedy', 'law']",wednesday
+"['thriller', 'mystery', 'comedy', 'law']", thursday
+"['romance', 'drama', 'medical']",monday
+"['romance', 'drama', 'medical']", tuesday
+['historical'],saturday
+['historical'], sunday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['comedy', 'romance', 'drama', 'fantasy']",tuesday
+"['comedy', 'romance', 'drama', 'fantasy']", monday
+"['thriller', 'horror', 'romance', 'fantasy']",wednesday
+"['thriller', 'horror', 'romance', 'fantasy']", thursday
+"['historical', 'horror', 'romance', 'fantasy']",saturday
+"['historical', 'horror', 'romance', 'fantasy']", sunday
+['drama'],saturday
+['drama'], sunday
+"['action', 'thriller', 'crime', 'drama']",friday
+"['action', 'thriller', 'crime', 'drama']", saturday
+"['action', 'adventure', 'thriller', 'romance']",monday
+"['action', 'adventure', 'thriller', 'romance']", tuesday
+"['action', 'mystery', 'comedy', 'drama']",saturday
+"['action', 'mystery', 'comedy', 'drama']", sunday
+"['romance', 'drama']",saturday
+"['romance', 'drama']", sunday
+['historical'],saturday
+['historical'], sunday
+"['thriller', 'mystery']",saturday
+"['thriller', 'mystery']", sunday
+"['food', 'comedy', 'romance', 'life']",monday
+"['food', 'comedy', 'romance', 'life']", tuesday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['romance', 'youth', 'drama', 'melodrama']",monday
+"['romance', 'youth', 'drama', 'melodrama']", tuesday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['comedy', 'romance', 'family', 'medical']",wednesday
+"['comedy', 'romance', 'family', 'medical']", thursday
+"['romance', 'crime', 'melodrama']",wednesday
+"['romance', 'crime', 'melodrama']", thursday
+"['thriller', 'drama', 'melodrama']",friday
+"['romance', 'drama', 'family', 'sitcom']",sunday
+"['drama', 'family', 'melodrama']",monday
+"['drama', 'family', 'melodrama']", tuesday
+"['drama', 'family', 'melodrama']", wednesday
+"['drama', 'family', 'melodrama']", thursday
+"['drama', 'family', 'melodrama']", friday
+"['business', 'drama', 'political']",wednesday
+"['business', 'drama', 'political']", thursday
+"['comedy', 'romance', 'melodrama', 'supernatural']",monday
+"['comedy', 'romance', 'melodrama', 'supernatural']", tuesday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['action', 'historical', 'romance', 'drama']",wednesday
+"['action', 'historical', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'drama', 'fantasy']",monday
+"['comedy', 'romance', 'drama', 'fantasy']", tuesday
+"['action', 'thriller', 'mystery']",monday
+"['action', 'thriller', 'mystery']", tuesday
+"['romance', 'drama', 'family']",friday
+"['thriller', 'mystery', 'horror', 'supernatural']",monday
+"['thriller', 'mystery', 'horror', 'supernatural']", tuesday
+"['historical', 'romance', 'melodrama', 'political']",monday
+"['historical', 'romance', 'melodrama', 'political']", tuesday
+"['historical', 'drama', 'political']",saturday
+"['historical', 'drama', 'political']", sunday
+"['thriller', 'mystery', 'comedy', 'drama']",wednesday
+"['thriller', 'mystery', 'comedy', 'drama']", thursday
+"['mystery', 'law', 'crime', 'drama']",saturday
+"['mystery', 'law', 'crime', 'drama']", sunday
+"['comedy', 'romance', 'drama', 'medical']",monday
+"['comedy', 'romance', 'drama', 'medical']", tuesday
+"['action', 'thriller', 'mystery', 'drama']",friday
+"['action', 'thriller', 'mystery', 'drama']", saturday
+"['drama', 'family']",saturday
+"['drama', 'family']", sunday
+"['historical', 'romance', 'drama', 'political']",wednesday
+"['historical', 'romance', 'drama', 'political']", thursday
+"['law', 'drama', 'melodrama']",saturday
+"['law', 'drama', 'melodrama']", sunday
+"['mystery', 'drama', 'medical']",saturday
+"['mystery', 'drama', 'medical']", sunday
+"['thriller', 'mystery', 'drama']",friday
+"['thriller', 'mystery', 'drama']", saturday
+"['business', 'comedy', 'romance', 'life']",friday
+"['comedy', 'romance', 'family']",saturday
+"['comedy', 'romance', 'family']", sunday
+"['action', 'mystery', 'comedy', 'crime']",friday
+"['action', 'mystery', 'comedy', 'crime']", saturday
+"['action', 'thriller', 'mystery', 'drama']",friday
+"['action', 'thriller', 'mystery', 'drama']", saturday
+"['historical', 'mystery', 'comedy', 'romance']",friday
+"['historical', 'mystery', 'comedy', 'romance']", saturday
+"['thriller', 'historical', 'romance', 'medical']",wednesday
+"['thriller', 'historical', 'romance', 'medical']", thursday
+"['action', 'thriller', 'psychological', 'romance']",friday
+"['action', 'thriller', 'psychological', 'romance']", saturday
+"['thriller', 'mystery', 'psychological', 'supernatural']",wednesday
+"['thriller', 'mystery', 'psychological', 'supernatural']", thursday
+"['comedy', 'romance', 'life', 'drama']",saturday
+"['comedy', 'romance', 'life', 'drama']", sunday
+"['thriller', 'mystery', 'horror', 'supernatural']",wednesday
+"['thriller', 'mystery', 'horror', 'supernatural']", thursday
+"['thriller', 'drama', 'melodrama']",friday
+"['psychological', 'drama', 'fantasy', 'supernatural']",friday
+"['psychological', 'drama', 'fantasy', 'supernatural']", saturday
+"['psychological', 'drama', 'fantasy', 'supernatural']",friday
+"['psychological', 'drama', 'fantasy', 'supernatural']", saturday
+"['comedy', 'life', 'drama', 'family']",wednesday
+"['comedy', 'life', 'drama', 'family']", thursday
+"['action', 'thriller', 'mystery', 'drama']",monday
+"['action', 'thriller', 'mystery', 'drama']", tuesday
+"['law', 'romance', 'drama', 'political']",friday
+"['law', 'romance', 'drama', 'political']", saturday
+['historical'],saturday
+['historical'], sunday
+"['historical', 'romance', 'drama']",saturday
+"['historical', 'romance', 'drama']", sunday
+"['historical', 'romance', 'supernatural', 'war']",wednesday
+"['historical', 'romance', 'supernatural', 'war']", thursday
+"['mystery', 'romance', 'youth', 'supernatural']",NA
+"['comedy', 'drama', 'political']",monday
+"['comedy', 'drama', 'political']", tuesday
+"['business', 'comedy', 'romance']",wednesday
+"['business', 'comedy', 'romance']", thursday
+"['comedy', 'romance', 'family', 'melodrama']",saturday
+"['action', 'thriller', 'mystery', 'law']",monday
+"['action', 'thriller', 'mystery', 'law']", tuesday
+"['thriller', 'mystery', 'horror', 'supernatural']",wednesday
+"['thriller', 'mystery', 'horror', 'supernatural']", thursday
+"['comedy', 'romance', 'drama', 'melodrama']",wednesday
+"['comedy', 'romance', 'drama', 'melodrama']", thursday
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['music', 'historical', 'romance', 'melodrama']",monday
+"['music', 'historical', 'romance', 'melodrama']", tuesday
+"['comedy', 'romance', 'drama', 'fantasy']",thursday
+['music'],friday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'life', 'drama', 'melodrama']",wednesday
+"['romance', 'life', 'drama', 'melodrama']", thursday
+"['historical', 'drama', 'political']",saturday
+"['historical', 'drama', 'political']", sunday
+"['action', 'thriller', 'psychological', 'romance']",friday
+"['action', 'thriller', 'psychological', 'romance']", saturday
+"['thriller', 'mystery', 'comedy']",wednesday
+"['thriller', 'mystery', 'comedy']", thursday
+"['thriller', 'mystery', 'horror']",thursday
+"['military', 'comedy', 'romance', 'drama']",wednesday
+"['military', 'comedy', 'romance', 'drama']", thursday
+"['historical', 'drama', 'political']",monday
+"['historical', 'drama', 'political']", tuesday
+['historical'],saturday
+['historical'], sunday
+"['historical', 'romance', 'drama', 'political']",monday
+"['historical', 'romance', 'drama', 'political']", tuesday
+"['historical', 'drama']",thursday
+"['historical', 'drama']", friday
+"['business', 'comedy', 'romance', 'drama']",monday
+"['business', 'comedy', 'romance', 'drama']", tuesday
+"['thriller', 'mystery', 'drama']",friday
+"['thriller', 'historical', 'drama', 'political']",saturday
+"['thriller', 'historical', 'drama', 'political']", sunday
+"['mystery', 'romance', 'drama', 'sci-fi']",friday
+"['mystery', 'romance', 'drama', 'sci-fi']", saturday
+"['historical', 'romance', 'drama']",monday
+"['historical', 'romance', 'drama']", tuesday
+"['historical', 'romance', 'drama']",monday
+"['historical', 'romance', 'drama']", tuesday
+"['historical', 'romance', 'drama']", wednesday
+"['historical', 'romance', 'drama']", thursday
+"['historical', 'romance', 'drama']", friday
+"['historical', 'romance', 'drama', 'medical']",monday
+"['historical', 'romance', 'drama', 'medical']", tuesday
+"['action', 'thriller', 'historical', 'romance']",wednesday
+"['action', 'thriller', 'historical', 'romance']", thursday
+"['comedy', 'romance', 'drama', 'fantasy']",monday
+"['comedy', 'romance', 'drama', 'fantasy']", tuesday
+"['thriller', 'mystery', 'romance', 'drama']",friday
+"['thriller', 'mystery', 'romance', 'drama']", saturday
+"['action', 'thriller', 'mystery', 'romance']",wednesday
+"['action', 'thriller', 'mystery', 'romance']", thursday
+"['romance', 'youth', 'sports']",monday
+"['romance', 'youth', 'sports']", tuesday
+"['comedy', 'law', 'romance']",monday
+"['comedy', 'law', 'romance']", tuesday
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['music', 'comedy', 'romance', 'youth']",monday
+"['music', 'comedy', 'romance', 'youth']", tuesday
+"['thriller', 'mystery', 'drama']",saturday
+"['thriller', 'mystery', 'drama']", sunday
+"['romance', 'life', 'drama', 'melodrama']",monday
+"['romance', 'life', 'drama', 'melodrama']", tuesday
+"['comedy', 'romance', 'life', 'youth']",NA
+"['comedy', 'romance', 'life']",thursday
+"['action', 'comedy', 'romance', 'drama']",wednesday
+"['action', 'comedy', 'romance', 'drama']", thursday
+"['food', 'mystery', 'drama', 'melodrama']",wednesday
+"['food', 'mystery', 'drama', 'melodrama']", thursday
+"['historical', 'drama']",monday
+"['historical', 'drama']", tuesday
+"['historical', 'drama']", wednesday
+"['historical', 'drama']", thursday
+"['historical', 'drama']", friday
+"['historical', 'drama']", saturday
+"['historical', 'business', 'melodrama', 'political']",wednesday
+"['historical', 'business', 'melodrama', 'political']", thursday
+"['comedy', 'romance', 'drama', 'supernatural']",NA
+"['comedy', 'romance', 'fantasy', 'melodrama']",monday
+"['comedy', 'romance', 'fantasy', 'melodrama']", tuesday
+"['life', 'melodrama']",saturday
+"['life', 'melodrama']", sunday
+"['music', 'romance', 'drama', 'melodrama']",friday
+"['mystery', 'horror', 'youth', 'supernatural']",friday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['mystery', 'romance', 'drama', 'melodrama']",monday
+"['mystery', 'romance', 'drama', 'melodrama']", tuesday
+"['adventure', 'comedy', 'romance', 'life']",friday
+"['adventure', 'comedy', 'romance', 'life']", saturday
+"['thriller', 'mystery', 'drama']",monday
+"['thriller', 'mystery', 'drama']", tuesday
+"['action', 'historical', 'romance', 'political']",wednesday
+"['action', 'historical', 'romance', 'political']", thursday
+"['comedy', 'romance', 'drama']",friday
+"['comedy', 'romance', 'drama']", saturday
+"['romance', 'melodrama']",monday
+"['romance', 'melodrama']", tuesday
+"['romance', 'melodrama']", wednesday
+"['romance', 'melodrama']", thursday
+"['romance', 'melodrama']", friday
+"['business', 'comedy', 'romance', 'drama']",monday
+"['business', 'comedy', 'romance', 'drama']", tuesday
+"['youth', 'drama']",wednesday
+"['youth', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['action', 'thriller', 'historical', 'romance']",monday
+"['action', 'thriller', 'historical', 'romance']", tuesday
+"['historical', 'romance', 'drama', 'melodrama']",friday
+"['historical', 'romance', 'drama', 'melodrama']", saturday
+"['historical', 'drama']",saturday
+"['historical', 'drama']", sunday
+"['drama', 'family', 'melodrama']",monday
+"['drama', 'family', 'melodrama']", tuesday
+"['drama', 'family', 'melodrama']", wednesday
+"['drama', 'family', 'melodrama']", thursday
+"['drama', 'family', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",sunday
+"['romance', 'family']",monday
+"['romance', 'family']", tuesday
+"['romance', 'family']", wednesday
+"['romance', 'family']", thursday
+"['romance', 'family']", friday
+"['thriller', 'mystery', 'drama']",wednesday
+"['thriller', 'mystery', 'drama']", thursday
+"['action', 'historical', 'comedy', 'drama']",monday
+"['action', 'historical', 'comedy', 'drama']", tuesday
+"['mystery', 'law', 'drama']",wednesday
+"['mystery', 'law', 'drama']", thursday
+"['thriller', 'romance', 'drama', 'melodrama']",saturday
+"['thriller', 'romance', 'drama', 'melodrama']", sunday
+"['historical', 'mystery', 'romance', 'fantasy']",wednesday
+"['historical', 'mystery', 'romance', 'fantasy']", thursday
+"['mystery', 'horror', 'comedy', 'supernatural']",friday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['thriller', 'romance', 'drama']",monday
+"['thriller', 'romance', 'drama']", tuesday
+"['thriller', 'romance', 'drama']", wednesday
+"['thriller', 'romance', 'drama']", thursday
+"['thriller', 'romance', 'drama']", friday
+"['business', 'comedy', 'romance', 'drama']",monday
+"['business', 'comedy', 'romance', 'drama']", tuesday
+"['romance', 'drama']",monday
+"['romance', 'drama']", tuesday
+"['romance', 'drama', 'melodrama']",saturday
+"['romance', 'drama', 'melodrama']", sunday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['historical', 'mystery', 'romance', 'drama']",monday
+"['historical', 'mystery', 'romance', 'drama']", tuesday
+"['thriller', 'mystery', 'horror', 'sci-fi']",friday
+"['thriller', 'drama', 'melodrama']",friday
+"['thriller', 'mystery', 'romance', 'drama']",thursday
+"['thriller', 'mystery', 'romance', 'drama']", wednesday
+"['adventure', 'mystery', 'fantasy']",monday
+"['adventure', 'mystery', 'fantasy']", wednesday
+"['music', 'psychological', 'drama', 'fantasy']",friday
+"['comedy', 'life', 'sitcom']",monday
+"['comedy', 'life', 'sitcom']", thursday
+"['action', 'mystery', 'comedy', 'romance']",wednesday
+"['action', 'mystery', 'comedy', 'romance']", thursday
+"['mystery', 'drama', 'melodrama']",monday
+"['mystery', 'drama', 'melodrama']", tuesday
+"['action', 'historical', 'comedy', 'romance']",monday
+"['action', 'historical', 'comedy', 'romance']", tuesday
+"['food', 'comedy', 'romance', 'drama']",friday
+"['food', 'comedy', 'romance', 'drama']", saturday
+"['comedy', 'life', 'drama', 'medical']",wednesday
+"['comedy', 'life', 'drama', 'medical']", thursday
+"['action', 'adventure', 'historical', 'romance']",sunday
+"['comedy', 'romance', 'drama', 'fantasy']",wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['comedy', 'romance', 'youth']",saturday
+"['comedy', 'romance', 'youth']", sunday
+"['comedy', 'romance', 'youth']",saturday
+"['comedy', 'romance', 'youth']", sunday
+"['action', 'mystery', 'drama', 'supernatural']",saturday
+"['action', 'mystery', 'drama', 'supernatural']", sunday
+"['comedy', 'romance', 'life', 'drama']",wednesday
+"['comedy', 'romance', 'life', 'drama']", thursday
+"['thriller', 'mystery', 'supernatural']",sunday
+"['action', 'thriller', 'mystery', 'crime']",friday
+"['action', 'thriller', 'mystery', 'crime']", saturday
+"['thriller', 'mystery', 'horror', 'supernatural']",wednesday
+"['thriller', 'mystery', 'horror', 'supernatural']", thursday
+"['comedy', 'romance', 'drama', 'family']",monday
+"['comedy', 'romance', 'drama', 'family']", tuesday
+"['thriller', 'mystery', 'medical']",friday
+"['comedy', 'romance', 'family']",monday
+"['comedy', 'romance', 'family']", tuesday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['psychological', 'life', 'fantasy', 'supernatural']",friday
+"['thriller', 'romance', 'drama', 'melodrama']",friday
+"['thriller', 'romance', 'drama', 'melodrama']", saturday
+"['action', 'thriller', 'mystery', 'crime']",NA
+"['romance', 'life', 'drama']",wednesday
+"['romance', 'life', 'drama']", thursday
+"['romance', 'life', 'drama']",friday
+"['romance', 'life', 'drama']", saturday
+"['music', 'comedy', 'romance', 'supernatural']",monday
+"['music', 'comedy', 'romance', 'supernatural']", wednesday
+"['music', 'comedy', 'romance', 'supernatural']", friday
+"['comedy', 'romance', 'family']",saturday
+"['comedy', 'romance', 'family']", sunday
+"['comedy', 'romance', 'drama', 'fantasy']",monday
+"['comedy', 'romance', 'drama', 'fantasy']", tuesday
+"['comedy', 'romance', 'drama', 'fantasy']", wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['comedy', 'romance', 'drama', 'fantasy']", friday
+"['comedy', 'romance', 'drama', 'fantasy']",monday
+"['comedy', 'romance', 'drama', 'fantasy']", tuesday
+"['comedy', 'romance', 'drama', 'fantasy']", wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['comedy', 'romance', 'drama', 'fantasy']", friday
+"['comedy', 'romance', 'drama', 'fantasy']",monday
+"['comedy', 'romance', 'drama', 'fantasy']", tuesday
+"['comedy', 'romance', 'drama', 'fantasy']", wednesday
+"['comedy', 'romance', 'drama', 'fantasy']", thursday
+"['comedy', 'romance', 'drama', 'fantasy']", friday
+"['thriller', 'mystery', 'sci-fi']",saturday
+"['thriller', 'mystery', 'sci-fi']", sunday
+"['action', 'thriller', 'drama']",wednesday
+"['action', 'thriller', 'drama']", thursday
+"['comedy', 'sitcom']",monday
+['drama'],monday
+['drama'], tuesday
+['drama'], wednesday
+['drama'], thursday
+['drama'], friday
+"['drama', 'family']",saturday
+"['drama', 'family']", sunday
+"['thriller', 'mystery', 'drama']",friday
+"['thriller', 'mystery', 'drama']", saturday
+"['thriller', 'mystery', 'fantasy', 'political']",saturday
+"['thriller', 'mystery', 'fantasy', 'political']", sunday
+['romance'],wednesday
+['romance'], thursday
+"['comedy', 'romance', 'drama', 'sports']",wednesday
+"['comedy', 'romance', 'drama', 'sports']", thursday
+"['business', 'comedy', 'life', 'drama']",friday
+"['business', 'comedy', 'life', 'drama']", saturday
+"['romance', 'drama']",saturday
+"['romance', 'drama']", sunday
+['romance'],monday
+['romance'], tuesday
+"['action', 'thriller', 'drama', 'fantasy']",friday
+"['action', 'thriller', 'drama', 'fantasy']", saturday
+"['romance', 'life', 'youth']",NA
+"['romance', 'drama', 'melodrama', 'supernatural']",friday
+"['romance', 'drama', 'melodrama', 'supernatural']", saturday
+"['romance', 'life', 'drama', 'supernatural']",wednesday
+"['comedy', 'romance', 'drama']",friday
+"['business', 'comedy', 'romance', 'drama']",friday
+"['business', 'comedy', 'romance', 'drama']", saturday
+"['comedy', 'law', 'romance', 'drama']",wednesday
+"['comedy', 'law', 'romance', 'drama']", thursday
+"['action', 'thriller', 'mystery', 'drama']",friday
+"['action', 'thriller', 'mystery', 'drama']", saturday
+"['thriller', 'mystery', 'sci-fi']",saturday
+"['thriller', 'mystery', 'sci-fi']", sunday
+"['thriller', 'mystery', 'psychological', 'drama']",saturday
+"['thriller', 'mystery', 'psychological', 'drama']", sunday
+"['historical', 'drama']",monday
+"['historical', 'drama']", tuesday
+"['action', 'business', 'romance', 'drama']",monday
+"['action', 'business', 'romance', 'drama']", tuesday
+['drama'],wednesday
+['drama'], thursday
+"['comedy', 'romance', 'youth']",saturday
+"['mystery', 'romance', 'melodrama', 'political']",monday
+"['mystery', 'romance', 'melodrama', 'political']", tuesday
+"['comedy', 'romance', 'youth', 'drama']",wednesday
+"['comedy', 'romance', 'youth', 'drama']", thursday
+"['action', 'thriller', 'drama']",NA
+"['romance', 'life', 'melodrama']",friday
+"['romance', 'life', 'drama', 'melodrama']",saturday
+"['romance', 'life', 'drama', 'melodrama']", sunday
+"['romance', 'drama', 'family', 'melodrama']",saturday
+"['romance', 'drama', 'family', 'melodrama']", sunday
+"['mystery', 'comedy', 'romance', 'supernatural']",monday
+"['mystery', 'comedy', 'romance', 'supernatural']", tuesday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['action', 'thriller', 'mystery', 'drama']",wednesday
+"['action', 'thriller', 'mystery', 'drama']", thursday
+"['action', 'thriller', 'mystery', 'drama']",wednesday
+"['action', 'thriller', 'mystery', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['business', 'romance', 'melodrama']",monday
+"['business', 'romance', 'melodrama']", tuesday
+"['business', 'romance', 'melodrama']", wednesday
+"['business', 'romance', 'melodrama']", thursday
+"['business', 'romance', 'melodrama']", friday
+"['comedy', 'romance', 'life']",monday
+"['comedy', 'romance', 'life']", tuesday
+"['comedy', 'romance', 'drama']",monday
+"['comedy', 'romance', 'drama']", tuesday
+"['comedy', 'romance', 'drama']", wednesday
+"['comedy', 'romance', 'drama']", thursday
+"['comedy', 'romance', 'drama']", friday
+"['music', 'comedy', 'drama']",saturday
+"['music', 'comedy', 'drama']", sunday
+"['action', 'mystery', 'comedy', 'supernatural']",saturday
+"['action', 'mystery', 'comedy', 'supernatural']", sunday
+"['comedy', 'romance', 'drama', 'melodrama']",wednesday
+"['comedy', 'romance', 'drama', 'melodrama']", thursday
+"['historical', 'comedy', 'drama', 'political']",saturday
+"['historical', 'comedy', 'drama', 'political']", sunday
+"['action', 'thriller', 'mystery', 'crime']",friday
+"['action', 'thriller', 'mystery', 'crime']", saturday
+"['comedy', 'romance', 'drama']",wednesday
+"['comedy', 'romance', 'drama']", thursday
+"['drama', 'family', 'melodrama']",monday
+"['drama', 'family', 'melodrama']", tuesday
+"['drama', 'family', 'melodrama']", wednesday
+"['drama', 'family', 'melodrama']", thursday
+"['drama', 'family', 'melodrama']", friday
+"['thriller', 'mystery', 'comedy', 'fantasy']",wednesday
+"['thriller', 'mystery', 'comedy', 'fantasy']", thursday
+"['comedy', 'romance']",monday
+"['comedy', 'romance']", tuesday
+"['comedy', 'romance']", wednesday
+"['comedy', 'romance']", thursday
+"['comedy', 'romance']", friday
+['drama'],monday
+['drama'], tuesday
+"['action', 'thriller', 'mystery', 'business']",friday
+"['action', 'thriller', 'mystery', 'business']", saturday
+"['action', 'thriller', 'mystery', 'crime']",friday
+"['action', 'thriller', 'mystery', 'crime']", saturday
+"['comedy', 'drama', 'supernatural', 'sitcom']",monday
+"['comedy', 'drama', 'supernatural', 'sitcom']", tuesday
+"['comedy', 'drama', 'supernatural', 'sitcom']", wednesday
+"['comedy', 'drama', 'supernatural', 'sitcom']", thursday
+"['comedy', 'drama', 'supernatural', 'sitcom']", friday
+"['action', 'mystery', 'drama', 'supernatural']",sunday
+"['thriller', 'romance', 'drama', 'melodrama']",monday
+"['thriller', 'romance', 'drama', 'melodrama']", tuesday
+"['thriller', 'romance', 'drama', 'melodrama']", wednesday
+"['thriller', 'romance', 'drama', 'melodrama']", thursday
+"['thriller', 'romance', 'drama', 'melodrama']", friday
+"['action', 'thriller', 'psychological', 'crime']",NA
+"['comedy', 'law', 'crime', 'drama']",saturday
+"['comedy', 'law', 'crime', 'drama']", sunday
+"['thriller', 'mystery', 'psychological']",saturday
+"['thriller', 'mystery', 'psychological']", sunday
+"['thriller', 'comedy', 'romance', 'fantasy']",wednesday
+"['thriller', 'comedy', 'romance', 'fantasy']", thursday
+"['comedy', 'romance', 'drama', 'family']",saturday
+"['comedy', 'romance', 'drama', 'family']", sunday
+"['food', 'romance', 'drama']",monday
+"['food', 'romance', 'drama']", tuesday
+"['food', 'romance', 'drama']", wednesday
+"['food', 'romance', 'drama']", thursday
+"['food', 'romance', 'drama']", friday
+"['mystery', 'drama', 'melodrama']",wednesday
+"['mystery', 'drama', 'melodrama']", thursday
+"['business', 'romance']",wednesday
+"['business', 'romance']", thursday
+"['food', 'comedy', 'romance']",wednesday
+"['food', 'comedy', 'romance']", thursday
+"['action', 'historical', 'romance', 'martial arts']",monday
+"['action', 'historical', 'romance', 'martial arts']", tuesday
+"['comedy', 'romance', 'drama']",wednesday
+"['comedy', 'romance', 'drama']", thursday
+"['thriller', 'mystery', 'drama', 'political']",saturday
+"['thriller', 'mystery', 'drama', 'political']", sunday
+"['romance', 'life', 'drama']",wednesday
+"['romance', 'life', 'drama']", thursday
+"['action', 'youth', 'drama']",friday
+"['music', 'romance', 'youth']",monday
+"['music', 'romance', 'youth']", wednesday
+"['music', 'romance', 'youth']", friday
+"['romance', 'drama']",monday
+"['comedy', 'romance', 'life', 'youth']",friday
+"['comedy', 'romance', 'life', 'sports']",wednesday
+"['comedy', 'romance', 'life', 'sports']", thursday
+"['romance', 'life', 'drama']",monday
+"['romance', 'life', 'drama']", tuesday
+"['romance', 'life', 'drama']", wednesday
+"['comedy', 'law', 'romance', 'fantasy']",monday
+"['comedy', 'law', 'romance', 'fantasy']", tuesday
+"['comedy', 'romance', 'drama', 'family']",monday
+"['comedy', 'romance', 'drama', 'family']", tuesday
+"['comedy', 'romance', 'drama', 'family']", wednesday
+"['comedy', 'romance', 'drama', 'family']", thursday
+"['comedy', 'romance', 'drama', 'family']", friday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['romance', 'life', 'drama']",monday
+"['romance', 'life', 'drama']", tuesday
+"['romance', 'life', 'drama']", wednesday
+"['historical', 'drama', 'political']",monday
+"['historical', 'drama', 'political']", tuesday
+"['comedy', 'romance', 'drama']",saturday
+"['comedy', 'romance', 'drama']", sunday
+['romance'],monday
+['romance'], tuesday
+['romance'], wednesday
+['romance'], thursday
+['romance'], friday
+"['comedy', 'romance', 'life']",wednesday
+"['comedy', 'romance', 'life']", thursday
+"['comedy', 'romance', 'life']",wednesday
+"['comedy', 'romance', 'life']", thursday
+"['business', 'comedy', 'romance']",wednesday
+"['business', 'comedy', 'romance']", thursday
+"['romance', 'drama']",wednesday
+"['romance', 'drama']", thursday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'life', 'drama', 'family']",saturday
+"['romance', 'life', 'drama', 'family']", sunday
+"['thriller', 'comedy', 'romance', 'drama']",wednesday
+"['thriller', 'comedy', 'romance', 'drama']", thursday
+"['music', 'comedy', 'drama', 'fantasy']",wednesday
+"['music', 'comedy', 'drama', 'fantasy']", thursday
+"['romance', 'life', 'drama', 'melodrama']",monday
+"['romance', 'life', 'drama', 'melodrama']", tuesday
+['romance'],monday
+['romance'], tuesday
+['romance'], wednesday
+['romance'], thursday
+['romance'], friday
+"['comedy', 'romance', 'fantasy', 'melodrama']",monday
+"['comedy', 'romance', 'fantasy', 'melodrama']", tuesday
+"['romance', 'youth', 'drama', 'melodrama']",friday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['thriller', 'law', 'romance', 'drama']",monday
+"['thriller', 'law', 'romance', 'drama']", tuesday
+"['romance', 'family']",monday
+"['romance', 'family']", tuesday
+"['romance', 'family']", wednesday
+"['romance', 'family']", thursday
+"['romance', 'family']", friday
+"['action', 'drama']",monday
+"['action', 'drama']", tuesday
+"['mystery', 'horror', 'romance', 'supernatural']",monday
+"['mystery', 'horror', 'romance', 'supernatural']", tuesday
+"['mystery', 'law', 'romance', 'melodrama']",friday
+"['mystery', 'law', 'romance', 'melodrama']", saturday
+"['romance', 'life', 'drama']",monday
+"['romance', 'life', 'drama']", tuesday
+"['romance', 'life', 'drama']", wednesday
+"['romance', 'life', 'drama']", thursday
+"['romance', 'life', 'drama']", friday
+"['comedy', 'romance', 'sports']",wednesday
+"['comedy', 'romance', 'sports']", thursday
+"['mystery', 'law', 'drama']",monday
+"['mystery', 'law', 'drama']", tuesday
+['action'],NA
+"['business', 'comedy', 'romance']",monday
+"['business', 'comedy', 'romance']", tuesday
+"['food', 'comedy', 'romance', 'drama']",monday
+"['food', 'comedy', 'romance', 'drama']", tuesday
+"['thriller', 'romance', 'drama', 'melodrama']",monday
+"['thriller', 'romance', 'drama', 'melodrama']", tuesday
+"['thriller', 'romance', 'drama', 'melodrama']", wednesday
+"['thriller', 'romance', 'drama', 'melodrama']", thursday
+"['thriller', 'romance', 'drama', 'melodrama']", friday
+"['thriller', 'mystery', 'drama']",wednesday
+"['thriller', 'mystery', 'drama']", thursday
+['romance'],saturday
+['romance'], sunday
+"['law', 'drama', 'melodrama']",monday
+"['law', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']",wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama']",saturday
+"['romance', 'drama']", sunday
+"['comedy', 'romance', 'drama', 'melodrama']",monday
+"['comedy', 'romance', 'drama', 'melodrama']", tuesday
+"['comedy', 'romance', 'drama', 'melodrama']", wednesday
+"['comedy', 'romance', 'drama', 'melodrama']", thursday
+"['comedy', 'romance', 'drama', 'melodrama']", friday
+"['romance', 'drama', 'family', 'melodrama']",saturday
+"['romance', 'drama', 'family', 'melodrama']", sunday
+"['comedy', 'romance', 'drama', 'melodrama']",monday
+"['comedy', 'romance', 'drama', 'melodrama']", tuesday
+"['comedy', 'life', 'drama']",friday
+['romance'],wednesday
+['romance'], thursday
+"['comedy', 'drama', 'family', 'melodrama']",monday
+"['comedy', 'drama', 'family', 'melodrama']", tuesday
+"['comedy', 'drama', 'family', 'melodrama']", wednesday
+"['comedy', 'drama', 'family', 'melodrama']", thursday
+"['comedy', 'drama', 'family', 'melodrama']", friday
+"['romance', 'youth', 'drama', 'family']",friday
+"['business', 'romance', 'life', 'drama']",friday
+['historical'],saturday
+['historical'], sunday
+"['comedy', 'life']",wednesday
+"['music', 'business', 'comedy']",friday
+"['life', 'drama', 'sci-fi', 'melodrama']",friday
+"['action', 'romance', 'drama', 'medical']",wednesday
+"['action', 'romance', 'drama', 'medical']", thursday
+"['drama', 'melodrama']",saturday
+"['drama', 'melodrama']", sunday
+"['romance', 'drama', 'melodrama']",monday
+"['romance', 'drama', 'melodrama']", tuesday
+"['romance', 'drama', 'melodrama']", wednesday
+"['romance', 'drama', 'melodrama']", thursday
+"['romance', 'drama', 'melodrama']", friday
+"['business', 'comedy', 'romance', 'drama']",wednesday
+"['business', 'comedy', 'romance', 'drama']", thursday
+"['thriller', 'mystery', 'romance', 'drama']",monday
+"['thriller', 'mystery', 'romance', 'drama']", tuesday
+"['comedy', 'romance', 'drama', 'family']",saturday
+"['comedy', 'romance', 'drama', 'family']", sunday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['romance', 'drama', 'family']",monday
+"['romance', 'drama', 'family']", tuesday
+"['romance', 'drama', 'family']", wednesday
+"['romance', 'drama', 'family']", thursday
+"['romance', 'drama', 'family']", friday
+"['music', 'drama', 'family', 'melodrama']",saturday
+"['music', 'drama', 'family', 'melodrama']", sunday
+"['romance', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']",monday
+"['comedy', 'romance', 'life', 'drama']", tuesday
+"['action', 'mystery', 'comedy', 'drama']",wednesday
+"['action', 'mystery', 'comedy', 'drama']", thursday
+"['music', 'comedy', 'romance', 'drama']",wednesday
+"['music', 'comedy', 'romance', 'drama']", thursday
+"['romance', 'drama', 'family']",monday
+"['romance', 'drama', 'family']", tuesday
+"['romance', 'drama', 'family']", wednesday
+"['romance', 'drama', 'family']", thursday
+"['romance', 'drama', 'family']", friday
+"['comedy', 'romance', 'family', 'melodrama']",saturday
+"['comedy', 'romance', 'family', 'melodrama']", sunday
+N/A,NA
+"['comedy', 'romance', 'life']",wednesday
+"['comedy', 'romance', 'life']", thursday
+"['romance', 'drama', 'family', 'melodrama']",monday
+"['romance', 'drama', 'family', 'melodrama']", tuesday
+"['romance', 'drama', 'family', 'melodrama']", wednesday
+"['romance', 'drama', 'family', 'melodrama']", thursday
+"['romance', 'drama', 'family', 'melodrama']", friday
+"['mystery', 'comedy', 'romance', 'family']",monday
+"['mystery', 'comedy', 'romance', 'family']", tuesday
+"['music', 'life', 'youth', 'drama']",NA
+"['romance', 'youth', 'drama', 'melodrama']",monday
+"['romance', 'youth', 'drama', 'melodrama']", tuesday
+"['comedy', 'romance', 'life']",friday
+"['thriller', 'mystery', 'comedy', 'fantasy']",monday
+"['thriller', 'mystery', 'comedy', 'fantasy']", tuesday

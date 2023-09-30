@@ -1,0 +1,1732 @@
+kdrama_name,original_networks
+"['historical', 'comedy', 'romance', 'drama']",tvN
+"['comedy', 'romance', 'life']",tvN
+"['food', 'romance', 'drama']",jTBC
+"['romance', 'life', 'drama', 'fantasy']",jTBC
+"['romance', 'youth']",NA
+"['thriller', 'mystery', 'drama', 'fantasy']",MBC
+"['food', 'romance', 'drama', 'family']",MBC
+"['military', 'historical', 'life', 'drama', 'political']",MBC
+"['action', 'comedy', 'romance', 'crime']",MBC
+"['mystery', 'psychological', 'romance', 'medical']",KBS
+"['romance', 'drama', 'family', 'melodrama']",tvN
+"['comedy', 'romance', 'family', 'melodrama']",MBC
+"['comedy', 'romance', 'drama', 'melodrama']",SBS
+"['mystery', 'romance', 'supernatural']",SBS
+"['comedy', 'romance', 'fantasy', 'supernatural']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['romance', 'drama', 'family']",MBC
+"['horror', 'comedy', 'romance', 'fantasy']",Netflix
+"['horror', 'comedy', 'romance', 'fantasy']", tvN
+"['romance', 'drama', 'family']",MBC
+"['comedy', 'romance', 'life', 'youth']",Daum Kakao TV
+"['comedy', 'romance', 'life', 'youth']", Netflix
+"['thriller', 'mystery', 'crime', 'drama']",Netflix
+"['business', 'law', 'drama']",MBC
+"['romance', 'life', 'drama', 'melodrama']",tvN
+"['business', 'romance', 'drama', 'melodrama']",KBS
+"['romance', 'life', 'family', 'melodrama']",MBC
+"['romance', 'life', 'drama', 'medical']",tvN
+"['psychological', 'romance', 'youth', 'drama']",NA
+"['thriller', 'mystery', 'psychological', 'drama']",OCN
+"['romance', 'drama', 'family']",KBS
+"['romance', 'melodrama']",SBS
+"['romance', 'drama', 'family']",MBC
+"['thriller', 'mystery', 'romance', 'fantasy']",Netflix
+"['business', 'comedy', 'romance']",tvN
+"['comedy', 'romance', 'life', 'youth']",Naver TV Cast
+"['comedy', 'romance', 'life', 'youth']", vLive
+"['comedy', 'romance', 'youth', 'drama']",Naver TV Cast
+"['comedy', 'romance', 'youth', 'drama']", vLive
+"['music', 'romance', 'fantasy', 'melodrama']",tvN
+"['mystery', 'comedy', 'romance', 'fantasy']",Netflix
+"['mystery', 'comedy', 'romance', 'fantasy']", tvN
+"['business', 'comedy', 'romance', 'drama']",KBS
+"['thriller', 'mystery', 'drama']",tvN
+"['comedy', 'romance', 'youth']",TVING
+['romance'],SBS
+"['action', 'thriller', 'mystery', 'supernatural']",Naver TV Cast
+"['mystery', 'law', 'drama', 'fantasy']",SBS
+"['mystery', 'law', 'drama', 'fantasy']", ViuTV
+"['military', 'historical', 'drama', 'political']",KBS
+"['business', 'life', 'drama']",jTBC
+"['action', 'romance', 'drama']",MBC
+"['action', 'historical', 'romance', 'fantasy']",Netflix
+"['action', 'historical', 'romance', 'fantasy']", tvN
+"['mystery', 'sci-fi', 'fantasy', 'melodrama']",SBS
+"['comedy', 'romance', 'political']",SBS
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['comedy', 'romance', 'political']",SBS
+"['romance', 'crime', 'drama', 'melodrama']",SBS
+['romance'],MBC
+"['action', 'thriller', 'horror', 'sci-fi']",Netflix
+"['romance', 'youth']",TVING
+"['comedy', 'romance', 'life', 'drama']",SBS
+"['adventure', 'life', 'fantasy', 'melodrama']",Daum Kakao TV
+"['romance', 'drama']",SBS
+"['comedy', 'romance', 'youth', 'melodrama']",KBS
+"['historical', 'mystery']",EChannel
+"['romance', 'medical', 'melodrama']",SBS
+"['romance', 'drama']",MBC
+"['comedy', 'romance', 'drama', 'fantasy']",KBS
+"['romance', 'drama', 'melodrama']",KBS
+"['comedy', 'drama', 'melodrama']",MBC
+"['thriller', 'drama']",NA
+"['comedy', 'romance', 'melodrama', 'supernatural']",tvN
+"['comedy', 'romance', 'life', 'drama']",Naver TV Cast
+"['romance', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['historical', 'comedy', 'romance', 'supernatural']",MBC
+"['comedy', 'romance', 'sci-fi', 'fantasy']",KBS
+"['mystery', 'drama', 'political']",tvN
+"['historical', 'romance', 'fantasy', 'political']",Netflix
+"['historical', 'romance', 'fantasy', 'political']", tvN
+"['thriller', 'mystery', 'psychological', 'drama']",jTBC
+"['comedy', 'romance', 'sci-fi']",tvN
+"['action', 'romance', 'drama', 'sports']",SBS
+"['law', 'drama', 'political']",KBS
+"['comedy', 'romance', 'life', 'drama']",jTBC
+"['comedy', 'romance', 'life', 'drama']", Viki
+"['romance', 'life', 'youth']",iQiyi
+"['romance', 'life', 'youth']", KBS
+"['romance', 'life', 'youth']", Viki
+"['drama', 'melodrama']",MBC
+"['comedy', 'life', 'drama']",tvN
+"['thriller', 'mystery', 'crime', 'fantasy']",tvN
+"['mystery', 'business', 'law', 'romance']",TV Chosun
+"['mystery', 'business', 'law', 'romance']", Viki
+"['business', 'comedy', 'romance']",KBS
+"['thriller', 'mystery', 'drama']",KBS
+"['comedy', 'romance', 'drama', 'melodrama']",Channel A
+"['action', 'business', 'comedy', 'romance']",iQiyi
+"['action', 'business', 'comedy', 'romance']", SBS
+"['action', 'thriller', 'mystery', 'comedy']",iQiyi
+"['action', 'thriller', 'mystery', 'comedy']", tvN
+"['action', 'mystery', 'crime', 'political']",OCN
+"['action', 'thriller', 'psychological', 'crime']",OCN
+"['action', 'mystery', 'crime', 'political']",OCN
+"['comedy', 'romance', 'drama']",SBS
+"['adventure', 'romance', 'drama', 'sports']",MBC
+"['action', 'mystery', 'comedy', 'law']",KBS
+"['thriller', 'comedy', 'law', 'romance']",MBC
+['drama'],MBC
+"['historical', 'romance']",SBS
+"['romance', 'drama', 'melodrama']",SBS
+"['romance', 'drama']",SBS
+"['historical', 'romance', 'drama', 'sports']",tvN
+"['thriller', 'mystery', 'drama']",Amazon Prime
+"['thriller', 'mystery', 'drama']", ENA
+"['thriller', 'mystery', 'drama']", TVING
+"['comedy', 'romance', 'life', 'melodrama']",jTBC
+"['comedy', 'romance', 'life', 'melodrama']", Viki
+"['comedy', 'romance', 'drama', 'family']",KBS
+"['comedy', 'romance', 'drama']",Naver TV Cast
+"['comedy', 'romance', 'drama', 'family']",MBC
+"['business', 'comedy', 'romance', 'drama']",jTBC
+"['romance', 'life', 'drama']",MBC
+"['romance', 'drama']",KBS
+"['comedy', 'romance', 'drama']",SBS
+"['comedy', 'romance', 'drama', 'melodrama']",KBS
+"['thriller', 'mystery', 'life', 'melodrama']",jTBC
+"['thriller', 'mystery', 'life', 'melodrama']", Viki
+"['comedy', 'romance', 'life', 'drama']",tvN
+"['comedy', 'romance', 'life', 'drama']",tvN
+"['comedy', 'romance', 'drama']",KBS
+"['mystery', 'comedy']",TV Chosun
+"['comedy', 'romance', 'life']",Netflix
+"['comedy', 'romance', 'life']", tvN
+"['business', 'drama', 'medical', 'political']",MBC
+"['mystery', 'comedy', 'romance', 'supernatural']",jTBC
+"['mystery', 'comedy', 'romance', 'supernatural']", Netflix
+"['mystery', 'comedy', 'romance', 'supernatural']", TVING
+"['comedy', 'romance', 'drama', 'family']",KBS
+"['food', 'business', 'comedy', 'romance']",DramaX
+"['food', 'business', 'comedy', 'romance']", MBN
+"['food', 'business', 'comedy', 'romance']", Viki
+"['thriller', 'mystery', 'psychological', 'drama']",jTBC
+"['thriller', 'romance', 'crime', 'drama']",KBS
+"['comedy', 'romance', 'youth', 'fantasy']",KBS
+"['action', 'crime', 'drama']",Disney
+"['action', 'crime', 'drama']", Hulu
+"['thriller', 'mystery', 'romance', 'drama']",SBS
+"['thriller', 'business', 'drama', 'melodrama']",KBS
+"['thriller', 'mystery', 'law', 'drama']",Hulu
+"['thriller', 'mystery', 'law', 'drama']", MBC
+"['thriller', 'mystery', 'law', 'drama']",Hulu
+"['thriller', 'mystery', 'law', 'drama']", MBC
+"['comedy', 'romance']",MBC
+"['romance', 'sports']",tvN
+"['comedy', 'romance', 'drama', 'melodrama']",SBS
+"['comedy', 'life', 'drama', 'melodrama']",tvN
+"['romance', 'youth', 'fantasy']",Naver TV Cast
+"['comedy', 'romance', 'drama']",KBS
+"['thriller', 'mystery', 'supernatural']",OCN
+"['comedy', 'life', 'drama']",tvN
+"['action', 'adventure', 'drama', 'sci-fi']",Netflix
+"['romance', 'drama', 'fantasy', 'melodrama']",KBS
+"['comedy', 'romance', 'drama', 'supernatural']",KBS
+"['comedy', 'romance', 'melodrama']",MBC
+"['thriller', 'mystery', 'drama']",OCN
+"['thriller', 'mystery', 'drama']", tvN
+"['action', 'romance', 'medical', 'supernatural']",KBS
+"['historical', 'romance', 'drama', 'political']",jTBC
+"['action', 'thriller', 'crime', 'drama']",Netflix
+"['historical', 'drama', 'political']",KBS
+"['military', 'romance', 'drama']",jTBC
+"['romance', 'drama', 'family']",MBC
+"['law', 'romance', 'drama', 'melodrama']",MBC
+"['thriller', 'romance', 'drama', 'fantasy']",Naver TV Cast
+"['thriller', 'romance', 'drama', 'fantasy']", Viki
+"['action', 'romance']",KBS
+"['comedy', 'romance', 'life', 'melodrama']",ENA
+"['comedy', 'romance', 'life', 'melodrama']", TVING
+"['mystery', 'romance', 'fantasy', 'melodrama']",KBS
+"['historical', 'romance', 'life', 'drama']",MBN
+"['historical', 'romance', 'life', 'drama']", Viki
+"['comedy', 'romance', 'youth', 'drama']",KBS
+"['romance', 'drama', 'medical']",KBS
+"['mystery', 'comedy']",KBS
+"['drama', 'family']",SBS
+"['drama', 'family']",SBS
+"['comedy', 'romance', 'melodrama']",MBC
+"['comedy', 'romance', 'drama', 'fantasy']",KBS
+"['action', 'historical', 'romance', 'political']",KBS
+"['mystery', 'comedy', 'romance', 'supernatural']",TV Chosun
+"['romance', 'drama', 'family']",SBS
+"['comedy', 'romance', 'family', 'melodrama']",KBS
+"['comedy', 'romance', 'family', 'melodrama']",KBS
+"['horror', 'comedy', 'romance', 'supernatural']",tvN
+"['comedy', 'romance', 'drama']",tvN
+"['business', 'romance', 'drama', 'melodrama']",SBS
+"['thriller', 'mystery', 'drama', 'fantasy']",Netflix
+"['thriller', 'mystery', 'drama', 'fantasy']", tvN
+"['comedy', 'romance', 'drama']",Netflix
+"['comedy', 'romance', 'drama']", SBS
+"['music', 'drama']",NA
+"['romance', 'drama', 'melodrama']",Disney
+"['romance', 'drama', 'melodrama']", Hulu
+"['romance', 'drama', 'family']",jTBC
+"['romance', 'life', 'drama']",jTBC
+"['comedy', 'law', 'romance', 'life']",MBC
+"['romance', 'drama', 'family']",jTBC
+"['historical', 'comedy', 'romance', 'drama']",KBS
+"['thriller', 'mystery', 'comedy', 'romance']",tvN
+"['thriller', 'mystery', 'drama']",Netflix
+"['thriller', 'mystery', 'comedy', 'romance']",KBS
+"['mystery', 'comedy', 'romance', 'youth']",SBS
+"['mystery', 'comedy', 'romance', 'youth']",SBS
+['drama'],KBS
+"['psychological', 'romance', 'life', 'drama']",tvN
+"['comedy', 'romance', 'drama', 'melodrama']",SBS
+"['mystery', 'romance', 'drama', 'melodrama']",SBS
+"['mystery', 'drama', 'supernatural']",OCN
+"['comedy', 'romance', 'supernatural', 'political']",tvN
+"['thriller', 'mystery', 'comedy', 'fantasy']",Netflix
+"['law', 'drama', 'political']",jTBC
+"['law', 'drama', 'political']", Netflix
+"['thriller', 'mystery', 'supernatural']",OCN
+"['thriller', 'mystery', 'psychological', 'drama']",MBC
+"['comedy', 'romance', 'life']",MBC
+"['thriller', 'mystery']",OCN
+"['thriller', 'mystery', 'comedy', 'melodrama']",MBC
+"['business', 'comedy', 'romance', 'drama']",Naver TV Cast
+"['romance', 'life', 'medical', 'melodrama']",jTBC
+"['romance', 'life', 'medical', 'melodrama']", Netflix
+"['romance', 'melodrama']",NA
+"['romance', 'family', 'melodrama']",MBC
+"['comedy', 'romance', 'drama']",tvN
+"['comedy', 'romance', 'drama']",tvN
+"['thriller', 'mystery', 'sci-fi']",tvN
+"['romance', 'life', 'youth', 'drama']",Daum Kakao TV
+"['romance', 'life', 'youth', 'drama']", Netflix
+"['action', 'thriller', 'crime']",SBS
+"['mystery', 'law', 'drama', 'melodrama']",MBC Dramanet
+"['thriller', 'mystery', 'law', 'youth']",OCN
+"['business', 'comedy', 'romance', 'drama']",jTBC
+"['comedy', 'crime', 'drama']",jTBC
+"['comedy', 'romance', 'fantasy']",Naver TV Cast
+"['food', 'comedy', 'romance', 'drama']",MBC
+"['comedy', 'romance', 'fantasy']",Channel A
+"['comedy', 'romance', 'fantasy']", Viki
+"['mystery', 'romance', 'drama', 'supernatural']",LINE TV
+"['mystery', 'romance', 'drama', 'supernatural']", Viki
+"['mystery', 'romance', 'drama', 'supernatural']", ViuTV
+"['thriller', 'horror', 'supernatural']",OCN
+"['thriller', 'mystery', 'romance', 'melodrama']",MBC
+"['comedy', 'romance', 'drama', 'supernatural']",SBS
+"['thriller', 'mystery', 'law', 'drama']",tvN
+"['mystery', 'youth']",OBS
+"['historical', 'drama']",KBS
+"['food', 'comedy', 'romance']",tvN
+"['comedy', 'romance']",MBC
+"['thriller', 'mystery', 'comedy', 'romance']",Netflix
+"['thriller', 'mystery', 'comedy', 'romance']", tvN
+"['military', 'comedy', 'romance', 'political']",Netflix
+"['military', 'comedy', 'romance', 'political']", tvN
+"['romance', 'drama', 'family', 'melodrama']",tvN
+"['drama', 'medical']",MBC
+"['action', 'mystery', 'drama']",tvN
+"['thriller', 'mystery', 'medical']",tvN
+"['historical', 'romance', 'melodrama', 'political']",tvN
+"['business', 'comedy', 'romance']",MBC
+"['romance', 'life', 'drama', 'family']",KBS
+"['romance', 'life', 'drama', 'family']", Viki
+"['romance', 'drama', 'medical']",jTBC
+"['action', 'military', 'drama']",Netflix
+"['food', 'comedy', 'romance', 'supernatural']",MBC
+"['historical', 'war']",KBS
+"['historical', 'drama']",KBS
+"['drama', 'medical']",Netflix
+"['business', 'comedy', 'romance', 'drama']",KBS
+"['comedy', 'romance', 'drama']",KBS
+"['historical', 'mystery', 'romance', 'martial arts']",MBC
+"['business', 'romance', 'drama', 'melodrama']",MBC
+['romance'],MBC
+"['action', 'thriller', 'horror', 'sci-fi']",OCN
+"['action', 'thriller', 'horror', 'sci-fi']", tvN
+"['comedy', 'romance', 'drama']",tvN
+"['life', 'drama', 'melodrama']",tvN
+"['romance', 'drama', 'melodrama']",SBS
+"['life', 'drama', 'melodrama']",tvN
+"['romance', 'drama']",TVING
+"['romance', 'drama']",TVING
+"['historical', 'mystery', 'political']",SBS
+['romance'],SBS
+"['mystery', 'comedy', 'law', 'melodrama']",SBS
+"['food', 'comedy', 'romance']",MBC
+"['comedy', 'crime', 'drama']",tvN
+"['action', 'comedy', 'martial arts', 'sci-fi']",NA
+"['mystery', 'comedy', 'romance', 'supernatural']",ENA
+"['mystery', 'comedy', 'romance', 'supernatural']", Genie TV
+"['mystery', 'comedy', 'romance', 'supernatural']", ViuTV
+"['action', 'comedy', 'romance', 'melodrama']",KBS
+"['thriller', 'mystery', 'drama', 'political']",Netflix
+"['thriller', 'mystery', 'drama', 'political']", tvN
+"['comedy', 'romance', 'drama', 'fantasy']",jTBC
+"['comedy', 'romance', 'drama', 'fantasy']", Netflix
+"['action', 'thriller', 'mystery', 'drama']",ENA
+"['action', 'thriller', 'mystery', 'drama']", jTBC
+"['comedy', 'romance', 'drama']",DramaX
+"['comedy', 'romance', 'drama']", MBN
+"['comedy', 'romance', 'drama']", Viki
+"['action', 'historical', 'romance', 'supernatural']",MBC
+"['mystery', 'law', 'life', 'drama']",jTBC
+"['romance', 'life', 'drama']",MBC
+"['action', 'historical', 'romance', 'medical']",MBC
+"['comedy', 'romance', 'life', 'drama']",iQiyi
+"['comedy', 'romance', 'life', 'drama']", MBC
+"['comedy', 'romance', 'drama']",KBS
+"['thriller', 'mystery', 'law']",SBS
+"['music', 'comedy', 'romance', 'life']",Netflix
+"['music', 'comedy', 'romance', 'life']", TVING
+"['music', 'comedy', 'romance', 'life']", tvN
+"['law', 'drama']",jTBC
+"['law', 'drama']", Netflix
+"['law', 'drama']", TVING
+"['comedy', 'law', 'romance']",SBS
+"['music', 'comedy', 'romance', 'melodrama']",KBS
+"['music', 'comedy', 'romance', 'melodrama']", Netflix
+"['music', 'romance', 'drama', 'melodrama']",SBS
+"['thriller', 'mystery', 'drama', 'medical']",SBS
+"['mystery', 'romance', 'life', 'medical']",SBS
+"['mystery', 'romance', 'life', 'medical']",SBS
+"['thriller', 'law', 'drama', 'medical']",MBC
+"['thriller', 'law', 'crime', 'medical']",KBS
+"['comedy', 'romance', 'drama', 'medical']",jTBC
+"['comedy', 'romance', 'drama', 'medical']", Netflix
+"['thriller', 'romance', 'drama', 'medical']",SBS
+"['action', 'crime', 'youth']",Oksusu
+"['action', 'crime', 'youth']", Viki
+"['romance', 'family']",MBC
+"['comedy', 'romance']",SBS
+"['romance', 'drama']",SBS
+"['thriller', 'romance', 'drama', 'melodrama']",KBS
+"['comedy', 'romance', 'drama', 'fantasy']",tvN
+"['comedy', 'romance', 'drama', 'fantasy']", ViuTV
+"['comedy', 'romance', 'youth', 'drama']",Netflix
+['drama'],CGV
+['youth'],MBC
+"['action', 'drama']",NA
+['drama'],SBS
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['romance', 'sports', 'melodrama']",SBS
+"['music', 'comedy', 'romance', 'youth']",KBS
+"['music', 'comedy', 'romance', 'youth']",KBS
+"['historical', 'drama']",KBS
+"['food', 'comedy', 'romance']",tvN
+"['thriller', 'mystery', 'sci-fi', 'medical']",NA
+"['mystery', 'psychological', 'drama', 'medical']",OCN
+['romance'],Naver TV Cast
+"['historical', 'romance', 'medical', 'fantasy']",MBC
+"['action', 'thriller', 'romance', 'medical']",MBC
+"['comedy', 'medical']",TVING
+"['romance', 'drama', 'medical']",SBS
+"['thriller', 'mystery', 'sci-fi']",OCN
+"['comedy', 'drama', 'family', 'melodrama']",SBS
+"['action', 'thriller', 'drama', 'sci-fi']",TVING
+"['food', 'comedy', 'romance', 'melodrama']",Channel A
+"['historical', 'mystery', 'drama']",CGV
+"['comedy', 'romance', 'life', 'drama']",jTBC
+"['comedy', 'romance', 'life', 'drama']", Viki
+"['comedy', 'romance', 'drama', 'medical']",tvN
+"['action', 'historical', 'drama', 'war']",KBS
+"['business', 'drama']",SBS
+"['historical', 'romance', 'melodrama', 'political']",MBC
+"['historical', 'romance', 'melodrama', 'political']",MBC
+"['historical', 'drama']",KBS
+"['romance', 'family', 'melodrama']",SBS
+['drama'],MBC
+"['action', 'romance', 'drama', 'melodrama']",SBS
+"['action', 'romance', 'drama', 'melodrama']",SBS
+"['romance', 'melodrama']",MBC
+"['romance', 'melodrama']",KBS
+"['romance', 'family', 'melodrama']",MBC
+"['music', 'business', 'comedy', 'drama']",SBS
+"['business', 'comedy', 'drama']",tvN
+"['action', 'tokusatsu', 'sci-fi', 'fantasy']",KBS
+"['romance', 'drama', 'melodrama']",tvN
+"['comedy', 'romance', 'fantasy']",OCN
+['drama'],MBC
+"['music', 'comedy', 'romance']",Naver TV Cast
+"['psychological', 'crime', 'youth', 'drama']",Netflix
+"['law', 'romance', 'life', 'drama']",ENA
+"['law', 'romance', 'life', 'drama']", Netflix
+"['comedy', 'romance', 'youth', 'fantasy']",MBC
+"['comedy', 'romance', 'drama']",tvN
+"['action', 'historical', 'romance', 'drama']",MBC
+"['historical', 'romance', 'medical', 'supernatural']",SBS
+"['comedy', 'romance', 'drama']",Naver TV Cast
+"['comedy', 'romance', 'drama', 'fantasy']",tvN
+"['drama', 'family']",KBS
+"['drama', 'family', 'melodrama']",tvN
+"['comedy', 'romance', 'drama']",SBS
+"['action', 'thriller', 'comedy', 'drama']",TVING
+"['action', 'thriller', 'comedy', 'drama']", tvN
+"['comedy', 'romance']",MBC
+"['comedy', 'romance', 'drama', 'medical']",jTBC
+"['romance', 'drama', 'family', 'melodrama']",SBS
+"['romance', 'drama', 'melodrama']",SBS
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['romance', 'drama', 'melodrama']",SBS
+"['romance', 'drama', 'melodrama']", Viki
+"['romance', 'drama', 'melodrama']",MBC
+"['drama', 'family']",SBS
+"['comedy', 'romance', 'drama', 'melodrama']",MBC
+"['comedy', 'romance', 'drama', 'fantasy']",KBS
+"['business', 'comedy', 'romance', 'sports']",KBS
+"['romance', 'drama', 'melodrama']",MBC
+['romance'],MBC
+"['comedy', 'romance', 'fantasy']",LINE TV
+"['comedy', 'romance', 'fantasy']", Naver TV Cast
+"['comedy', 'romance', 'fantasy']", Viki
+"['historical', 'romance', 'drama']",TVING
+"['romance', 'family']",SBS
+"['comedy', 'romance', 'drama', 'melodrama']",KBS
+"['music', 'romance', 'melodrama']",SBS
+['drama'],SBS
+"['music', 'romance', 'youth']",tvN
+"['historical', 'comedy', 'romance', 'drama']",jTBC
+"['historical', 'comedy', 'romance', 'drama']", Viki
+"['mystery', 'comedy']",tvN
+"['thriller', 'romance', 'crime', 'melodrama']",tvN
+"['comedy', 'romance', 'drama']",MBC
+['melodrama'],jTBC
+"['historical', 'mystery', 'comedy', 'drama']",MBC
+"['historical', 'law', 'drama', 'melodrama']",MBC
+"['life', 'drama']",Amazon Prime
+"['life', 'drama']", jTBC
+"['romance', 'drama', 'melodrama']",jTBC
+"['romance', 'drama', 'melodrama']", Netflix
+"['business', 'psychological', 'romance', 'medical']",KBS
+"['comedy', 'romance', 'life', 'drama']",NA
+['historical'],KBS
+"['romance', 'drama']",MBC
+"['action', 'historical']",KBS
+"['comedy', 'romance']",ENA
+"['comedy', 'romance']", Viki
+"['mystery', 'comedy', 'romance', 'fantasy']",MBC
+"['mystery', 'comedy', 'romance', 'fantasy']", ViuTV
+"['comedy', 'romance', 'drama', 'martial arts']",SBS Plus
+"['comedy', 'romance', 'drama', 'martial arts']",SBS Plus
+"['psychological', 'romance', 'youth', 'drama']",jTBC
+"['business', 'comedy', 'romance', 'melodrama']",SBS
+"['thriller', 'mystery', 'drama']",tvN
+"['business', 'comedy', 'romance', 'life']",ENA
+"['business', 'comedy', 'romance', 'life']", Genie TV
+"['mystery', 'drama']",TV Chosun
+"['life', 'youth']",MBC
+"['comedy', 'medical', 'fantasy', 'supernatural']",tvN
+"['mystery', 'romance', 'youth', 'drama']",KBS
+"['romance', 'drama', 'melodrama', 'political']",MBC
+"['romance', 'drama']",SBS
+"['psychological', 'drama', 'melodrama']",tvN
+"['romance', 'melodrama']",SBS
+"['thriller', 'mystery', 'comedy', 'sci-fi']",Netflix
+"['thriller', 'drama', 'melodrama']",Netflix
+"['comedy', 'romance', 'drama']",SBS
+"['romance', 'drama']",KBS
+"['comedy', 'romance', 'life', 'fantasy']",KBS
+"['military', 'adventure', 'historical', 'drama']",MBC
+"['historical', 'romance', 'drama']",MBC
+"['comedy', 'romance', 'drama']",SBS
+"['thriller', 'mystery', 'drama', 'supernatural']",SBS
+"['business', 'comedy', 'romance', 'drama']",SBS
+"['business', 'comedy', 'romance', 'drama']", Sohu TV
+"['drama', 'melodrama']",KBS
+"['romance', 'drama']",KBS
+"['comedy', 'romance', 'drama', 'melodrama']",SBS
+"['thriller', 'romance', 'drama', 'melodrama']",KBS
+"['romance', 'drama', 'melodrama']",MBC
+"['food', 'romance', 'drama', 'melodrama']",MBC
+"['romance', 'drama', 'melodrama']",MBC
+"['comedy', 'romance', 'medical']",MBC
+"['action', 'mystery', 'comedy', 'crime']",SBS
+"['romance', 'life', 'drama', 'medical']",KBS
+"['mystery', 'comedy', 'romance', 'fantasy']",ENA
+"['mystery', 'comedy', 'romance', 'fantasy']", Viki
+"['romance', 'family']",MBC
+"['business', 'comedy', 'crime', 'drama']",KBS
+"['comedy', 'romance']",Channel A
+"['thriller', 'psychological', 'drama', 'sci-fi']",Netflix
+"['thriller', 'business', 'romance', 'drama']",MBC
+"['romance', 'drama']",MBC
+"['romance', 'life']",KBS
+"['romance', 'life', 'drama', 'melodrama']",MBC
+"['thriller', 'mystery', 'drama', 'melodrama']",MBN
+"['mystery', 'life', 'drama']",jTBC
+"['romance', 'drama', 'melodrama']",KBS
+"['historical', 'romance', 'drama', 'political']",TV Chosun
+"['historical', 'romance', 'drama', 'political']", Viki
+"['mystery', 'drama']",jTBC
+"['mystery', 'drama']", Netflix
+"['thriller', 'mystery']",TVING
+"['action', 'thriller', 'mystery', 'sci-fi']",Disney
+"['action', 'thriller', 'mystery', 'sci-fi']", Hulu
+"['action', 'historical', 'romance', 'fantasy']",MBC
+"['comedy', 'romance', 'life', 'drama']",SBS
+"['comedy', 'romance', 'fantasy', 'melodrama']",tvN
+"['action', 'historical', 'romance', 'melodrama']",KBS
+"['historical', 'political']",KBS
+"['historical', 'romance', 'drama']",MBC
+"['action', 'thriller', 'historical', 'sci-fi']",Netflix
+"['action', 'adventure', 'historical', 'political']",SBS
+"['business', 'comedy', 'romance', 'drama']",SBS
+"['romance', 'drama']",KBS
+"['drama', 'family']",jTBC
+"['romance', 'drama', 'melodrama']",MBC
+"['romance', 'melodrama']",SBS
+"['romance', 'drama', 'melodrama']",SBS
+"['thriller', 'mystery', 'romance', 'supernatural']",tvN
+"['action', 'thriller', 'mystery', 'romance']",KBS
+"['comedy', 'romance', 'melodrama']",SBS
+"['action', 'life', 'drama', 'medical']",SBS
+"['psychological', 'comedy', 'romance']",tvN
+"['comedy', 'romance', 'fantasy']",KBS
+"['action', 'thriller', 'romance', 'crime']",jTBC
+"['horror', 'comedy', 'romance', 'supernatural']",Tooniverse
+"['music', 'romance', 'youth', 'drama']",MBC
+"['thriller', 'horror', 'psychological', 'drama']",OCN
+"['mystery', 'horror', 'drama', 'supernatural']",Netflix
+"['comedy', 'supernatural', 'sitcom']",MBC
+"['thriller', 'mystery', 'psychological', 'drama']",KBS
+"['comedy', 'romance', 'life', 'fantasy']",KBS
+"['comedy', 'romance', 'life', 'fantasy']", Netflix
+"['mystery', 'comedy', 'romance', 'life']",jTBC
+"['business', 'comedy', 'romance', 'drama']",tvN
+"['comedy', 'romance', 'drama', 'family']",MBC
+"['romance', 'drama']",MBC
+"['action', 'fantasy', 'supernatural']",OCN
+"['drama', 'family', 'melodrama', 'supernatural']",Netflix
+"['drama', 'family', 'melodrama', 'supernatural']", tvN
+"['romance', 'youth', 'fantasy']",KBS
+"['mystery', 'drama']",tvN
+"['romance', 'drama', 'melodrama']",MBC
+"['thriller', 'mystery', 'drama']",tvN
+"['comedy', 'romance', 'drama']",MBN
+"['comedy', 'romance', 'drama']", Naver TV Cast
+"['comedy', 'romance', 'drama']", Sohu TV
+"['comedy', 'romance', 'drama', 'sitcom']",MBC
+"['comedy', 'romance', 'drama', 'sitcom']",MBC
+"['comedy', 'romance', 'drama', 'sitcom']",MBC
+"['comedy', 'romance', 'sports']",tvN
+"['business', 'comedy', 'romance', 'melodrama']",SBS
+"['mystery', 'comedy', 'melodrama', 'political']",SBS
+"['comedy', 'romance', 'life', 'drama']",KBS
+"['comedy', 'romance', 'youth', 'melodrama']",tvN
+"['romance', 'drama', 'family', 'melodrama']",MBC
+"['romance', 'drama', 'family', 'melodrama']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['comedy', 'romance', 'drama']",KBS
+"['thriller', 'historical', 'mystery', 'horror']",tvN
+"['comedy', 'romance', 'life', 'drama']",Netflix
+"['comedy', 'romance', 'life', 'drama']", tvN
+"['action', 'historical', 'romance', 'drama']",SBS
+"['romance', 'drama']",SBS
+"['romance', 'life', 'drama', 'medical']",Netflix
+"['romance', 'life', 'drama', 'medical']", tvN
+"['romance', 'drama', 'medical']",MBC
+"['drama', 'sports', 'melodrama']",SBS
+"['horror', 'comedy', 'romance', 'fantasy']",tvN
+"['business', 'romance', 'drama', 'melodrama']",MBC
+"['business', 'romance', 'drama']",MBC
+"['comedy', 'romance', 'drama']",KBS
+"['food', 'romance', 'drama', 'fantasy']",Naver TV Cast
+"['food', 'romance', 'drama', 'fantasy']", Viki
+"['romance', 'drama', 'family', 'melodrama']",jTBC
+"['comedy', 'romance', 'drama']",Daum Kakao TV
+"['comedy', 'romance', 'drama']", Viki
+"['mystery', 'comedy', 'romance', 'drama']",KBS
+"['mystery', 'comedy', 'romance']",SBS
+['drama'],MBC
+"['historical', 'medical']",MBC
+"['historical', 'drama', 'medical']",MBC
+"['mystery', 'business', 'comedy', 'life']",iQiyi
+"['mystery', 'business', 'comedy', 'life']", jTBC
+['historical'],MBC
+"['action', 'historical', 'comedy', 'romance']",KBS
+"['psychological', 'comedy', 'romance', 'drama']",SBS
+"['comedy', 'romance', 'mature']",tvN
+"['comedy', 'romance', 'youth', 'sci-fi']",Naver TV Cast
+"['mystery', 'law', 'romance', 'supernatural']",SBS
+"['comedy', 'romance']",MBC
+"['romance', 'drama', 'melodrama']",SBS
+"['comedy', 'romance', 'fantasy', 'supernatural']",tvN
+"['comedy', 'romance']",tvN
+"['comedy', 'romance']",tvN
+"['comedy', 'romance', 'drama']",tvN
+"['food', 'comedy', 'romance', 'melodrama']",SBS Plus
+"['comedy', 'romance']",Oksusu
+"['comedy', 'romance']", Viki
+"['music', 'mystery', 'comedy', 'romance']",KBS
+"['mystery', 'romance', 'drama']",Netflix
+"['mystery', 'romance', 'drama']", TV Chosun
+"['comedy', 'romance', 'drama', 'sci-fi']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['romance', 'drama', 'melodrama']",KBS
+"['romance', 'drama', 'melodrama']",tvN
+"['romance', 'youth', 'drama']",Viki
+"['music', 'comedy', 'life', 'youth']",KBS
+"['music', 'youth', 'drama']",iQiyi
+"['music', 'youth', 'drama']", jTBC
+['drama'],MBC
+"['romance', 'life', 'drama', 'medical']",KBS
+"['romance', 'life', 'drama', 'medical']", ViuTV
+"['historical', 'drama']",MBC
+"['life', 'supernatural']",MBC every
+"['music', 'comedy', 'romance', 'drama']",KBS
+"['music', 'comedy', 'romance', 'drama']", Viki
+"['action', 'military', 'historical', 'drama']",KBS
+"['romance', 'drama']",KBS
+"['business', 'romance', 'drama']",SBS
+"['thriller', 'mystery', 'law', 'drama']",SBS
+"['action', 'thriller', 'law']",jTBC
+"['action', 'thriller', 'mystery', 'comedy']",jTBC
+"['action', 'thriller', 'mystery', 'comedy']", Netflix
+"['action', 'historical', 'romance', 'drama']",KBS
+"['historical', 'drama']",jTBC
+"['historical', 'drama', 'political']",TV Chosun
+"['business', 'comedy', 'romance', 'drama']",tvN
+"['romance', 'youth']",vLive
+"['romance', 'drama', 'melodrama']",MBC
+"['action', 'romance', 'drama']",KBS
+"['action', 'romance', 'drama']",KBS
+"['comedy', 'romance', 'youth']",tvN
+"['action', 'thriller', 'horror', 'fantasy']",Amazon Prime
+"['action', 'thriller', 'horror', 'fantasy']", TVING
+"['business', 'romance', 'life', 'drama']",jTBC
+"['business', 'romance', 'life', 'drama']", Netflix
+"['action', 'thriller', 'mystery', 'supernatural']",MBC
+['romance'],KBS
+"['psychological', 'comedy', 'romance', 'drama']",Netflix
+"['psychological', 'comedy', 'romance', 'drama']", tvN
+"['psychological', 'comedy', 'romance', 'drama']",SBS
+"['psychological', 'comedy', 'romance', 'drama']",SBS
+"['comedy', 'romance', 'life', 'drama']",NA
+"['romance', 'drama', 'melodrama']",MBC
+"['historical', 'romance', 'drama']",SBS
+"['historical', 'drama']",KBS
+"['action', 'adventure', 'historical', 'comedy', 'romance', 'martial arts', 'supernatural']",KBS
+"['action', 'thriller', 'historical', 'political']",KBS
+"['comedy', 'romance', 'life']",TV Chosun
+"['mystery', 'romance', 'fantasy', 'melodrama']",KBS
+"['mystery', 'romance', 'fantasy', 'melodrama']", Viki
+"['thriller', 'mystery', 'drama', 'fantasy']",iQiyi
+"['thriller', 'mystery', 'drama', 'fantasy']", tvN
+"['comedy', 'romance']",KBS
+"['action', 'historical', 'drama', 'fantasy']",SBS
+"['action', 'historical', 'drama', 'fantasy']", Viki
+"['historical', 'law', 'romance', 'drama']",MBC
+"['historical', 'romance', 'fantasy']",TV Chosun
+"['action', 'historical', 'drama', 'fantasy']",SBS
+"['action', 'historical', 'drama', 'fantasy']", Viki
+"['music', 'comedy', 'life']",jTBC
+"['music', 'comedy', 'life']", Naver TV Cast
+"['thriller', 'mystery', 'psychological', 'drama']",KBS
+"['comedy', 'law', 'romance', 'drama']",SBS
+"['business', 'comedy', 'romance', 'drama']",KBS
+"['comedy', 'sitcom']",MBC
+"['youth', 'drama']",KBS
+"['mystery', 'life', 'youth', 'drama']",KBS
+"['comedy', 'romance', 'life', 'drama']",jTBC
+"['comedy', 'romance', 'life', 'drama']", Viki
+"['romance', 'life', 'drama', 'sports']",KBS
+"['thriller', 'mystery', 'law', 'drama']",KBS
+"['law', 'drama']",Netflix
+"['action', 'thriller', 'drama', 'sci-fi']",MBC
+['drama'],KBS
+"['comedy', 'romance', 'fantasy']",Naver TV Cast
+"['romance', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",MBC
+"['thriller', 'mystery', 'comedy', 'romance']",SBS
+"['life', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['drama', 'family', 'melodrama']",KBS
+"['drama', 'family', 'melodrama']",KBS
+"['historical', 'drama']",KBS
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['historical', 'romance', 'drama', 'family']",KBS
+"['historical', 'romance', 'drama', 'family', 'melodrama']",KBS
+"['drama', 'melodrama']",KBS
+"['romance', 'melodrama']",KBS
+"['romance', 'life', 'drama', 'melodrama']",KBS
+"['romance', 'medical']",KBS
+"['romance', 'family']",KBS
+['drama'],KBS
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['historical', 'romance', 'drama', 'family', 'melodrama']",KBS
+"['thriller', 'drama']",tvN
+"['action', 'thriller', 'mystery', 'drama']",OCN
+"['psychological', 'comedy', 'romance', 'drama']",MBC
+"['drama', 'fantasy']",jTBC
+"['mystery', 'comedy', 'sci-fi']",Naver TV Cast
+"['mystery', 'comedy', 'sci-fi']", vLive
+"['mystery', 'comedy', 'drama', 'sitcom']",MBC
+"['mystery', 'comedy', 'drama', 'sitcom']",MBC
+"['food', 'mystery', 'romance', 'family']",jTBC
+"['romance', 'drama', 'melodrama']",SBS
+"['comedy', 'romance']",jTBC
+"['comedy', 'romance']", Netflix
+"['comedy', 'romance']", TVING
+"['thriller', 'historical', 'horror', 'political']",Netflix
+"['historical', 'romance', 'drama', 'supernatural']",TV Chosun
+"['comedy', 'romance', 'fantasy', 'supernatural']",Disney
+"['comedy', 'romance', 'fantasy', 'supernatural']", Hulu
+"['business', 'comedy', 'life', 'drama']",MBC
+"['comedy', 'romance', 'medical', 'fantasy']",MBC
+"['action', 'military', 'romance', 'political']",TV Chosun
+"['action', 'thriller', 'mystery', 'sci-fi']",tvN
+"['comedy', 'romance', 'family', 'melodrama']",KBS
+"['romance', 'drama', 'melodrama']",SBS
+"['action', 'thriller', 'crime']",jTBC
+"['food', 'life', 'drama']",SBS
+"['mystery', 'law', 'crime', 'drama']",jTBC
+"['mystery', 'law', 'crime', 'drama']", Netflix
+"['action', 'thriller', 'law', 'romance']",tvN
+"['thriller', 'law', 'romance']",MBC
+"['mystery', 'business', 'romance', 'melodrama']",KBS
+"['mystery', 'business', 'romance', 'melodrama']",KBS
+"['mystery', 'comedy', 'law', 'drama']",jTBC
+"['mystery', 'comedy', 'law', 'drama']", Viki
+"['historical', 'comedy', 'romance']",MBC
+"['thriller', 'mystery', 'psychological', 'drama']",MBC
+"['music', 'comedy', 'romance', 'drama']",iQiyi
+"['music', 'comedy', 'romance', 'drama']", SBS
+"['mystery', 'psychological', 'romance', 'melodrama']",SBS
+"['food', 'comedy', 'romance', 'drama']",tvN
+"['food', 'comedy', 'romance', 'drama']",tvN
+"['food', 'comedy', 'romance', 'life']",tvN
+"['business', 'comedy', 'romance']",DramaX
+"['business', 'comedy', 'romance']", MBN
+"['business', 'comedy', 'romance']", Viki
+"['action', 'mystery', 'comedy', 'crime']",TV Chosun
+"['thriller', 'mystery', 'psychological', 'drama']",tvN
+"['thriller', 'romance', 'melodrama']",Channel A
+"['comedy', 'romance']",SBS
+"['thriller', 'mystery', 'psychological', 'drama']",ENA
+"['thriller', 'mystery', 'psychological', 'drama']", Genie TV
+"['thriller', 'psychological', 'drama', 'medical']",jTBC
+"['thriller', 'psychological', 'drama', 'medical']", Netflix
+"['business', 'romance', 'drama']",KBS
+"['action', 'mystery', 'psychological', 'comedy']",OCN
+"['military', 'comedy', 'romance', 'political']",MBC
+"['romance', 'youth', 'drama']",Viki
+"['romance', 'family']",KBS
+"['mystery', 'romance', 'drama', 'fantasy']",tvN
+"['comedy', 'romance', 'life', 'drama']",jTBC
+"['comedy', 'romance', 'drama', 'melodrama']",MBC
+"['romance', 'drama', 'family']",SBS
+"['romance', 'life', 'drama']",Netflix
+"['romance', 'life', 'drama']", tvN
+"['comedy', 'romance', 'youth', 'drama']",jTBC
+"['comedy', 'romance', 'youth', 'drama']", Naver TV Cast
+"['comedy', 'romance', 'youth', 'drama']", Viki
+"['historical', 'romance', 'medical', 'fantasy']",tvN
+"['romance', 'family', 'melodrama']",KBS
+"['comedy', 'romance', 'drama']",KBS
+"['comedy', 'sitcom']",jTBC
+"['action', 'thriller', 'romance', 'drama']",SBS
+"['action', 'thriller', 'mystery', 'comedy']",OCN
+"['action', 'thriller', 'mystery', 'drama']",ENA
+"['action', 'thriller', 'mystery', 'drama']", Genie TV
+"['action', 'thriller', 'mystery', 'drama']", TVING
+"['action', 'thriller', 'mystery', 'drama']", Viki
+"['mystery', 'drama']",KBS
+"['romance', 'drama', 'melodrama']",NA
+"['life', 'drama', 'melodrama']",iQiyi
+"['life', 'drama', 'melodrama']", jTBC
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['mystery', 'romance', 'drama']",Netflix
+"['mystery', 'romance', 'drama']", TV Chosun
+"['romance', 'life', 'drama', 'family', 'melodrama']",jTBC
+"['comedy', 'romance', 'youth', 'drama']",Netflix
+"['business', 'comedy', 'romance', 'melodrama']",MBN
+"['business', 'comedy', 'romance', 'melodrama']", Viki
+"['romance', 'drama', 'sports', 'melodrama']",KBS
+"['drama', 'melodrama']",KBS
+"['comedy', 'romance']",MBC
+"['music', 'comedy', 'romance', 'supernatural']",Naver TV Cast
+['drama'],KBS
+"['business', 'comedy', 'romance']",tvN
+"['business', 'comedy', 'romance']", Viki
+"['romance', 'drama']",jTBC
+"['romance', 'drama', 'melodrama']",MBC
+"['historical', 'comedy', 'romance', 'drama']",KBS
+"['comedy', 'romance']",ENA
+"['comedy', 'romance']", Viki
+['romance'],MBC
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['romance', 'life', 'youth', 'drama']",Naver TV Cast
+"['romance', 'life', 'youth', 'drama']", vLive
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['comedy', 'romance', 'youth', 'drama']",Daum Kakao TV
+"['comedy', 'romance', 'youth', 'drama']", Viki
+"['romance', 'life', 'drama']",MBC
+"['comedy', 'law', 'romance']",Netflix
+"['business', 'romance', 'family', 'melodrama']",KBS
+"['family', 'melodrama']",KBS
+"['comedy', 'romance', 'life', 'drama']",MBC
+"['romance', 'drama']",KBS
+"['horror', 'comedy', 'romance', 'supernatural']",KBS
+"['drama', 'family']",MBC
+"['comedy', 'romance', 'melodrama']",KBS
+['romance'],SBS
+"['comedy', 'romance', 'drama']",SBS
+"['comedy', 'romance']",KBS
+"['music', 'comedy', 'romance']",KBS
+"['historical', 'romance', 'drama', 'fantasy']",SBS
+"['historical', 'romance', 'drama', 'fantasy']", Viki
+"['historical', 'romance', 'drama', 'fantasy']", ViuTV
+"['romance', 'life', 'youth', 'drama']",Daum Kakao TV
+"['romance', 'life', 'youth', 'drama']", Netflix
+"['comedy', 'romance', 'drama', 'fantasy']",Netflix
+"['comedy', 'romance', 'drama', 'fantasy']", TVING
+"['comedy', 'romance', 'drama', 'fantasy']", tvN
+"['comedy', 'romance', 'drama', 'political']",KBS
+"['business', 'comedy', 'romance', 'drama']",MBC
+"['comedy', 'romance', 'youth']",Tooniverse
+['family'],MBC
+"['action', 'thriller', 'mystery']",KBS
+"['comedy', 'romance', 'drama']",Daum Kakao TV
+"['comedy', 'romance', 'drama']", Netflix
+"['psychological', 'comedy', 'romance']",jTBC
+['romance'],NA
+"['comedy', 'youth', 'fantasy']",KBS
+"['romance', 'drama', 'melodrama']",MBC
+"['romance', 'family']",MBC
+"['romance', 'drama', 'melodrama']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['business', 'romance', 'drama', 'family']",KBS
+"['food', 'romance', 'drama', 'family']",MBC
+"['action', 'thriller', 'comedy', 'romance']",jTBC
+"['comedy', 'drama', 'family']",MBC
+"['thriller', 'comedy', 'romance', 'fantasy']",KBS
+"['comedy', 'romance']",tvN
+"['romance', 'drama', 'melodrama']",MBC
+"['comedy', 'romance', 'drama']",tvN
+"['comedy', 'romance', 'supernatural']",KBS
+"['romance', 'medical', 'melodrama']",KBS
+"['comedy', 'romance']",MBC
+"['romance', 'drama']",SBS
+"['romance', 'drama', 'family', 'melodrama']",SBS
+"['romance', 'supernatural']",Naver TV Cast
+"['thriller', 'mystery', 'comedy', 'drama']",Netflix
+"['horror', 'comedy', 'romance', 'supernatural']",SBS
+"['comedy', 'romance', 'drama']",KBS
+"['mystery', 'romance', 'drama', 'supernatural']",Amazon Prime
+"['mystery', 'romance', 'drama', 'supernatural']", MBC
+"['mystery', 'law', 'drama']",Disney
+"['mystery', 'law', 'drama']", Hulu
+"['romance', 'drama', 'melodrama']",MBC
+"['psychological', 'comedy', 'romance', 'drama']",MBC
+"['drama', 'medical']",MBC
+"['romance', 'drama', 'melodrama']",tvN
+"['music', 'romance', 'drama', 'family']",KBS
+"['mystery', 'psychological', 'romance', 'supernatural']",OCN
+"['mystery', 'psychological', 'romance', 'supernatural']", Oksusu
+"['mystery', 'psychological', 'romance', 'supernatural']", Viki
+"['mystery', 'comedy', 'romance', 'sci-fi']",tvN
+"['action', 'thriller', 'romance', 'sci-fi']",Netflix
+"['action', 'thriller', 'romance', 'sci-fi']", tvN
+"['comedy', 'romance', 'drama', 'political']",KBS
+"['action', 'thriller', 'mystery', 'supernatural']",tvN
+"['law', 'romance', 'life', 'drama']",tvN
+"['comedy', 'romance', 'drama', 'fantasy']",KBS
+"['comedy', 'drama', 'sports']",tvN
+"['comedy', 'romance']",MBC
+"['comedy', 'romance', 'drama']",MBN
+"['comedy', 'romance', 'drama']", Naver TV Cast
+"['comedy', 'romance', 'drama']", Sohu TV
+"['action', 'military', 'mystery', 'law']",tvN
+"['mystery', 'romance', 'supernatural']",Mnet
+"['romance', 'drama', 'melodrama']",KBS
+"['thriller', 'mystery', 'drama']",Netflix
+"['thriller', 'mystery', 'drama']", tvN
+"['mystery', 'drama', 'fantasy', 'supernatural']",jTBC
+"['business', 'life', 'drama']",tvN
+['drama'],SBS
+"['comedy', 'romance', 'life', 'drama']",MBC
+"['business', 'comedy', 'life', 'drama']",tvN
+"['romance', 'drama', 'melodrama']",KBS
+"['romance', 'drama']",MBC
+"['thriller', 'romance', 'drama', 'melodrama']",KBS
+"['food', 'comedy', 'romance', 'drama']",Channel A
+"['romance', 'drama', 'melodrama']",MBC
+"['adventure', 'mystery', 'comedy', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",MBC
+"['thriller', 'mystery', 'supernatural']",OCN
+"['thriller', 'mystery', 'romance', 'drama']",OCN
+"['thriller', 'mystery', 'romance', 'melodrama']",jTBC
+"['romance', 'drama']",SBS
+"['comedy', 'romance', 'drama']",SBS
+"['romance', 'drama', 'family']",SBS
+"['romance', 'drama']",KBS
+"['business', 'law', 'romance', 'melodrama']",MBC
+"['thriller', 'mystery', 'psychological']",NA
+"['action', 'thriller', 'mystery', 'crime']",Netflix
+"['music', 'romance', 'youth']",Mnet
+"['business', 'romance', 'crime', 'melodrama']",MBC
+"['thriller', 'mystery', 'horror', 'supernatural']",TVING
+"['business', 'comedy', 'romance', 'drama']",iQiyi
+"['business', 'comedy', 'romance', 'drama']", jTBC
+"['historical', 'romance', 'supernatural', 'political']",MBC
+"['historical', 'romance', 'fantasy', 'melodrama']",SBS
+"['action', 'historical', 'comedy', 'romance']",KBS
+"['action', 'romance', 'drama', 'supernatural']",KBS
+"['historical', 'romance', 'drama']",jTBC
+"['comedy', 'romance', 'life', 'drama']",jTBC
+"['comedy', 'romance', 'life', 'drama']", Viki
+"['thriller', 'mystery', 'psychological', 'melodrama']",tvN
+"['business', 'romance', 'life', 'melodrama']",KBS
+"['romance', 'drama', 'family', 'melodrama']",MBC
+"['thriller', 'mystery', 'psychological', 'sci-fi']",tvN
+"['life', 'drama']",Netflix
+"['action', 'thriller', 'mystery', 'supernatural']",Disney
+"['action', 'thriller', 'mystery', 'supernatural']", Hulu
+"['comedy', 'romance', 'drama', 'fantasy']",MBC
+"['comedy', 'romance']",MBC
+"['historical', 'comedy', 'romance', 'fantasy']",tvN
+"['military', 'historical', 'romance', 'melodrama']",Netflix
+"['military', 'historical', 'romance', 'melodrama']", tvN
+"['action', 'mystery']",SBS
+"['romance', 'fantasy', 'melodrama']",TV Chosun
+"['law', 'romance', 'life', 'drama']",jTBC
+"['mystery', 'comedy']",KBS
+"['thriller', 'mystery', 'drama']",SBS
+"['mystery', 'comedy']",KBS
+"['thriller', 'mystery', 'comedy', 'supernatural']",Netflix
+"['comedy', 'romance', 'drama', 'fantasy']",SBS
+"['comedy', 'romance', 'drama', 'fantasy']", Viki
+"['action', 'mystery', 'romance', 'crime']",OCN
+"['romance', 'life', 'drama', 'family', 'melodrama']",MBC
+['romance'],SBS
+"['mystery', 'romance', 'drama', 'sci-fi']",KBS
+"['mystery', 'romance', 'drama', 'sci-fi']", ViuTV
+"['comedy', 'romance', 'drama', 'melodrama']",MBC
+"['action', 'historical', 'romance', 'drama']",jTBC
+"['action', 'historical', 'romance', 'drama']", Netflix
+"['thriller', 'psychological', 'drama']",MBN
+"['romance', 'family']",SBS
+"['romance', 'drama', 'family']",MBC
+"['mystery', 'comedy', 'romance', 'drama']",KBS
+"['historical', 'romance', 'drama', 'melodrama']",MBC
+"['romance', 'drama']",SBS
+"['comedy', 'romance', 'drama']",KBS
+"['comedy', 'romance', 'crime', 'political']",KBS
+"['comedy', 'romance', 'life', 'youth']",Netflix
+"['comedy', 'romance', 'life', 'youth']",Netflix
+"['comedy', 'romance', 'life']",Naver TV Cast
+"['comedy', 'romance', 'life']", vLive
+"['business', 'comedy', 'romance', 'drama']",KBS
+"['romance', 'life', 'drama']",MBC
+"['romance', 'drama', 'family', 'melodrama']",SBS
+"['romance', 'drama', 'sci-fi', 'melodrama']",Netflix
+"['business', 'comedy', 'life', 'drama']",jTBC
+"['comedy', 'romance', 'life', 'drama']",KBS
+"['romance', 'life', 'drama', 'melodrama']",SBS
+"['drama', 'family']",jTBC
+"['mystery', 'comedy', 'law']",KBS
+"['mystery', 'comedy', 'law', 'drama']",KBS
+"['romance', 'life', 'drama', 'melodrama']",jTBC
+"['romance', 'life', 'drama', 'melodrama']", Netflix
+"['comedy', 'romance', 'family']",MBC
+['family'],KBS
+"['comedy', 'romance', 'drama', 'supernatural']",SBS
+"['romance', 'drama']",MBC
+['romance'],SBS
+"['music', 'romance', 'drama']",SBS
+"['mystery', 'comedy', 'romance', 'supernatural']",tvN
+['drama'],KBS
+"['romance', 'drama', 'family']",SBS
+"['psychological', 'life', 'drama']",tvN
+"['comedy', 'drama', 'melodrama']",SBS
+"['action', 'thriller', 'mystery', 'crime']",Netflix
+"['historical', 'comedy', 'romance', 'drama']",Netflix
+"['comedy', 'romance', 'drama']",KBS
+"['mystery', 'romance', 'drama', 'sci-fi']",KBS
+"['mystery', 'romance', 'drama', 'sci-fi']", ViuTV
+"['comedy', 'romance', 'drama', 'supernatural']",SBS
+"['comedy', 'romance', 'fantasy']",iQiyi
+"['comedy', 'romance', 'fantasy']", tvN
+"['romance', 'melodrama']",KBS
+"['comedy', 'romance', 'drama', 'supernatural']",MBC Dramanet
+"['historical', 'comedy', 'romance']",SBS
+"['mystery', 'comedy', 'romance', 'drama']",tvN
+"['comedy', 'romance', 'life', 'drama']",OCN
+"['action', 'mystery', 'comedy', 'romance']",MBC
+"['romance', 'melodrama']",MBC
+"['mystery', 'comedy', 'romance', 'youth']",SBS
+"['comedy', 'romance', 'family']",KBS
+"['life', 'drama']",tvN
+"['romance', 'drama']",MBC Dramanet
+"['mystery', 'melodrama']",KBS
+"['mystery', 'comedy', 'drama', 'fantasy']",jTBC
+"['mystery', 'comedy', 'drama', 'fantasy']", Netflix
+"['music', 'comedy', 'romance', 'youth']",KBS
+"['action', 'thriller', 'mystery', 'drama']",KBS
+"['action', 'thriller', 'crime']",Netflix
+"['life', 'drama']",Netflix
+"['life', 'drama']", tvN
+"['comedy', 'romance', 'drama', 'family']",MBC
+"['romance', 'life', 'youth', 'drama']",jTBC
+"['romance', 'life', 'youth', 'drama']", Netflix
+"['romance', 'medical']",MBC
+"['historical', 'drama']",OCN
+"['comedy', 'romance', 'drama', 'melodrama']",SBS
+"['business', 'drama', 'political']",MBC
+"['mystery', 'romance', 'supernatural']",tvN
+"['romance', 'drama', 'family']",KBS
+"['comedy', 'romance', 'drama', 'melodrama']",jTBC
+"['comedy', 'romance', 'life', 'drama']",Daum Kakao TV
+"['comedy', 'romance']",Naver TV Cast
+"['thriller', 'mystery', 'drama', 'melodrama']",SBS
+"['historical', 'romance', 'war', 'political']",SBS
+"['comedy', 'romance', 'drama', 'sitcom']",MBC
+"['mystery', 'comedy', 'romance', 'drama']",ENA
+"['mystery', 'comedy', 'romance', 'drama']", Genie TV
+"['mystery', 'comedy', 'romance', 'drama']", Hulu
+"['romance', 'drama', 'melodrama']",SBS
+"['romance', 'drama', 'melodrama']", ViuTV
+"['action', 'thriller', 'mystery', 'drama']",MBC
+"['historical', 'romance', 'youth', 'drama']",KBS
+"['historical', 'romance', 'youth', 'drama']", Viki
+"['comedy', 'romance', 'sci-fi']",tvN
+"['comedy', 'romance', 'drama']",KBS
+"['comedy', 'romance', 'drama', 'medical']",tvN
+"['thriller', 'comedy', 'romance', 'supernatural']",tvN
+"['comedy', 'romance', 'fantasy', 'melodrama']",iQiyi
+"['comedy', 'romance', 'fantasy', 'melodrama']", MBC
+"['comedy', 'law', 'romance', 'life']",KBS
+"['comedy', 'romance', 'fantasy', 'melodrama']",iQiyi
+"['comedy', 'romance', 'fantasy', 'melodrama']", MBC
+"['thriller', 'romance', 'drama', 'fantasy']",Naver TV Cast
+"['thriller', 'romance', 'drama', 'fantasy']", Viki
+"['comedy', 'romance', 'drama', 'supernatural']",KBS
+"['comedy', 'romance', 'drama', 'melodrama']",KBS
+"['romance', 'drama']",SBS
+"['comedy', 'life', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['romance', 'supernatural']",NA
+"['comedy', 'romance', 'life']",Daum Kakao TV
+"['comedy', 'law', 'drama']",SBS
+['drama'],SBS
+"['comedy', 'romance', 'youth', 'drama']",MBC
+"['music', 'romance', 'youth', 'drama']",BS TV Tokyo
+"['music', 'romance', 'youth', 'drama']", Netflix
+"['thriller', 'mystery', 'law', 'crime']",ViuTV
+"['romance', 'life', 'drama', 'melodrama']",MBC
+"['romance', 'life', 'drama', 'melodrama']", Netflix
+"['romance', 'drama']",LINE TV
+"['mystery', 'comedy', 'romance', 'drama']",SBS
+"['life', 'drama', 'family', 'melodrama']",SBS
+"['business', 'romance', 'drama', 'melodrama']",SBS
+"['romance', 'family']",SBS
+['life'],NA
+"['romance', 'drama', 'sports', 'fantasy']",TV Chosun
+"['historical', 'romance', 'drama', 'supernatural']",KBS
+"['romance', 'life', 'youth', 'drama']",Netflix
+"['romance', 'life', 'youth', 'drama']", SBS
+"['historical', 'mystery', 'romance', 'drama']",TVING
+"['historical', 'mystery', 'romance', 'drama']", tvN
+"['romance', 'life', 'drama', 'melodrama']",Netflix
+"['romance', 'life', 'drama', 'melodrama']", tvN
+"['business', 'romance']",NA
+"['comedy', 'romance', 'family']",SBS
+"['music', 'romance', 'youth']",MBC
+"['historical', 'romance', 'drama', 'melodrama']",NA
+"['romance', 'life', 'melodrama', 'supernatural']",jTBC
+"['thriller', 'mystery', 'romance', 'drama']",ENA
+"['thriller', 'mystery', 'romance', 'drama']", Genie TV
+"['action', 'thriller', 'drama', 'melodrama']",Hulu
+"['action', 'thriller', 'drama', 'melodrama']", TVING
+"['action', 'thriller', 'drama', 'melodrama']", tvN
+"['romance', 'drama', 'melodrama']",KBS
+"['thriller', 'mystery', 'law', 'medical']",MBC
+"['business', 'romance', 'family', 'melodrama']",SBS
+"['thriller', 'mystery', 'business', 'drama']",Amazon Prime
+"['thriller', 'mystery', 'business', 'drama']", SBS
+"['business', 'comedy', 'drama']",tvN
+"['comedy', 'romance', 'melodrama', 'supernatural']",KBS
+"['thriller', 'romance', 'drama']",Netflix
+"['comedy', 'romance', 'life', 'youth']",Netflix
+"['action', 'youth', 'fantasy']",Viki
+"['romance', 'drama']",MBC
+"['business', 'romance', 'drama', 'melodrama']",SBS
+"['romance', 'melodrama']",SBS
+"['action', 'thriller', 'mystery', 'drama']",tvN
+"['romance', 'drama', 'melodrama']",MBC
+"['thriller', 'mystery', 'comedy', 'romance']",SBS
+"['action', 'thriller', 'mystery', 'comedy']",OCN
+"['comedy', 'romance', 'supernatural']",SBS
+"['comedy', 'romance', 'drama', 'sci-fi']",MBC
+"['comedy', 'romance', 'drama', 'sci-fi']", MBC every
+['romance'],tvN
+"['mystery', 'comedy', 'romance', 'drama']",KBS
+"['historical', 'mystery', 'romance', 'medical']",tvN
+"['action', 'military', 'mystery', 'romance']",KBS
+"['mystery', 'horror', 'romance', 'supernatural']",Netflix
+"['mystery', 'horror', 'romance', 'supernatural']", OCN
+"['comedy', 'romance', 'fantasy', 'sitcom']",tvN
+"['business', 'romance', 'family']",MBC
+"['romance', 'drama']",KBS
+"['mystery', 'law', 'romance']",MBC
+"['thriller', 'horror', 'romance', 'drama']",OCN
+"['comedy', 'romance', 'drama']",KBS
+"['comedy', 'romance', 'drama']",NA
+"['comedy', 'romance', 'drama', 'family']",MBC
+"['comedy', 'romance', 'drama']",NA
+"['action', 'historical', 'romance', 'political']",KBS
+"['comedy', 'crime', 'life', 'drama']",Netflix
+"['comedy', 'crime', 'life', 'drama']", tvN
+"['thriller', 'mystery', 'romance', 'crime']",jTBC
+"['thriller', 'mystery', 'romance', 'crime']", Netflix
+"['comedy', 'romance', 'drama']",KBS
+"['business', 'comedy', 'romance', 'melodrama']",SBS
+"['thriller', 'mystery', 'comedy', 'crime']",tvN
+"['thriller', 'drama', 'political']",SBS
+"['romance', 'youth', 'drama', 'sports']",KBS
+"['comedy', 'drama', 'family', 'melodrama']",KBS
+"['drama', 'melodrama']",SBS
+"['romance', 'drama', 'melodrama']",NA
+"['historical', 'comedy', 'romance', 'fantasy']",tvN
+"['historical', 'romance', 'melodrama', 'political']",KBS
+"['action', 'mystery', 'comedy', 'drama']",KBS
+"['action', 'mystery', 'comedy', 'drama']",KBS
+"['action', 'mystery', 'comedy', 'drama']",KBS
+"['action', 'mystery', 'comedy', 'drama']",KBS
+"['thriller', 'mystery', 'drama', 'melodrama']",Channel A
+['drama'],SBS
+"['historical', 'romance', 'fantasy', 'political']",TV Chosun
+"['historical', 'romance', 'fantasy', 'political']", Viki
+"['business', 'drama', 'political']",Netflix
+"['mystery', 'drama', 'medical']",OCN
+"['comedy', 'life', 'drama', 'sports']",Netflix
+"['comedy', 'life', 'drama', 'sports']", SBS
+"['business', 'comedy', 'romance', 'drama']",MBC
+"['business', 'comedy', 'romance']",KBS
+"['psychological', 'romance', 'melodrama']",jTBC
+"['business', 'drama', 'fantasy', 'political']",jTBC
+"['business', 'drama', 'fantasy', 'political']", ViuTV
+"['romance', 'life', 'youth', 'drama']",Netflix
+"['romance', 'life', 'youth', 'drama']", tvN
+"['comedy', 'life', 'drama']",TV Chosun
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['thriller', 'mystery', 'drama', 'melodrama']",jTBC
+"['thriller', 'mystery', 'drama', 'melodrama']", Netflix
+"['mystery', 'drama', 'melodrama']",Netflix
+"['romance', 'drama']",MBC
+"['mystery', 'horror', 'romance', 'supernatural']",Tooniverse
+"['music', 'romance', 'youth', 'drama']",Daum Kakao TV
+"['comedy', 'romance', 'life', 'youth']",tvN
+"['comedy', 'romance', 'drama', 'sports']",tvN
+"['comedy', 'romance', 'life']",tvN
+"['mystery', 'drama']",OCN
+"['thriller', 'romance', 'drama']",KBS
+"['thriller', 'mystery', 'law']",SBS
+"['romance', 'drama', 'melodrama', 'supernatural']",SBS
+"['thriller', 'mystery', 'horror', 'supernatural']",SBS
+"['action', 'thriller', 'mystery', 'drama']",Disney
+"['action', 'thriller', 'mystery', 'drama']", Hulu
+"['romance', 'life', 'youth']",Naver TV Cast
+"['business', 'comedy', 'romance', 'drama']",tvN
+"['thriller', 'comedy', 'romance', 'drama']",KBS
+"['business', 'comedy', 'romance', 'melodrama']",DramaX
+"['business', 'comedy', 'romance', 'melodrama']", Viki
+"['romance', 'life', 'drama', 'family']",tvN
+"['comedy', 'romance', 'medical']",MBC
+"['action', 'historical', 'romance', 'political']",KBS
+"['action', 'historical', 'romance', 'political']", Viki
+"['action', 'historical', 'romance', 'political']", ViuTV
+"['romance', 'crime', 'drama', 'melodrama']",SBS
+"['romance', 'drama', 'melodrama']",SBS
+"['business', 'comedy', 'romance', 'melodrama']",Netflix
+"['business', 'comedy', 'romance', 'melodrama']", tvN
+"['comedy', 'romance', 'drama', 'family']",KBS
+"['romance', 'drama', 'melodrama']",SBS
+"['historical', 'comedy', 'romance', 'fantasy']",SBS
+"['historical', 'comedy', 'romance', 'drama']",MBC
+"['historical', 'comedy', 'romance', 'drama']", Netflix
+"['romance', 'life', 'youth', 'drama']",Disney
+"['romance', 'life', 'youth', 'drama']", Hulu
+"['mystery', 'drama', 'fantasy']",tvN
+"['thriller', 'mystery']",TVING
+"['romance', 'family']",MBC
+"['historical', 'mystery', 'comedy', 'romance']",tvN
+"['historical', 'romance', 'drama']",KBS
+"['romance', 'drama', 'melodrama']",KBS
+"['romance', 'drama', 'melodrama']",KBS
+"['action', 'thriller', 'crime', 'sci-fi']",Netflix
+"['action', 'thriller', 'crime', 'sci-fi']", OCN
+"['romance', 'drama']",MBC
+"['comedy', 'youth', 'drama', 'political']",TVING
+"['romance', 'life', 'drama', 'sports']",jTBC
+"['romance', 'life', 'drama', 'sports']", Netflix
+"['food', 'romance']",SBS
+"['thriller', 'historical', 'drama']",SBS
+"['romance', 'life', 'drama', 'melodrama']",MBC
+"['historical', 'mystery', 'romance', 'melodrama']",SBS
+"['comedy', 'drama', 'sitcom']",SBS
+['romance'],KBS
+"['action', 'romance', 'drama', 'political']",SBS
+"['food', 'comedy', 'romance', 'drama']",tvN
+"['historical', 'comedy', 'romance']",SBS
+"['action', 'thriller', 'mystery', 'drama']",OCN
+"['thriller', 'mystery', 'psychological']",OCN
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['romance', 'drama']",SBS
+"['romance', 'drama']",MBC
+"['comedy', 'romance', 'life', 'melodrama']",SBS
+"['mystery', 'youth', 'drama']",KBS
+"['mystery', 'comedy', 'romance', 'youth']",KBS
+"['romance', 'youth', 'drama', 'melodrama']",KBS
+"['romance', 'youth', 'drama', 'melodrama']", Viki
+"['mystery', 'romance', 'youth', 'drama']",KBS
+"['mystery', 'life', 'youth', 'drama']",jTBC
+"['military', 'thriller', 'mystery', 'horror']",OCN
+"['business', 'comedy', 'romance', 'drama']",tvN
+"['comedy', 'romance', 'life', 'drama']",tvN
+"['romance', 'life', 'drama']",SBS
+"['romance', 'drama', 'melodrama']",KBS
+"['music', 'romance', 'drama', 'melodrama']",jTBC
+"['romance', 'drama', 'melodrama', 'political']",SBS
+"['historical', 'mystery', 'drama', 'political']",SBS
+"['historical', 'romance', 'medical', 'fantasy']",jTBC
+"['romance', 'drama', 'fantasy', 'melodrama']",DRAMAcube
+"['thriller', 'mystery', 'psychological', 'drama']",SBS
+['historical'],NA
+"['historical', 'mystery', 'comedy', 'romance']",tvN
+"['business', 'romance', 'melodrama']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['comedy', 'romance', 'drama', 'fantasy']",Netflix
+"['comedy', 'romance', 'drama', 'fantasy']", TVING
+"['comedy', 'romance', 'drama', 'fantasy']", tvN
+"['thriller', 'mystery', 'comedy', 'fantasy']",KBS
+"['comedy', 'romance', 'life', 'youth']",NA
+"['historical', 'drama']",KBS
+"['comedy', 'romance', 'drama', 'melodrama']",KBS
+"['comedy', 'romance', 'life', 'youth']",KBS
+"['mystery', 'psychological', 'crime', 'drama']",MBC
+"['comedy', 'romance', 'drama']",MBC
+"['business', 'comedy', 'romance', 'drama']",iQiyi
+"['business', 'comedy', 'romance', 'drama']", jTBC
+"['historical', 'romance', 'supernatural', 'political']",MBC
+"['romance', 'family']",MBC
+"['comedy', 'romance', 'drama']",tvN
+"['comedy', 'romance', 'life', 'drama']",MBC
+"['comedy', 'romance', 'life', 'sports']",OCN
+"['comedy', 'romance', 'life', 'sports']", Viki
+"['comedy', 'romance', 'life', 'melodrama']",SBS
+"['thriller', 'mystery', 'romance', 'drama']",Channel A
+"['thriller', 'mystery', 'romance', 'drama']", Viki
+"['thriller', 'mystery', 'sci-fi']",tvN
+"['thriller', 'mystery', 'sci-fi']",tvN
+"['historical', 'drama', 'political']",MBC
+"['romance', 'family', 'melodrama']",KBS
+['romance'],MBC
+"['action', 'thriller', 'mystery', 'sci-fi']",jTBC
+"['action', 'thriller', 'mystery', 'sci-fi']", Netflix
+"['action', 'historical', 'drama', 'political']",SBS
+"['action', 'thriller', 'mystery', 'supernatural']",jTBC
+"['mystery', 'psychological', 'drama']",jTBC
+"['romance', 'drama', 'sports', 'melodrama']",SBS
+['romance'],SBS
+"['romance', 'drama']",SBS
+"['romance', 'drama', 'melodrama', 'political']",jTBC
+"['music', 'comedy', 'romance']",Amazon Prime
+"['music', 'comedy', 'romance']", iQiyi
+"['music', 'comedy', 'romance']", Naver TV Cast
+"['music', 'comedy', 'romance']", Viki
+"['music', 'comedy', 'romance']", vLive
+"['comedy', 'romance', 'youth', 'sitcom']",Netflix
+"['law', 'youth', 'drama']",jTBC
+"['thriller', 'mystery', 'psychological', 'mature']",Netflix
+"['romance', 'life', 'youth']",Naver TV Cast
+"['comedy', 'romance', 'drama']",DramaX
+"['romance', 'drama', 'melodrama']",NA
+"['romance', 'life', 'drama', 'melodrama']",jTBC
+"['romance', 'life', 'drama', 'melodrama']", Netflix
+"['action', 'thriller', 'historical', 'drama']",Netflix
+"['life', 'drama']",jTBC
+"['comedy', 'romance', 'drama', 'medical']",KBS
+"['comedy', 'romance', 'drama', 'medical']",KBS
+"['music', 'romance']",Disney
+"['action', 'mystery', 'psychological']",OCN
+"['action', 'business', 'comedy', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",MBC
+"['historical', 'drama', 'political']",MBC
+"['thriller', 'romance', 'drama']",MBN
+"['thriller', 'romance', 'drama']", Viki
+"['mystery', 'business', 'law', 'political']",MBC
+"['romance', 'drama']",SBS
+"['business', 'comedy', 'drama', 'fantasy']",MBC
+"['thriller', 'romance', 'crime', 'political']",KBS
+"['action', 'comedy', 'romance', 'crime']",KBS
+"['mystery', 'comedy', 'crime', 'drama']",OCN
+"['action', 'thriller', 'mystery', 'drama']",Netflix
+"['romance', 'drama']",SBS
+"['business', 'comedy', 'sitcom']",MBC
+"['romance', 'drama', 'family']",MBC
+"['thriller', 'mystery', 'romance', 'drama']",tvN
+"['youth', 'drama']",NA
+"['music', 'romance']",Fuji TV
+"['music', 'romance']", MBC
+"['comedy', 'romance', 'drama', 'supernatural']",SBS
+"['comedy', 'romance', 'crime', 'drama']",jTBC
+"['action', 'adventure', 'mystery', 'comedy']",tvN
+"['music', 'mystery', 'comedy', 'romance']",SBS
+['romance'],NA
+"['thriller', 'mystery', 'law', 'drama']",Netflix
+"['thriller', 'mystery', 'law', 'drama']", tvN
+"['law', 'romance', 'drama']",ENA
+"['law', 'romance', 'drama']", Genie TV
+"['law', 'romance', 'drama']", Viki
+"['action', 'comedy', 'romance', 'supernatural']",jTBC
+"['action', 'comedy', 'romance', 'supernatural']",jTBC
+"['action', 'comedy', 'romance', 'supernatural']", TVING
+"['business', 'comedy', 'romance', 'life']",KBS
+"['business', 'comedy', 'romance', 'life']",KBS
+"['comedy', 'romance', 'drama', 'family']",KBS
+"['action', 'business', 'law', 'drama']",KBS
+"['romance', 'life', 'drama', 'melodrama']",ENA
+"['romance', 'life', 'drama', 'melodrama']", Genie TV
+"['romance', 'youth']",NA
+"['romance', 'drama']",SBS
+"['romance', 'drama']",KBS
+"['comedy', 'romance', 'drama', 'medical']",tvN
+"['action', 'comedy', 'crime', 'drama']",SBS
+"['romance', 'drama', 'medical', 'melodrama']",SBS
+"['thriller', 'comedy', 'law', 'romance']",SBS
+"['comedy', 'romance', 'drama', 'supernatural']",MBC every
+"['comedy', 'romance', 'life', 'drama']",KBS
+"['comedy', 'romance']",MBC
+"['romance', 'drama', 'melodrama']",SBS
+"['action', 'horror', 'drama', 'sci-fi']",Netflix
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['food', 'comedy', 'romance', 'life']",jTBC
+"['food', 'comedy', 'romance', 'life']", Viki
+"['comedy', 'romance', 'youth', 'fantasy']",Oksusu
+"['thriller', 'mystery', 'romance', 'supernatural']",XtvN
+"['action', 'comedy', 'romance']",MBC
+"['comedy', 'romance', 'life', 'drama']",KBS
+"['action', 'comedy', 'romance', 'drama']",MBC
+"['thriller', 'mystery', 'comedy', 'law']",SBS
+"['romance', 'drama', 'medical']",jTBC
+['historical'],KBS
+"['romance', 'drama']",SBS
+"['comedy', 'romance', 'drama', 'fantasy']",tvN
+"['thriller', 'horror', 'romance', 'fantasy']",tvN
+"['historical', 'horror', 'romance', 'fantasy']",tvN
+['drama'],SBS
+"['action', 'thriller', 'crime', 'drama']",SBS
+"['action', 'adventure', 'thriller', 'romance']",SBS
+"['action', 'mystery', 'comedy', 'drama']",OCN
+"['romance', 'drama']",MBN
+['historical'],KBS
+"['thriller', 'mystery']",OCN
+"['food', 'comedy', 'romance', 'life']",SBS
+"['romance', 'drama', 'melodrama']",SBS
+"['romance', 'drama', 'melodrama']",SBS
+"['romance', 'youth', 'drama', 'melodrama']",MBC
+"['comedy', 'romance', 'drama']",SBS
+"['comedy', 'romance', 'family', 'medical']",MBC
+"['romance', 'crime', 'melodrama']",SBS
+"['thriller', 'drama', 'melodrama']",Netflix
+"['romance', 'drama', 'family', 'sitcom']",TV Chosun
+"['drama', 'family', 'melodrama']",KBS
+"['business', 'drama', 'political']",MBC
+"['comedy', 'romance', 'melodrama', 'supernatural']",jTBC
+"['romance', 'drama', 'family', 'melodrama']",SBS
+"['action', 'historical', 'romance', 'drama']",KBS
+"['comedy', 'romance', 'drama', 'fantasy']",tvN
+"['action', 'thriller', 'mystery']",SBS
+"['romance', 'drama', 'family']",KBS
+"['thriller', 'mystery', 'horror', 'supernatural']",tvN
+"['historical', 'romance', 'melodrama', 'political']",tvN
+"['historical', 'drama', 'political']",KBS
+"['thriller', 'mystery', 'comedy', 'drama']",ENA
+"['mystery', 'law', 'crime', 'drama']",tvN
+"['comedy', 'romance', 'drama', 'medical']",SBS
+"['action', 'thriller', 'mystery', 'drama']",DRAMAcube
+"['action', 'thriller', 'mystery', 'drama']", ENA
+"['action', 'thriller', 'mystery', 'drama']", SBS
+"['action', 'thriller', 'mystery', 'drama']", SBS Plus
+"['drama', 'family']",jTBC
+"['historical', 'romance', 'drama', 'political']",MBC
+"['law', 'drama', 'melodrama']",jTBC
+"['law', 'drama', 'melodrama']", ViuTV
+"['mystery', 'drama', 'medical']",jTBC
+"['thriller', 'mystery', 'drama']",SBS
+"['thriller', 'mystery', 'drama']", SBS Plus
+"['business', 'comedy', 'romance', 'life']",Netflix
+"['comedy', 'romance', 'family']",SBS
+"['action', 'mystery', 'comedy', 'crime']",SBS
+"['action', 'thriller', 'mystery', 'drama']",DRAMAcube
+"['action', 'thriller', 'mystery', 'drama']", ENA
+"['action', 'thriller', 'mystery', 'drama']", SBS
+"['action', 'thriller', 'mystery', 'drama']", SBS Plus
+"['historical', 'mystery', 'comedy', 'romance']",MBC
+"['thriller', 'historical', 'romance', 'medical']",KBS
+"['action', 'thriller', 'psychological', 'romance']",tvN
+"['thriller', 'mystery', 'psychological', 'supernatural']",MBC
+"['comedy', 'romance', 'life', 'drama']",KBS
+"['thriller', 'mystery', 'horror', 'supernatural']",KBS
+"['thriller', 'drama', 'melodrama']",Netflix
+"['psychological', 'drama', 'fantasy', 'supernatural']",MBC
+"['psychological', 'drama', 'fantasy', 'supernatural']",MBC
+"['comedy', 'life', 'drama', 'family']",jTBC
+"['comedy', 'life', 'drama', 'family']", Netflix
+"['comedy', 'life', 'drama', 'family']", TVING
+"['action', 'thriller', 'mystery', 'drama']",jTBC
+"['law', 'romance', 'drama', 'political']",tvN
+['historical'],KBS
+"['historical', 'romance', 'drama']",KBS
+"['historical', 'romance', 'supernatural', 'war']",SBS
+"['mystery', 'romance', 'youth', 'supernatural']",Daum Kakao TV
+"['comedy', 'drama', 'political']",tvN
+"['business', 'comedy', 'romance']",MBC
+"['comedy', 'romance', 'family', 'melodrama']",TV Chosun
+"['action', 'thriller', 'mystery', 'law']",MBC
+"['thriller', 'mystery', 'horror', 'supernatural']",OCN
+"['comedy', 'romance', 'drama', 'melodrama']",SBS
+"['comedy', 'romance', 'drama', 'fantasy']",TVING
+"['comedy', 'romance', 'drama', 'fantasy']", tvN
+"['music', 'historical', 'romance', 'melodrama']",Netflix
+"['music', 'historical', 'romance', 'melodrama']", SBS
+"['comedy', 'romance', 'drama', 'fantasy']",tvN
+['music'],SBS Plus
+"['romance', 'drama', 'melodrama']",KBS
+"['romance', 'life', 'drama', 'melodrama']",jTBC
+"['romance', 'life', 'drama', 'melodrama']", Netflix
+"['historical', 'drama', 'political']",KBS
+"['action', 'thriller', 'psychological', 'romance']",tvN
+"['thriller', 'mystery', 'comedy']",tvN
+"['thriller', 'mystery', 'horror']",SBS
+"['military', 'comedy', 'romance', 'drama']",MBC
+"['historical', 'drama', 'political']",SBS
+['historical'],KBS
+"['historical', 'romance', 'drama', 'political']",MBC
+"['historical', 'romance', 'drama', 'political']", Viki
+"['historical', 'drama']",MBC
+"['business', 'comedy', 'romance', 'drama']",SBS
+"['thriller', 'mystery', 'drama']",TVING
+"['thriller', 'historical', 'drama', 'political']",KBS
+"['mystery', 'romance', 'drama', 'sci-fi']",Netflix
+"['mystery', 'romance', 'drama', 'sci-fi']", SBS
+"['historical', 'romance', 'drama']",KBS
+"['historical', 'romance', 'drama']", Netflix
+"['historical', 'romance', 'drama']",MBC
+"['historical', 'romance', 'drama', 'medical']",MBC
+"['action', 'thriller', 'historical', 'romance']",KBS
+"['comedy', 'romance', 'drama', 'fantasy']",tvN
+"['thriller', 'mystery', 'romance', 'drama']",jTBC
+"['action', 'thriller', 'mystery', 'romance']",SBS
+"['romance', 'youth', 'sports']",MBC
+"['comedy', 'law', 'romance']",KBS
+"['comedy', 'law', 'romance']", Viki
+"['comedy', 'law', 'romance']", ViuTV
+"['comedy', 'romance', 'drama', 'fantasy']",SBS
+"['comedy', 'romance', 'drama', 'fantasy']",SBS
+"['music', 'comedy', 'romance', 'youth']",tvN
+"['thriller', 'mystery', 'drama']",Netflix
+"['thriller', 'mystery', 'drama']", OCN
+"['romance', 'life', 'drama', 'melodrama']",jTBC
+"['romance', 'life', 'drama', 'melodrama']", Viki
+"['comedy', 'romance', 'life', 'youth']",Netflix
+"['comedy', 'romance', 'life']",Mnet
+"['action', 'comedy', 'romance', 'drama']",KBS
+"['food', 'mystery', 'drama', 'melodrama']",KBS
+"['historical', 'drama']",MBC
+"['historical', 'business', 'melodrama', 'political']",KBS
+"['comedy', 'romance', 'drama', 'supernatural']",Naver TV Cast
+"['comedy', 'romance', 'fantasy', 'melodrama']",KBS
+"['life', 'melodrama']",tvN
+"['music', 'romance', 'drama', 'melodrama']",SBS
+"['mystery', 'horror', 'youth', 'supernatural']",NA
+"['romance', 'drama', 'melodrama']",jTBC
+"['mystery', 'romance', 'drama', 'melodrama']",jTBC
+"['adventure', 'comedy', 'romance', 'life']",jTBC
+"['thriller', 'mystery', 'drama']",SBS
+"['action', 'historical', 'romance', 'political']",KBS
+"['comedy', 'romance', 'drama']",KBS
+"['romance', 'melodrama']",KBS
+"['business', 'comedy', 'romance', 'drama']",KBS
+"['youth', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['romance', 'drama', 'melodrama']", Netflix
+"['action', 'thriller', 'historical', 'romance']",MBC
+"['historical', 'romance', 'drama', 'melodrama']",MBC
+"['historical', 'romance', 'drama', 'melodrama']", Viki
+"['historical', 'drama']",KBS
+"['drama', 'family', 'melodrama']",SBS
+"['romance', 'drama', 'melodrama']",MBC
+"['romance', 'family']",KBS
+"['thriller', 'mystery', 'drama']",tvN
+"['action', 'historical', 'comedy', 'drama']",SBS
+"['mystery', 'law', 'drama']",OCN
+"['thriller', 'romance', 'drama', 'melodrama']",MBC
+"['historical', 'mystery', 'romance', 'fantasy']",MBC
+"['mystery', 'horror', 'comedy', 'supernatural']",Netflix
+"['romance', 'drama', 'melodrama']",MBC
+"['thriller', 'romance', 'drama']",MBC
+"['business', 'comedy', 'romance', 'drama']",SBS
+"['romance', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",SBS
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['historical', 'mystery', 'romance', 'drama']",SBS
+"['historical', 'mystery', 'romance', 'drama']", ViuTV
+"['thriller', 'mystery', 'horror', 'sci-fi']",Netflix
+"['thriller', 'drama', 'melodrama']",Netflix
+"['thriller', 'mystery', 'romance', 'drama']",tvN
+"['adventure', 'mystery', 'fantasy']",Naver TV Cast
+"['adventure', 'mystery', 'fantasy']", vLive
+"['music', 'psychological', 'drama', 'fantasy']",Netflix
+"['comedy', 'life', 'sitcom']",Naver TV Cast
+"['action', 'mystery', 'comedy', 'romance']",iQiyi
+"['action', 'mystery', 'comedy', 'romance']", MBC
+"['mystery', 'drama', 'melodrama']",SBS
+"['action', 'historical', 'comedy', 'romance']",KBS
+"['food', 'comedy', 'romance', 'drama']",jTBC
+"['comedy', 'life', 'drama', 'medical']",tvN
+"['action', 'adventure', 'historical', 'romance']",tvN
+"['comedy', 'romance', 'drama', 'fantasy']",MBN
+"['comedy', 'romance', 'drama', 'fantasy']", Viki
+"['comedy', 'romance', 'youth']",SBS
+"['comedy', 'romance', 'youth']",SBS
+"['action', 'mystery', 'drama', 'supernatural']",Netflix
+"['action', 'mystery', 'drama', 'supernatural']", OCN
+"['comedy', 'romance', 'life', 'drama']",SBS
+"['thriller', 'mystery', 'supernatural']",OCN
+"['action', 'thriller', 'mystery', 'crime']",MBC
+"['thriller', 'mystery', 'horror', 'supernatural']",SBS
+"['comedy', 'romance', 'drama', 'family']",KBS
+"['thriller', 'mystery', 'medical']",OCN
+"['comedy', 'romance', 'family']",tvN
+"['romance', 'drama', 'melodrama']",jTBC
+"['psychological', 'life', 'fantasy', 'supernatural']",TVING
+"['thriller', 'romance', 'drama', 'melodrama']",jTBC
+"['action', 'thriller', 'mystery', 'crime']",Disney
+"['action', 'thriller', 'mystery', 'crime']", Hulu
+"['romance', 'life', 'drama']",jTBC
+"['romance', 'life', 'drama']", Netflix
+"['romance', 'life', 'drama']",jTBC
+"['music', 'comedy', 'romance', 'supernatural']",Naver TV Cast
+"['comedy', 'romance', 'family']",KBS
+"['comedy', 'romance', 'drama', 'fantasy']",Naver TV Cast
+"['comedy', 'romance', 'drama', 'fantasy']",Naver TV Cast
+"['comedy', 'romance', 'drama', 'fantasy']",Naver TV Cast
+"['thriller', 'mystery', 'sci-fi']",OCN
+"['action', 'thriller', 'drama']",SBS
+"['comedy', 'sitcom']",MBC
+['drama'],SBS
+"['drama', 'family']",SBS
+"['thriller', 'mystery', 'drama']",SBS
+"['thriller', 'mystery', 'fantasy', 'political']",OCN
+['romance'],jTBC
+"['comedy', 'romance', 'drama', 'sports']",SBS
+"['business', 'comedy', 'life', 'drama']",SBS
+"['business', 'comedy', 'life', 'drama']", Viki
+"['business', 'comedy', 'life', 'drama']", ViuTV
+"['romance', 'drama']",SBS
+['romance'],SBS
+"['action', 'thriller', 'drama', 'fantasy']",MBC
+"['action', 'thriller', 'drama', 'fantasy']", Netflix
+"['romance', 'life', 'youth']",Naver TV Cast
+"['romance', 'drama', 'melodrama', 'supernatural']",tvN
+"['romance', 'life', 'drama', 'supernatural']",NA
+"['comedy', 'romance', 'drama']",tvN
+"['business', 'comedy', 'romance', 'drama']",Channel A
+"['business', 'comedy', 'romance', 'drama']", Viki
+"['comedy', 'law', 'romance', 'drama']",tvN
+"['action', 'thriller', 'mystery', 'drama']",MBC
+"['thriller', 'mystery', 'sci-fi']",OCN
+"['thriller', 'mystery', 'psychological', 'drama']",OCN
+"['historical', 'drama']",MBC
+"['action', 'business', 'romance', 'drama']",MBC
+['drama'],MBC
+"['comedy', 'romance', 'youth']",NA
+"['mystery', 'romance', 'melodrama', 'political']",Netflix
+"['mystery', 'romance', 'melodrama', 'political']", SBS
+"['comedy', 'romance', 'youth', 'drama']",tvN
+"['action', 'thriller', 'drama']",NA
+"['romance', 'life', 'melodrama']",Channel A
+"['romance', 'life', 'melodrama']", Viki
+"['romance', 'life', 'drama', 'melodrama']",Netflix
+"['romance', 'life', 'drama', 'melodrama']", tvN
+"['romance', 'drama', 'family', 'melodrama']",SBS
+"['mystery', 'comedy', 'romance', 'supernatural']",MBC
+"['romance', 'drama', 'family', 'melodrama']",KBS
+"['action', 'thriller', 'mystery', 'drama']",MBC
+"['action', 'thriller', 'mystery', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",SBS
+"['romance', 'drama', 'melodrama']",SBS
+"['business', 'romance', 'melodrama']",SBS
+"['comedy', 'romance', 'life']",tvN
+"['comedy', 'romance', 'drama']",KBS
+"['music', 'comedy', 'drama']",TV Chosun
+"['music', 'comedy', 'drama']", Viki
+"['action', 'mystery', 'comedy', 'supernatural']",Netflix
+"['action', 'mystery', 'comedy', 'supernatural']", OCN
+"['action', 'mystery', 'comedy', 'supernatural']", tvN
+"['comedy', 'romance', 'drama', 'melodrama']",KBS
+"['historical', 'comedy', 'drama', 'political']",Netflix
+"['historical', 'comedy', 'drama', 'political']", tvN
+"['action', 'thriller', 'mystery', 'crime']",jTBC
+"['comedy', 'romance', 'drama']",KBS
+"['drama', 'family', 'melodrama']",KBS
+"['thriller', 'mystery', 'comedy', 'fantasy']",ENA
+"['comedy', 'romance']",KBS
+['drama'],KBS
+"['action', 'thriller', 'mystery', 'business']",jTBC
+"['action', 'thriller', 'mystery', 'crime']",Netflix
+"['action', 'thriller', 'mystery', 'crime']", SBS
+"['comedy', 'drama', 'supernatural', 'sitcom']",MBN
+"['action', 'mystery', 'drama', 'supernatural']",OCN
+"['thriller', 'romance', 'drama', 'melodrama']",KBS
+"['action', 'thriller', 'psychological', 'crime']",Disney
+"['action', 'thriller', 'psychological', 'crime']", Hulu
+"['comedy', 'law', 'crime', 'drama']",Netflix
+"['comedy', 'law', 'crime', 'drama']", tvN
+"['thriller', 'mystery', 'psychological']",OCN
+"['thriller', 'comedy', 'romance', 'fantasy']",MBC
+"['comedy', 'romance', 'drama', 'family']",KBS
+"['food', 'romance', 'drama']",SBS
+"['mystery', 'drama', 'melodrama']",SBS
+"['business', 'romance']",SBS
+"['food', 'comedy', 'romance']",MBC
+"['action', 'historical', 'romance', 'martial arts']",SBS
+"['comedy', 'romance', 'drama']",jTBC
+"['comedy', 'romance', 'drama']", Netflix
+"['thriller', 'mystery', 'drama', 'political']",OCN
+"['romance', 'life', 'drama']",SBS
+"['action', 'youth', 'drama']",NA
+"['music', 'romance', 'youth']",Naver TV Cast
+"['romance', 'drama']",KBS
+"['comedy', 'romance', 'life', 'youth']",Oksusu
+"['comedy', 'romance', 'life', 'sports']",MBC
+"['romance', 'life', 'drama']",Daum Kakao TV
+"['romance', 'life', 'drama']", Netflix
+"['comedy', 'law', 'romance', 'fantasy']",MBC
+"['comedy', 'romance', 'drama', 'family']",SBS
+"['comedy', 'romance', 'life', 'drama']",jTBC
+"['comedy', 'romance', 'life', 'drama']", Viki
+"['comedy', 'romance', 'life', 'drama']",jTBC
+"['comedy', 'romance', 'life', 'drama']", Viki
+"['romance', 'life', 'drama']",Daum Kakao TV
+"['romance', 'life', 'drama']", Netflix
+"['historical', 'drama', 'political']",KBS
+"['comedy', 'romance', 'drama']",KBS
+['romance'],MBC
+"['comedy', 'romance', 'life']",MBC
+"['comedy', 'romance', 'life']",MBC
+"['business', 'comedy', 'romance']",tvN
+"['romance', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",MBC
+"['romance', 'life', 'drama', 'family']",tvN
+"['thriller', 'comedy', 'romance', 'drama']",KBS
+"['thriller', 'comedy', 'romance', 'drama']", Netflix
+"['music', 'comedy', 'drama', 'fantasy']",tvN
+"['romance', 'life', 'drama', 'melodrama']",jTBC
+"['romance', 'life', 'drama', 'melodrama']", Viki
+['romance'],jTBC
+"['comedy', 'romance', 'fantasy', 'melodrama']",SBS
+"['comedy', 'romance', 'fantasy', 'melodrama']", Viki
+"['romance', 'youth', 'drama', 'melodrama']",Viki
+"['comedy', 'romance', 'life', 'drama']",MBC
+"['romance', 'drama', 'melodrama']",SBS
+"['thriller', 'law', 'romance', 'drama']",SBS
+"['romance', 'family']",MBC
+"['action', 'drama']",SBS
+"['mystery', 'horror', 'romance', 'supernatural']",tvN
+"['mystery', 'law', 'romance', 'melodrama']",SBS
+"['mystery', 'law', 'romance', 'melodrama']", Viki
+"['mystery', 'law', 'romance', 'melodrama']", ViuTV
+"['romance', 'life', 'drama']",SBS
+"['comedy', 'romance', 'sports']",KBS
+"['mystery', 'law', 'drama']",KBS
+['action'],NA
+"['business', 'comedy', 'romance']",tvN
+"['food', 'comedy', 'romance', 'drama']",SBS
+"['thriller', 'romance', 'drama', 'melodrama']",KBS
+"['thriller', 'mystery', 'drama']",KBS
+['romance'],MBC
+"['law', 'drama', 'melodrama']",MBC
+"['romance', 'drama', 'melodrama']",KBS
+"['romance', 'drama']",KBS
+"['comedy', 'romance', 'drama', 'melodrama']",MBC
+"['romance', 'drama', 'family', 'melodrama']",SBS
+"['comedy', 'romance', 'drama', 'melodrama']",SBS
+"['comedy', 'life', 'drama']",TVING
+['romance'],SBS
+"['comedy', 'drama', 'family', 'melodrama']",MBC
+"['romance', 'youth', 'drama', 'family']",MBC
+"['business', 'romance', 'life', 'drama']",MBC
+"['business', 'romance', 'life', 'drama']", Naver TV Cast
+"['business', 'romance', 'life', 'drama']", vLive
+['historical'],SBS
+"['comedy', 'life']",MBN
+"['music', 'business', 'comedy']",Netflix
+"['life', 'drama', 'sci-fi', 'melodrama']",TVING
+"['action', 'romance', 'drama', 'medical']",SBS
+"['drama', 'melodrama']",MBC
+"['romance', 'drama', 'melodrama']",SBS
+"['business', 'comedy', 'romance', 'drama']",MBC
+"['thriller', 'mystery', 'romance', 'drama']",Netflix
+"['thriller', 'mystery', 'romance', 'drama']", tvN
+"['comedy', 'romance', 'drama', 'family']",KBS
+"['romance', 'drama', 'family', 'melodrama']",MBC
+"['romance', 'drama', 'family']",KBS
+"['music', 'drama', 'family', 'melodrama']",MBC
+"['romance', 'drama']",SBS
+"['comedy', 'romance', 'life', 'drama']",OCN
+"['action', 'mystery', 'comedy', 'drama']",SBS
+"['music', 'comedy', 'romance', 'drama']",SBS
+"['romance', 'drama', 'family']",SBS
+"['comedy', 'romance', 'family', 'melodrama']",KBS
+N/A,ENA
+"['comedy', 'romance', 'life']",KBS
+"['romance', 'drama', 'family', 'melodrama']",SBS
+"['mystery', 'comedy', 'romance', 'family']",jTBC
+"['music', 'life', 'youth', 'drama']",NA
+"['romance', 'youth', 'drama', 'melodrama']",KBS
+"['comedy', 'romance', 'life']",TVING
+"['thriller', 'mystery', 'comedy', 'fantasy']",KBS

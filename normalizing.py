@@ -12,7 +12,7 @@ tags_table=[]
 networks_table=[]
 
 
-with open('kdramalist.csv',newline='', encoding='utf-8') as csv_file:
+with open('Webscraping/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     for i in csv_reader:
 
@@ -55,18 +55,22 @@ with open('kdramalist.csv',newline='', encoding='utf-8') as csv_file:
         #main_descriptors
 
         #format start airing date for easy transformation
-        start_airing='-'.join(i[5].replace(',',' ').split(' '))
+        if "," in i[4]:
+            start_airing='-'.join([i[4][5:7],i[4][1:4],i[4][len(i[4])-2:len(i[4])]])
+        else:
+            start_airing=i[4]
         #removing redudancy attributes country and favorites
-        descr=[i[0],i[3],i[4],i[5],i[8],i[9],i[10],i[11],i[12],i[13],i[14]]
+        descr=[i[0],i[3],start_airing,i[5],i[8],i[9],i[10],i[11],i[12],i[13],i[14]]
         main_descriptors_table.append(descr)
 
         #imdb
-        imdb_rating=re.findall("\d+\.?\d*",i[17])
-        if len(imdb_rating)!=0:
-            imdb_part=[i[0],imdb_rating[0],i[18],i[19]]
-        else:
-            imdb_part=[i[0],i[17],i[18],i[19]]
-        imdb_table.append(imdb_part)
+        if i[17]!='N/A' or i[18]!='N/A' or i[19]!='N/A':
+            imdb_rating=re.findall("\d+\.?\d*",i[17])
+            if len(imdb_rating)!=0:
+                imdb_part=[i[0],imdb_rating[0],i[18],i[19]]
+            else:
+                imdb_part=[i[0],i[17],i[18],i[19]]
+            imdb_table.append(imdb_part)
         
     #defining headers for each table
     cols_main=['Kdrama_name','Episodes','start airing','end airing', 'Duration', 'score', 'scored by','Ranked',
@@ -83,32 +87,32 @@ with open('kdramalist.csv',newline='', encoding='utf-8') as csv_file:
 
     #main descriptors
     df_main = pd.DataFrame(main_descriptors_table[1:], columns=cols_main)
-    df_main.to_csv("normalized_tables/main_descriptors.csv", encoding='utf-8', index=False)
+    df_main.to_csv("data/normalized_tables/main_descriptors.csv", encoding='utf-8', index=False)
 
     #imdb
     df_imdb = pd.DataFrame(imdb_table[1:], columns=cols_imdb)
-    df_imdb.to_csv("normalized_tables/imdb.csv", encoding='utf-8', index=False)
+    df_imdb.to_csv("data/normalized_tables/imdb.csv", encoding='utf-8', index=False)
 
     #original_networks
     df_networks = pd.DataFrame(networks_table[1:], columns=cols_networks)
-    df_networks.to_csv("normalized_tables/networks.csv", encoding='utf-8', index=False)
+    df_networks.to_csv("data/normalized_tables/networks.csv", encoding='utf-8', index=False)
     #aired
     df_aired = pd.DataFrame(aired_table[1:], columns=cols_aired)
-    df_aired.to_csv("normalized_tables/aired_on.csv", encoding='utf-8', index=False)
+    df_aired.to_csv("data/normalized_tables/aired_on.csv", encoding='utf-8', index=False)
 
     #platforms
     df_plat = pd.DataFrame(platforms_table[1:], columns=cols_platforms)
-    df_plat.to_csv("normalized_tables/platforms.csv", encoding='utf-8', index=False)
+    df_plat.to_csv("data/normalized_tables/platforms.csv", encoding='utf-8', index=False)
 
     #actors
     df_actors = pd.DataFrame(actors_table[1:], columns=cols_actors)
-    df_actors.to_csv("normalized_tables/actors.csv", index=False)
+    df_actors.to_csv("data/normalized_tables/actors.csv", index=False)
 
     #genres
     df_genres = pd.DataFrame(genres_table[1:], columns=cols_genre)
-    df_genres.to_csv("normalized_tables/genres.csv", encoding='utf-8', index=False)
+    df_genres.to_csv("data/normalized_tables/genres.csv", encoding='utf-8', index=False)
 
     #tags
     df_tags = pd.DataFrame(tags_table[1:], columns=cols_tags)
-    df_tags.to_csv("normalized_tables/tags.csv", encoding='utf-8', index=False)
+    df_tags.to_csv("data/normalized_tables/tags.csv", encoding='utf-8', index=False)
         

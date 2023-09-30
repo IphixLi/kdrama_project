@@ -6,7 +6,7 @@ from kdramas import get_wikilinks
 #obtain korean dramalist from wikipedia
 wikilinks=get_wikilinks()
 dramas=wikilinks.keys()
-links=wikilinks.values()
+#links=wikilinks.values()
 
 
 
@@ -114,13 +114,14 @@ def get_dramalist(dramalist):
           
             if len(descr)>0 and 'Country' in descr.keys() :
                 dramas[movie]=descr
-                #print(dramas[movie])
+                #print(movie)
     return (dramas,other_names)
 
 if __name__=="__main__":
     
     test=['Live On','The Greatest Marriage',"It's Okay to Not Be Okay"]
-    a=get_dramalist(test)[0].items()
+    a=get_dramalist(dramas)
+    #a=get_dramalist(test)[0].items()
 
 
 
