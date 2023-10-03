@@ -1,16 +1,28 @@
 import csv
 import re
 import json
+from datetime import datetime
 
 
-data={}
+data=[]
+def change_type(input_str,type):
+    try:
+        if type=="float":
+            value = float(input_str)
+        elif type=="int":
+            value = int(input_str)
+        elif type=="date":
+            value = str(datetime.strptime(input_str, "%b %d, %Y"))
+        return value
+    except (ValueError, TypeError):
+        return None
+    
 with open('data/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     next(csv_reader)
-    j=1
     for i in csv_reader:
             values={}
-            values['drama_name']=i[17]
+            values['kdrama_name']=i[17]
             #genres
             genres_part=i[0].split(",")
             genres_part=[re.sub('[^A-Za-z ]','',g) for g in genres_part]
@@ -25,10 +37,10 @@ with open('data/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
 
             #start airing
             if "," in i[4]:
-                start_airing='-'.join([i[4][5:7],i[4][1:4],i[4][len(i[4])-2:len(i[4])]])
+                start_airing='-'.join([i[4][4:7],i[4][:4],i[4][len(i[4])-2:len(i[4])]])
             else:
                 start_airing=i[4]
-            values['start_airing']=start_airing
+            values['start_airing']=i[4]
 
             values['end_airing']=i[5]
 
@@ -63,8 +75,15 @@ with open('data/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
             values['imdb_rating']=i[18]
             values['imdb_users']=i[19]
             values['imdb_description']=i[20]
-            data[str(j)]=values
-            j+=1
+            for col in ["score","imdb_rating"]:
+                values[col]=re.sub(r',', '',str(values[col]))
+                values[col] = change_type(values[col],"float")
+            for col in ["episodes","duration","score","scored_by","ranked","popularity","watchers","imdb_users"]:
+                values[col]=re.sub(r',', '',str(values[col]))
+                values[col] = change_type(values[col],"int")
+            for col in ["start_airing","end_airing"]:
+                values[col]=change_type(values[col],"date")
+            data.append(values)
     print(len(data))
     csv_file.close() 
 jsonfile = open("data/jsonfile.json", "w")

@@ -12,7 +12,7 @@ def get_imdb_ratings():
 
         x=soup.findAll(class_='lister-item-content')
         for i in x:
-            movie_link=i.find('a')['href']
+            movie_link=i.find('a')['href'].split("?")[0]
             title=i.find('a',href=True,title=False).get_text()
             if i.find(class_='rating-list')==None:
                 continue
@@ -23,16 +23,22 @@ def get_imdb_ratings():
                     rating=temp[0]
                 votes=i.find(class_='rating-list')['title'].split("(")[1].split(")")[0][:-6]
                 description=""
-                link=requests.get("https://www.imdb.com"+movie_link+"plotsummary?ref_=tt_ov_pl")
-                moviesoup=BeautifulSoup(link.content.decode('utf-8', 'ignore'),"html.parser")
-                u=moviesoup.find('li',class_='ipl-zebra-list__item')
+                link="https://www.imdb.com"+movie_link+"plotsummary?ref_=tt_ov_pl"
+                #print(link)
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+                }
+
+                link_res = requests.get(link, headers=headers)
+                moviesoup=BeautifulSoup(link_res.content.decode('utf-8', 'ignore'),"html.parser")
+                u = moviesoup.find('div',class_="ipc-html-content-inner-div")
                 if u!=None:
                     if "It looks like we don't have any Plot Summaries for this title yet" in u.get_text().strip():
                         description='N/A'
                     else:
                         description=u.get_text().strip()
                 ratings[title.strip()]=(rating,votes,description)
-                print((title.strip(),description))
+                #print((title.strip(),description))
                 #print(description)
                 
         next_page=soup.find(class_='lister-page-next')

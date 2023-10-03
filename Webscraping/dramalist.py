@@ -1,10 +1,10 @@
 from bs4 import BeautifulSoup
 import re
 import requests
-from kdramas import get_wikilinks
+import kdramas
 
 #obtain korean dramalist from wikipedia
-wikilinks=get_wikilinks()
+wikilinks=kdramas.get_wikilinks()
 dramas=wikilinks.keys()
 #links=wikilinks.values()
 

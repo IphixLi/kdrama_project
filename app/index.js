@@ -1,80 +1,138 @@
-function test() {
-    const fs = require('fs');
-    let rawdata = fs.readFileSync('jsonfile.json');
-    let posts = JSON.parse(rawdata);
-    for ( var [key, value] of Object.entries(posts)){
-        console.log(key)
+function parseDate(dateString) {
+    try{
+        const [datePart, timePart] = dateString.split(' ');
+        const [year, month, day] = datePart.split('-');
+        const [hour, minute, second] = timePart.split(':');
+        return new Date(year, month - 1, day, hour, minute, second);
+    } catch {
+        return null
+        
     }
-};
-
-var categories=["name","genre", "tags", "episodes", "start_airing", "end_airing", "aired_on",
-    "original_network", "duration","score","scored_by","ranked","popularity",
-    "content_rating", "watchers", "actors", "platforms", "imdb_rating", "imdb_users",
-    "imdb_description"]
-
-function createtags(categories, tagSelector) {
-    let tagsholder = document.querySelector(tagSelector);
-    if (tagsholder) {
-            html = `
-            <th class="category">${categories[0]}</th>
-            <th class="category">${categories[1]}</th>
-            <th class="category">${categories[2]}</th>
-            <th class="category">${categories[3]}</th>
-            <th class="category">${categories[4]}</th>
-            <th class="category">${categories[5]}</th>
-            <th class="category">${categories[6]}</th>
-            <th class="category">${categories[7]}</th>
-            <th class="category">${categories[8]}</th>
-            <th class="category">${categories[9]}</th>
-            <th class="category">${categories[10]}</th>
-            <th class="category">${categories[11]}</th>
-            <th class="category">${categories[12]}</th>
-            <th class="category">${categories[13]}</th>
-            <th class="category">${categories[14]}</th>
-            <th class="category">${categories[15]}</th>
-            <th class="category">${categories[16]}</th>
-            <th class="category">${categories[17]}</th>
-            <th class="category">${categories[18]}</th>
-            <th class="category">${categories[19]}</th>
-        `
-    let container = document.createElement("tr");
-    container.className = "header";
-    container.innerHTML = html;
-    tagsholder.append(container);
     }
+
+
+
+// Function to compare rows based on column values
+function compareRows(a, b, columnIndex) {
+    const aValue = a.children[columnIndex].textContent;
+    const bValue = b.children[columnIndex].textContent;
+
+    // Handle null values by placing them at the bottom
+    if (aValue === null || aValue === '') return 1;
+    if (bValue === null || bValue === '') return -1;
+
+    // Parse the date strings into Date objects
+    const dateA = parseDate(aValue);
+    const dateB = parseDate(bValue);
+
+    // Check if the parsing was successful
+    if (!isNaN(dateA) && !isNaN(dateB)) {
+        // Compare the parsed dates
+        if (dateA < dateB) return -1;
+        if (dateA > dateB) return 1;
+        return 0; // Dates are equal
+    }
+
+    // If parsing fails or values are not valid dates, compare them as strings
+    return aValue.localeCompare(bValue, undefined, { numeric: true });
 }
 
-function alldrama(data,tagSelector) {
-    let holder = document.querySelector(tagSelector);
-    for (var [key, value] of Object.entries(data)) {
-        key_html = `
-        <td class="category">${key}</td>
-        <td class="category">${value.genre}</td>
-        <td class="category">${value.tags}</td>
-        <td class="category">${value.episodes}</td>
-        <td class="category">${value.start_airing}</td>
-        <td class="category">${value.end_airing}</td>
-        <td class="category">${value.aired_on}</td>
-        <td class="category">${value.original_network}</td>
-        <td class="category">${value.duration}</td>
-        <td class="category">${value.score}</td>
-        <td class="category">${value.scored_by}</td>
-        <td class="category">${value.ranked}</td>
-        <td class="category">${value.popularity}</td>
-        <td class="category">${value.content_rating}</td>
-        <td class="category">${value.watchers}</td>
-        <td class="category">${value.actors}</td>
-        <td class="category">${value.platforms}</td>
-        <td class="category">${value.imdb_rating}</td>
-        <td class="category">${value.imdb_users}</td>
-        <td class="category">${value.imdb_description}</td>`
-        let keycontainer = document.createElement("tr");
-        keycontainer.className = "tags";
-        keycontainer.innerHTML = key_html;
-        holder.append(keycontainer);
+    // Function to sort the table rows
+    function sortTable(table, headers, columnIndex) {
+        // Toggle sorting direction (asc or desc)
+        const currentDirection = headers[columnIndex].getAttribute('data-direction');
+        const newDirection = currentDirection === 'asc' ? 'desc' : 'asc';
+
+        // Update data-direction attribute for all headers
+        for (let i = 0; i < headers.length; i++) {
+            headers[i].removeAttribute('data-direction');
         }
-}
-   
+        headers[columnIndex].setAttribute('data-direction', newDirection);
 
+        // Select the tbody element
+        const tbody = table.querySelector('tbody');
 
+        // Select the table rows from the tbody
+        const rows = Array.from(tbody.querySelectorAll('tr'));
+
+        // Sort the rows
+        rows.sort((a, b) => {
+            return compareRows(a, b, columnIndex) * (newDirection === 'asc' ? 1 : -1);
+        });
+
+        // Clear the tbody
+        tbody.innerHTML = '';
+
+        // Append the sorted rows back to the tbody
+        rows.forEach(row => {
+            tbody.appendChild(row);
+        });
+    }
+
+    function display(selected_cols, initial = true) {
+        // Fetch data from the server
+        fetch('../data/jsonfile.json')
+            .then(response => response.json())
+            .then(data => {
+                // Get the table element
+                const table = document.getElementById('table');
+
+                // Create a <thead> element if it doesn't exist
+                const thead = table.querySelector('thead');
+                if (!thead) {
+                    thead = document.createElement('thead');
+                    table.appendChild(thead);
+                }
+
+                // Create a <tbody> element if it doesn't exist
+                let tbody = table.querySelector('tbody');
+                if (!tbody) {
+                    tbody = document.createElement('tbody');
+                    table.appendChild(tbody);
+                }
+
+                // Define the selected columns
+                if (initial == true) {
+                    var selectedCols = Object.keys(data[0]);
+                } else {
+                    var selectedCols = selected_cols;
+                }
+
+                // Create the table header row
+                const headerRow = document.createElement('tr');
+                headerRow.innerHTML = '<th>#</th>';
+                selectedCols.forEach(col => {
+                    headerRow.innerHTML += `<th id=${col}>${col}</th>`;
+                });
+                thead.appendChild(headerRow);
+
+                // Loop through the data and create table rows with selected columns
+                data.forEach((item, index) => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `<th scope="row">${index + 1}</th>`;
+                    selectedCols.forEach(col => {
+                        row.innerHTML += `<td>${item[col]}</td>`;
+                    });
+                    tbody.appendChild(row);
+                });
+
+                // Select the table headers after they are created
+                const headers = thead.getElementsByTagName('th');
+
+                // Add click event listeners to column headers for sorting
+                for (let i = 0; i < headers.length; i++) {
+                    headers[i].addEventListener('click', () => {
+                        sortTable(table, headers, i);
+                    });
+                }
+            })
+            .catch(error => console.error('Error fetching data: ', error));
+    }
+
+    const selectedCols = [
+        "kdrama_name", "actors", "tags", "episodes", "start_airing", "end_airing", "duration",
+        "score", "scored_by", "ranked", "popularity", "content_rating"
+    ];
+
+    display(selectedCols, initial = true);
 

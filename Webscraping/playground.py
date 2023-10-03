@@ -38,4 +38,51 @@ if __name__=="__main__":
 
 
 
-        
+        async function get_data() {
+    try {
+        const response = await fetch('../data/jsonfile.json');
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error fetching data:', error);
+        return null;
+    }
+}
+
+async function display() {
+    try {
+        const tableBody = document.getElementById("table");
+        const data = await get_data(); // Wait for data to be fetched
+        console.log(data);
+        const items = Object.keys(data);
+        console.log(items);
+
+        // Create table header
+        const headerRow = document.createElement('tr');
+        items.forEach(item => {
+            const th = document.createElement('th');
+            th.textContent = item;
+            headerRow.appendChild(th);
+        });
+        tableBody.appendChild(headerRow);
+
+        // Loop through the data and create table rows
+        for (const row_val of Object.values(data)) {
+            const row = document.createElement('tr');
+            items.forEach(item => {
+                const td = document.createElement('td');
+                td.textContent = row_val[item];
+                row.appendChild(td);
+            });
+            tableBody.appendChild(row);
+        }
+    } catch (error) {
+        console.error('Error displaying data:', error);
+    }
+}
+
+// Call the display function
+display();

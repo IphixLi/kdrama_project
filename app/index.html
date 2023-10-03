@@ -3,38 +3,22 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="index.css">
-    <script src="index.js"></script>
     <title>KDRAMA list</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   </head>
   <body>
     <div class="title">KDRAMA LIST</div>
-    <div class="description">Description</div>
-    <div class="filters">
-        <div id="genre">
-        <button class="filter" onclick="expand('#genre')">genre</button>
-        </div>
-        <button class="filter" onclick="expand()">tags</button>
-        <button class="filter" onclick="expand()">episodes</button>
-        <button class="filter" onclick="expand()">start_airing</button>
-        <button class="filter">end_airing</button>
-        <button class="filter">original_network</button>
-        <button class="filter">duration</button>
-        <button class="filter">score</button>
-        <button class="filter">scored_by</button>
-        <button class="filter">ranked</button>
-        <button class="filter">popularity</button>
-        <button class="filter">content_rating</button>
-        <button class="filter">watchers</button>
-        <button class="filter">actors</button>
-        <button class="filter">platforms</button>
-        <button class="filter">imdb_rating</button>
-    </div>
+    
     <table id="table">
+      <thead>
+        <!-- Table header row will be added here -->
+    </thead>
+    <tbody>
+        <!-- Table data rows will be added here -->
+    </tbody>
     </table>
+  <script src="index.js"></script>
   </body>
-  <script type="text/javascript" src="jsonfile.json"></script>
-  <script type="text/javascript" src="javascript.js">
-  createtags(categories,"#table")
-  alldrama(data,"#table")
-  </script>
+    <!-- Include your JavaScript file and call the function -->
 </html>
