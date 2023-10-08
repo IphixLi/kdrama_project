@@ -12,7 +12,10 @@ def change_type(input_str,type):
         elif type=="int":
             value = int(input_str)
         elif type=="date":
-            value = str(datetime.strptime(input_str, "%b %d, %Y"))
+            temp = datetime.strptime(input_str, "%b %d, %Y")
+            value = int(temp.year)
+            if value<1500:
+                value=None
         return value
     except (ValueError, TypeError):
         return None
@@ -56,7 +59,6 @@ with open('data/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
 
 
             values['duration']=i[8]
-            values['score']=i[9]
             values['scored_by']=i[10]
             values['ranked']=i[11]
             values['popularity']=i[12]
@@ -75,10 +77,10 @@ with open('data/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
             values['imdb_rating']=i[18]
             values['imdb_users']=i[19]
             values['imdb_description']=i[20]
-            for col in ["score","imdb_rating"]:
+            for col in ["imdb_rating"]:
                 values[col]=re.sub(r',', '',str(values[col]))
                 values[col] = change_type(values[col],"float")
-            for col in ["episodes","duration","score","scored_by","ranked","popularity","watchers","imdb_users"]:
+            for col in ["episodes","duration","scored_by","ranked","popularity","watchers","imdb_users"]:
                 values[col]=re.sub(r',', '',str(values[col]))
                 values[col] = change_type(values[col],"int")
             for col in ["start_airing","end_airing"]:

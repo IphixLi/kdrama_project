@@ -150,3 +150,11 @@ with open('data/kdramalist.csv',newline='', encoding='utf-8') as csv_file:
     # Commit changes and close the connection
     conn.commit()
     conn.close()
+
+    #parameter
+    def playNote(intensity):
+        print(intensity)
+        
+    #no parameter  
+    def playNotep():
+        print(50)

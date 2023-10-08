@@ -1,15 +1,17 @@
-.category{
+.category {
     background-color: green;
-    width:120px;
-    height:40px;
-    font-size:15px;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
 }
 
 
 table {
     width: 100%;
-    border-collapse: collapse; /* Merge table borders */
-    overflow:scroll;
+    border-collapse: collapse;
+    /* Merge table borders */
+    overflow: scroll;
+    overflow-x: auto;
 }
 
 th {
@@ -18,14 +20,20 @@ th {
     text-align: left;
     padding: 10px;
 }
+
 th:hover {
     background-color: #f2f2f25a;
 }
+
 td {
     border: 1px solid #ddd;
     padding: 8px;
 }
 
+tr{
+    height: 50px;
+    min-width: 50px;
+}
 tr:nth-child(even) {
     background-color: #f2f2f2;
 }
@@ -38,3 +46,132 @@ tr.first-row {
     border-top: 2px solid #000;
 }
 
+
+
+/* Your CSS styles here */
+/* Styles for the modal (floating list) */
+.modal {
+    display: none;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 800px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#modal-content {
+    background-color: #fff;
+    margin: 10%;
+    padding: 20px;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    gap:10px;
+    justify-content: center;
+    position:relative;
+    z-index: 1;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+
+#modal-content::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+
+  /* Style to hide the scrollbars in WebKit-based browsers */
+#modal-content {
+    scrollbar-width: none;
+  }
+
+#modal-content label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.col-selection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.range-input {
+    width: 80px;
+    padding: 5px;
+  }
+
+  .slider-container{
+    display:flex;
+    flex-direction: row;
+    gap: 20px; 
+}
+
+
+.col-selection {
+    flex-grow: 0;
+    width: 100%;
+    padding:10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    vertical-align: middle;
+    background-color: rgb(201, 170, 201);
+}
+
+
+.dropdown-wrapper {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+  }
+.dropdown-container {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    height:30px;
+    width:200px;
+    align-items: center;
+    text-align: center;
+    min-width: 200px;
+    background-color: blue;
+  }
+
+  .dropdown-list {
+    display: none; /* Initially visible */
+    width:200px;
+    position: relative;
+    background-color: rgb(255, 127, 187);
+    border: 1px solid #ccc;
+    max-height: 400px;
+    overflow-y: scroll;
+    transition: max-height 0.3s ease-in-out; /* Add smooth animation */
+  }
+
+.dropdown-item {
+    padding: 5px;
+    background-color: rgb(210, 127, 255);
+    cursor: pointer;
+  }
+
+
+  .selected-items{
+    display: flex; /* Initially visible */
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:3px;
+    margin:10px;
+    position: relative;
+    background-color: none;
+    max-width: 250px;
+  }
+
+  .select-item{
+    background-color: rgb(145, 62, 140);
+    border-radius: 10px;
+    color: white;
+
+  }
