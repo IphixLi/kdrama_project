@@ -1,6 +1,27 @@
 // document.addEventListener('DOMContentLoaded', function () {
 var unique_selections = {}
 var filter_selections = {}
+const DESCR = {
+    "kdrama_name": " Name of a Korean Drama",
+    "genre":"Genre of a Korean Drama",
+    "tags": "Tags associated with a Korean drama",
+    "episodes": "episodes in Korean drama",
+    "start_airing": "The year the Korean drama started to be shown in",
+    "end_airing": "The year the Korean drama ended to be shown in",
+    "aired_on": "The day the Korean drama was first aired on",
+    "original_network": "The platform the Korean drama was first aired on",
+    "duration": "How long the Korean drama lasts",
+    "scored_by": "How many people scored the korean drama on kdramalist website",
+    "ranked": "How the korean drama on kdramalist website was scored",
+    "popularity": "",
+    "content_rating": "",
+    "watchers": "",
+    "actors": "",
+    "platforms": "",
+    "imdb_rating": "",
+    "imdb_users": "",
+    "imdb_description":""
+}
 
 function parseDate(dateString) {
     try {
